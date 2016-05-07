@@ -1,0 +1,90 @@
+[
+    {
+      "title": "Parsing JSON file to create custom HTML",
+      "description": "Learn the easiest way to parse JSON into HTML",
+      "imageUrl": "https://lh3.googleusercontent.com/yspLZijZH9NAlb-ASuUi5xSfT2Ma7LeoZJdyr6wDN28gcHx1B0PgoUlQD4lMl0X2_xTvdmRe=w914-h509-no",
+      "gist": "Ahhh!! My First post in the interWebs. Let's see....",
+      "data": [
+                {
+                  "p": {"text": "Ahhh!! My First post in the interWebs. Let's see...."}
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                  "p": {"text": "I won't bore you off with a long introduction about me. Let just get right to the business. so, recently, I started a personal project of mine. It had a blog section in it and I wanted to update the blogs constantly but (Here's the big catch), without touching the production code."}
+                },
+                {
+                  "p": {"text": "so, I took this challenge and here's the result of it. I broke the html into it's constituent elements and decided to put them into a JSON file structure like one example shown below."}
+                },
+                {
+                  "pre": {
+                    "text": "{'Data':[\n\t{'p':{'text':'Lorem Ipsum 5 Lorem Ipsum Lorem Ipsum'}},\n\t{'a':{'text':'link','attr':{'href':'#/','target':'_blank'}}},\n\t{'p':{'text':'Lorem Ipsum 5 Lorem Ipsum Lorem Ipsum'}},\n\t{'img':{'text':'','attr':{'src':'imagesFolder/DV.png','style':'width: 100%'}}},\n\t{'pre':{'text':'yo wahs','attr':{'align':'center','style':'width: 280px; text-align: center'}}}\n\t]\n}",
+                    "attr": {"align": "left", "style": "width: 80%; height: 100%; background-color: black; color: white"}
+                  }
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                  "p": {"text": "'Data' is the key here(No pun intended) and it's value is essentially the whole blog itself, broken into html tags and the content which will eventually be associated with those tags. Next step was to decide where to get the JSON data from (As it's not residing in my server). I choose dropbox for that and put the JSON file in the main folder of dropbox. With a little effort, I was able to read the file from dropbox with some AngularJS's $http magic. Hence, I was able to fetch the data into the blog controller. Now, comes some more fun stuff."}
+                },
+                {
+                  "pre": {
+                    "text": "var html = $scope.Post.data;\nfor (var key in html) {\n\tif (html.hasOwnProperty(key)) {\n\t\tfor(var val in html[key]) {\n\t\t\tvar node = document.createElement(val);\n\t\t\tvar textnode = document.createTextNode(html[key][val].text);\n\t\t\tif(html[key][val].hasOwnProperty('attr')){\n\t\t\t\tfor(var prop in html[key][val].attr){\n\t\t\t\t\tnode.setAttribute(prop, html[key][val].attr[prop]);\n\t\t\t\t}\n\t\t\t}\n\t\tnode.appendChild(textnode);\n\t\tdocument.getElementById('substance').appendChild(node);\n\t\t}\n\t}\n}",
+                    "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                    }
+                  }
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                  "p": {"text": "With this ridiculously simple but not so elegant looking code(mentioned above), I was able to extract the data from the JSON file and present the data in an HTML format. It worked like a charm and that was the first attempt at making it all work. To give you the proof of concept, I'd like to point out that this blog application is actually running because of the above mentioned snippets and utilizing the JSON data pulled from my dropbox in order to create these blogs."}
+                },
+                {
+                  "p": {"text": "Well, this all works but does it really!!?? As soon as I finished writing the blog App, I realized that these nested for loops are essentially doing what a Depth First Search travesal(D.F.S.) would do and I'm currently working to make it smart by taking a DFS approach for putting the HTML elements in their respective positions and eventually, creating a DOM tree out of these JSON tags. This DOM tree can then easily be attached to the existing HTML. I'll probably update this post once I complete integration of the new idea. Till then, Adios."}
+                },
+                {
+                  "p": {"text": "P.S. For those who are thinking, 'Why didn't I use MongoDB?'. Well, I can easily do all this with Databases but this Single Page Application is deployed on Heroku and in order to create a DB instance, I would have to purchase the subscription. I find no shame in telling that this Single Page Application is free of cost and I don't wish to spend money on it right now."}
+                }
+              ]
+    },
+    {
+      "title": "Single Page Application with Full-Stack in less than an Hour",
+      "description": "Learn How I made this Single Page App in quickest possible way",
+      "imageUrl": "https://material.angularjs.org/latest/img/washedout.png",
+      "gist": "In Progress....",
+      "data": [
+        {
+          "p": {"text": "In Progress...."}
+        }
+      ]
+    },
+    {
+      "title": "Home Security with Raspberry Pi 2 and simple sensors",
+      "description": "Learn How to secure your home with this simple Rpi2 hack",
+      "imageUrl": "http://www.modmypi.com/image/cache/data/rpi-products/raspberry-pi-2-model-b/rpi-2-model-b_5-800x609.jpg",
+      "gist": "In Progress....",
+      "data": [
+        {
+          "p": {"text": "In Progress...."}
+        }
+      ]
+    },
+    {
+      "title": "Data Analysis for Industrial IoT project using MTConnect for MTConnect Challenge",
+      "description": "An Application challege that I took for making a web App for utilizing power of MTConnect",
+      "imageUrl": "http://www.mmsonline.com/cdn/cms/mtconnectblog.jpg",
+      "gist": "In Progress....",
+      "data": [
+        {
+          "p": {"text": "In Progress...."}
+        }
+      ]
+    }
+
+]
+
