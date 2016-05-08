@@ -76,10 +76,19 @@
             "p": {"text": "Make sure you have these versions or higher installed for node and npm on your system. If everything looks good, then proceed with installing a bunch of goodies."}
         },
         {
-            "p": {"text": "1) grunt-cli - Grunt will help in managing and automatting the tasks that you would usually do in managing an application. For Example: Everytime you make a change in your application, you would usually restart you server and load the changes and refresh the web views. With grunt task manager, all these mundane tasks gets automatted. You can read more about it on their website. Please read about it, if you're clueless."}
+            "p": {"text": "1) grunt-cli - Grunt is essentially a task manager that will help in managing and automatting the tasks that you would usually do manually while creating/managing an application. For Example: Everytime you make a change in your application, you would usually restart you server and load the changes and refresh the web views on your browser. With grunt task manager, all these mundane tasks gets automatted. You can read more about it on their website. Please read about it, if you're clueless."}
         },
         {
             "p": {"text": "2) bower - Bower is another package manager. Now you must be thinking 'why do I need another package manager? Why not use npm instead?'. Well, bower specifically deals with managing & installing dependencies from a front-end development's point of view. For Example: If you wish to use angular-material design in your front-end, then you will have to install the specific javascript files in your system, then put the links in the web views and then inject them in application. Well, bower takes care of all that facade for you."}
+        },
+        {
+            "p": {"text": "3) Yo - Short for Yeoman, a powerful scaffolding tool for webapps, is a tool that helps you kickstart a project within a matter of few seconds. It takes help from the concept of generators and helps in creating an ecosystem for the kind of application you want to develop. A generator is basically a plugin that can be run with the `yo` command to scaffold complete projects or useful parts. Learn more about yo through their website."}
+        },
+        {
+            "p": {"text": "4) generator-karma - It's a Yeoman generator used for testing your web applications. Karma has the ability to do Unit and e2e testing by running your test-cases directly on the browser. This eliminates the manual intervention required for testing your web apps."}
+        },
+        {
+            "p": {"text": "5) generator-angular - Another Yoeman generator for creating andular projects. There are other options available online. You can check them out in Yeoman's generator web page."}
         }
       ]
     },
