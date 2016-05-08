@@ -88,7 +88,18 @@
             "p": {"text": "4) generator-karma - It's a Yeoman generator used for testing your web applications. Karma has the ability to do Unit and e2e testing by running your test-cases directly on the browser. This eliminates the manual intervention required for testing your web apps."}
         },
         {
-            "p": {"text": "5) generator-angular - Another Yoeman generator for creating andular projects. There are other options available online. You can check them out in Yeoman's generator web page."}
+            "p": {"text": "5) generator-angular - Another Yoeman generator that helps in creating angular projects. There are other options available online like Mean.io or Meanjs generator. You can check them out on Yeoman's generator website."}
+        },
+        {
+            "p": {"text": "In order to install all these goodies, all you have to do is type in this command:"}
+        },
+        {
+            "pre": {"text": "$ npm install -g grunt-cli bower yo generator-karma generator-angular" ,
+            "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }   
+            }
         }
       ]
     },
