@@ -65,12 +65,21 @@
           "p": {"text": "Before you begin, there are couple of dependencies that you have take care of. Now, I'm working on a Linux machine and I'll assume that everybody reading this is familiar with it and using it. Let's Quickly check whether you have Node.js & NPM available installed in your machine by typing these commands:"}
         },
         {
-            "pre": {"text": "$ node -v\n$ npm -v" ,
+            "pre": {"text": "$ node -v\nv4.4.2\n$ npm -v\n3.8.7" ,
             "attr": {
                       "align": "left",
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
                 }   
             }
+        },
+        {
+            "p": {"text": "Make sure you have these versions or higher installed for node and npm on your system. If everything looks good, then proceed with installing a bunch of goodies."}
+        },
+        {
+            "p": {"text": "1) grunt-cli - Grunt will help in managing and automatting the tasks that you would usually do in managing an application. For Example: Everytime you make a change in your application, you would usually restart you server and load the changes and refresh the web views. With grunt task manager, all these mundane tasks gets automatted. You can read more about it on their website. Please read about it, if you're clueless."}
+        },
+        {
+            "p": {"text": "2) bower - Bower is another package manager. Now you must be thinking 'why do I need another package manager? Why not use npm instead?'. Well, bower specifically deals with managing & installing dependencies from a front-end development's point of view. For Example: If you wish to use angular-material design in your front-end, then you will have to install the specific javascript files in your system, then put the links in the web views and then inject them in application. Well, bower takes care of all that facade for you."}
         }
       ]
     },
