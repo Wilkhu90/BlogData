@@ -205,7 +205,7 @@
         },
         {
             "pre": {
-                "text": "$ git init\n$ grunt build\n$ git status\n$git add .\n$ git commit -m 'Meaningful message.'\n$ git push heroku master",
+                "text": "$ git init\n$ grunt build\n$ git status\n$ git add .\n$ git commit -m 'Meaningful message.'\n$ git push heroku master",
                 "attr": {
                       "align": "left",
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
@@ -225,7 +225,7 @@
             }
         },
         {
-            "p": {"text": "Well, I hope you like this blog. I enjoyed writing it and now, I'll go to sleep. Adios.."}
+            "p": {"text": "Well, I hope you liked reading this blog. I enjoyed writing it and now, I'll go to sleep. Adios.."}
         }
       ]
     },
