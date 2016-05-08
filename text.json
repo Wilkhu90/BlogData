@@ -91,7 +91,7 @@
             "p": {"text": "5) generator-angular - Another Yoeman generator that helps in creating angular projects. There are other options available online like Mean.io or Meanjs generator. You can check them out on Yeoman's generator website."}
         },
         {
-            "p": {"text": "In order to install all these goodies, all you have to do is type in this command:"}
+            "p": {"text": "In order to install all these goodies, all you have to do is type in this command and be patient as , it will take some time:"}
         },
         {
             "pre": {"text": "$ npm install -g grunt-cli bower yo generator-karma generator-angular" ,
@@ -99,6 +99,25 @@
                       "align": "left",
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
                 }   
+            }
+        },
+        {
+            "p": {"text": "I know it takes some time but it's worth doing installing all this. Look at it from a long term perspective. You will be saving a lot of your precious time that you will use to focus on the core features of your web application. so, now that these dependencies are installed, all you have to do is create a working directory for your project and run the yo command. You'll be offered a few options like shown below."}
+        },
+        {
+            "pre": {"text": "$ mkdir EnterProjectNameHere && cd $_\n$ yo" ,
+            "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }   
+            }
+        },
+        {
+            "img": {"text":"", 
+            "attr":{
+                    "src":"https://lh6.googleusercontent.com/-x94it6SYHDc/Vy7ZTQ_7nFI/AAAAAAAADnU/M6EeiPXFwuQu1gtPNaexL60Fk3vzhcZjACL0B/w568-h245-no/Yo.png",
+                    "style":"width: 100%"
+                }
             }
         }
       ]
