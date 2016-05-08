@@ -53,13 +53,24 @@
               ]
     },
     {
-      "title": "Single Page Application with Full-Stack in less than an Hour",
+      "title": "Single Page Application with Full-Stack in a few minutes",
       "description": "Learn How I made this Single Page App in quickest possible way",
       "imageUrl": "https://material.angularjs.org/latest/img/washedout.png",
       "gist": "Working on it...",
       "data": [
         {
-          "p": {"text": "In my brief experience dealing with MEAN stack applications, I discovered that although there are a lot of good resources out there which talks about making a Single Page Application from scratch and then there are some other resources scattered across the Internet that deals with deploying and testing the application on the cloud. But, there's not a single resource that puts it all together. Let me help you by saving some of your precious time. This blog post is an attempt at putting it all together."}
+          "p": {"text": "In my brief experience dealing with MEAN stack applications, I discovered that although there are a lot of good resources out there which talks about making a Single Page Application from scratch and then there are some other resources scattered across the Internet that deals with deploying and testing the application on the cloud. But, there's not a single resource that puts it all together. Let me help you by saving some of your precious time. This blog post is an attempt at putting it all together. let's get to right into some good stuff."}
+        },
+        {
+          "p": {"text": "Before you begin, there are couple of dependencies that you have take care of. Now, I'm working on a Linux machine and I'll assume that everybody reading this is familiar with it and using it. Let's Quickly check whether you have Node.js & NPM available installed in your machine by typing these commands:"}
+        },
+        {
+            "pre": {"text": "$ node -v\n$ npm -v",
+            "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }   
+            }
         }
       ]
     },
