@@ -136,6 +136,18 @@
         },
         {
             "p": {"text": "If everything was right, the application would be launched on the localhost in the default browser. Moving on to some more stuff. Now that your application has all the cool features you wanted, you'd like to launch the application on internet for everyone to use it. In order to do so you'll have to choose a service that allows you to deploy Node.js web applications. There are a couple of option out there, but I chose Heroku. You can go to there website and know more about them."}
+        },
+        {
+            "p": {"text": "Install heroku on your Linux system using this command:"}
+        },
+        {
+            "pre": {
+                "text": "$ wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh",
+                "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }
+            }
         }
       ]
     },
