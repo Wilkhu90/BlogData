@@ -54,9 +54,9 @@
     },
     {
       "title": "Single Page Application with Full-Stack in a few minutes",
-      "description": "Learn How I made this Single Page App in quickest possible way",
+      "description": "Learn How to make a Single Page App in quickest possible way",
       "imageUrl": "https://material.angularjs.org/latest/img/washedout.png",
-      "gist": "Working on it...",
+      "gist": "In my brief experience dealing with MEAN stack....",
       "data": [
         {
           "p": {"text": "In my brief experience dealing with MEAN stack applications, I discovered that although there are a lot of good resources out there which talks about making a Single Page Application from scratch and then there are some other resources scattered across the Internet that deals with deploying and testing the application on the cloud. But, there's not a single resource that puts it all together. Let me help you by saving some of your precious time. This blog post is an attempt at putting it all together. Alright, Let's get right into some good stuff."}
@@ -187,6 +187,45 @@
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
                 }
             } 
+        },
+        {
+            "label": {"text": "Procfile"}
+        },
+        {
+            "pre": {
+                "text": "web: node web.js",
+                "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }
+            } 
+        },
+        {
+            "p": {"text": "Now that all the files are ready to be deployed, all you have to do is run these commands:"}
+        },
+        {
+            "pre": {
+                "text": "$ git init\n$ grunt build\n$ git status\n$git add .\n$ git commit -m 'Meaningful message.'\n$ git push heroku master",
+                "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }
+            }
+        },
+        {
+            "p": {"text": "If you did everything error free then you my friend just deployed your application on the interwebs. Congratulations!! In order to visit your application online, just write this magical command."}
+        },
+        {
+            "pre": {
+                "text": "$ heroku open",
+                "attr": {
+                      "align": "left",
+                      "style": "width: 80%; height: 100%; background-color: black; color: white"
+                }
+            }
+        },
+        {
+            "p": {"text": "Well, I hope you like this blog. I enjoyed writing it and now, I'll go to sleep. Adios.."}
         }
       ]
     },
