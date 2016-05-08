@@ -65,7 +65,7 @@
           "p": {"text": "Before you begin, there are couple of dependencies that you have take care of. Now, I'm working on a Linux machine and I'll assume that everybody reading this is familiar with it and using it. Let's Quickly check whether you have Node.js & NPM available installed in your machine by typing these commands:"}
         },
         {
-            "pre": {"text": "$ node -v\n$ npm -v",
+            "pre": {"text": "$ node -v\n$ npm -v" ,
             "attr": {
                       "align": "left",
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
