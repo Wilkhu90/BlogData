@@ -127,7 +127,7 @@
             "p": {"text": "You'll be asked a bunch of question for setting up the project and scaffolding the directory structure with best style guides out there. Once the yeoman creates/setup the project for you, you simply go ahead and open the project in any IDE of your choice like Sublime or Webstorm or whatever. If you're familiar with angular then create some cool application or if you just want to simply launch the project, then type the command mentioned below:"}
         },
         {
-            "pre": {"text": "$ grunt serve" ,
+            "pre": {"text": "$ grunt serve",
             "attr": {
                       "align": "left",
                       "style": "width: 80%; height: 100%; background-color: black; color: white"
