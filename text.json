@@ -102,7 +102,7 @@
             }
         },
         {
-            "p": {"text": "I know it takes some time but it's worth doing installing all this. Look at it from a long term perspective. You will be saving a lot of your precious time that you will use to focus on the core features of your web application. so, now that these dependencies are installed, all you have to do is create a working directory for your project and run the yo command. You'll be offered a few options like shown below."}
+            "p": {"text": "I know it takes some time but it's worth installing all this. Look at it from a long term perspective. You will be saving a lot of your precious time that you will use to focus on the core features of your web application. so, now that these dependencies are installed, all you have to do is create a working directory for your project and run the yo command. You'll be offered a few options like shown below."}
         },
         {
             "pre": {"text": "$ mkdir EnterProjectNameHere && cd $_\n$ yo" ,
@@ -116,7 +116,7 @@
             "img": {"text":"", 
             "attr":{
                     "src":"https://lh6.googleusercontent.com/-x94it6SYHDc/Vy7ZTQ_7nFI/AAAAAAAADnU/M6EeiPXFwuQu1gtPNaexL60Fk3vzhcZjACL0B/w568-h245-no/Yo.png",
-                    "style":"width: 100%"
+                    "style":"width: 50%"
                 }
             }
         }
