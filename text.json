@@ -254,6 +254,18 @@
           "p": {"text": "In Progress...."}
         }
       ]
+    },
+    {
+        "item": 4,
+      "title": "Ionic & Cordova for making my Blog App in a matter of few minutes",
+      "description": "Learn How I made an android app for my Blog using Ionic-framework",
+      "imageUrl": "http://colorwhistle.com/wp-content/uploads/2015/11/creating-cross-platform-apps-using-ionic-framework.jpg",
+      "gist": "In Progress....",
+      "data": [
+        {
+          "p": {"text": "In Progress...."}
+        }
+      ]
     }
 
 ]
