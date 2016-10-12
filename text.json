@@ -296,9 +296,19 @@
                   "h3": {"text": "A Pure Javascript based Sudoku Generator and Solver based on AI algorithm with pruning. The code is highly reusable and works with HTML5 canvas."}
                 },
                 {
+                  "h3": {"text": "Check out the game play and view the code on github"}
+                },
+                {
                     "a": {"text": "Play Game here",
                             "attr": {
                                 "href": "#/sudoku"
+                            }
+                         }
+                },
+                {
+                    "a": {"text": "View code on Github",
+                            "attr": {
+                                "href": "https://github.com/Wilkhu90/SudokuJS.AI"
                             }
                          }
                 },
