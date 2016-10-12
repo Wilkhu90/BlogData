@@ -284,7 +284,7 @@
       "title": "Artificial Intelligence - Play Sudoku and solve it using AI.",
       "description": "A Pure Javascript based Sudoku Generator and Solver based on AI algorithm with pruning.",
       "imageUrl": "https://raw.githubusercontent.com/Wilkhu90/SudokuJS.AI/master/img/Sudoku1.png",
-      "gist": "https://wilkhu90.herokuapp.com/#/sudoku",
+      "gist": "",
       "data": [
                 {
                   "h1": {"text": "SudokuJS.AI"}
