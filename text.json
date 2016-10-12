@@ -298,7 +298,7 @@
                 {
                     "a": {"text": "Play Game here",
                             "attr": {
-                            "href": "https://wilkhu90.herokuapp.com/#/sudoku"
+                                "href": "#/sudoku"
                             }
                          }
                 },
