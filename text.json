@@ -278,6 +278,40 @@
           "p": {"text": "In Progress...."}
         }
       ]
+    },
+    {
+        "item": 6,
+      "title": "Artificial Intelligence - Play Sudoku and solve it using AI.",
+      "description": "A Pure Javascript based Sudoku Generator and Solver based on AI algorithm with pruning.",
+      "imageUrl": "https://raw.githubusercontent.com/Wilkhu90/SudokuJS.AI/master/img/Sudoku1.png",
+      "gist": "https://wilkhu90.herokuapp.com/#/sudoku",
+      "data": [
+                {
+                  "h1": {"text": "SudokuJS.AI"}
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                  "h2": {"text": "A Pure Javascript based Sudoku Generator and Solver based on AI algorithm with pruning. The code is highly reusable and works with HTML5 canvas."}
+                },
+                {
+                    "img": {"text":"", 
+                    "attr":{
+                            "src":"https://raw.githubusercontent.com/Wilkhu90/SudokuJS.AI/master/img/Sudoku1.png",
+                            "style":"width: 50%"
+                        }
+                    }
+                },
+                {
+                    "img": {"text":"", 
+                    "attr":{
+                            "src":"https://raw.githubusercontent.com/Wilkhu90/SudokuJS.AI/master/img/Sudoku2.png",
+                            "style":"width: 50%"
+                        }
+                    }
+                }
+      ]
     }
 
 ]
