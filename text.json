@@ -306,6 +306,9 @@
                          }
                 },
                 {
+                  "br": {"text": ""}
+                },
+                {
                     "a": {"text": "View code on Github",
                             "attr": {
                                 "href": "https://github.com/Wilkhu90/SudokuJS.AI"
