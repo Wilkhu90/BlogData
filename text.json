@@ -332,6 +332,60 @@
                     }
                 }
       ]
+    },
+    {
+        "item": 7,
+      "title": "Artificial Intelligence - K- Means Algorithm & it's visualization.",
+      "description": "A Pure Javascript based K-Means Generator and clustering algorithm. The code is highly reusable and works with HTML5 & D3.js.",
+      "imageUrl": "https://raw.githubusercontent.com/Wilkhu90/KMeansJS.AI/master/img/Kmeans1.png",
+      "gist": "",
+      "data": [
+                {
+                  "h1": {"text": "KMeansJS.AI"}
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                  "h3": {"text": "A Pure Javascript based K-Means Generator and clustering algorithm. The code is highly reusable and works with HTML5 & D3.js."}
+                },
+                {
+                  "h3": {"text": "Check the these Links below:"}
+                },
+                {
+                    "a": {"text": "Go to Vizualization here",
+                            "attr": {
+                                "href": "#/Kmeans"
+                            }
+                         }
+                },
+                {
+                  "br": {"text": ""}
+                },
+                {
+                    "a": {"text": "View code on Github",
+                            "attr": {
+                                "href": "https://github.com/Wilkhu90/KMeansJS.AI"
+                            }
+                         }
+                },
+                {
+                    "img": {"text":"", 
+                    "attr":{
+                            "src":"https://raw.githubusercontent.com/Wilkhu90/KMeansJS.AI/master/img/Kmeans2.png",
+                            "style":"width: 50%"
+                        }
+                    }
+                },
+                {
+                    "img": {"text":"", 
+                    "attr":{
+                            "src":"https://raw.githubusercontent.com/Wilkhu90/KMeansJS.AI/master/img/Kmeans1.png",
+                            "style":"width: 50%"
+                        }
+                    }
+                }
+      ]
     }
 
 ]
