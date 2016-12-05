@@ -1,668 +1,283 @@
-#EXTINF:-1,UK: SKY News HD
-http://server.internext.tv:8000/live/imad/imad/204.ts
-#EXTINF:-1,UK: Sky Cinema Disney UHD
-http://server.internext.tv:8000/live/imad/imad/197.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure UHD
-http://server.internext.tv:8000/live/imad/imad/196.ts
-#EXTINF:-1,UK: Sky Cinema Premiere UHD
-http://server.internext.tv:8000/live/imad/imad/202.ts
-#EXTINF:-1,UK: Sky Cinema Family UHD
-http://server.internext.tv:8000/live/imad/imad/200.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller UHD
-http://server.internext.tv:8000/live/imad/imad/205.ts
-#EXTINF:-1,UK: Sky Cinema Select UHD ( UK )
-http://server.internext.tv:8000/live/imad/imad/201.ts
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror UHD
-http://server.internext.tv:8000/live/imad/imad/203.ts
-#EXTINF:-1,UK: MTV Hits
-http://server.internext.tv:8000/live/imad/imad/702.ts
-#EXTINF:-1,UK: MTV Music
-http://server.internext.tv:8000/live/imad/imad/701.ts
-#EXTINF:-1,UK: Sky One HD
-http://server.internext.tv:8000/live/imad/imad/700.ts
-#EXTINF:-1,UK: Sky Cinema Comedy UHD
-http://server.internext.tv:8000/live/imad/imad/699.ts
-#EXTINF:-1,UK: Watch
-http://server.internext.tv:8000/live/imad/imad/708.ts
-#EXTINF:-1,UK: Sky Cinema Drama n Romance UHD
-http://server.internext.tv:8000/live/imad/imad/709.ts
-#EXTINF:-1,UK: True Entertainment
-http://server.internext.tv:8000/live/imad/imad/707.ts
-#EXTINF:-1,UK: BT SPORTS EUROPE HD
-http://server.internext.tv:8000/live/imad/imad/706.ts
-#EXTINF:-1,UK: BT SPORTS EXTRA
-http://server.internext.tv:8000/live/imad/imad/705.ts
-#EXTINF:-1,UK: SONY MOVIES ( UK )
-http://server.internext.tv:8000/live/imad/imad/2230.ts
-#EXTINF:-1,UK: SKY MOVIES 4 HD ( UK )
-http://server.internext.tv:8000/live/imad/imad/2228.ts
-#EXTINF:-1,UK: SKY CINEMA MODERN GREATS ( UK )
-http://server.internext.tv:8000/live/imad/imad/2227.ts
-#EXTINF:-1,UK: SKY CINEMA LIVING ( UK )
-http://server.internext.tv:8000/live/imad/imad/2226.ts
-#EXTINF:-1,UK: SKY ATLANTIC ( UK )
-http://server.internext.tv:8000/live/imad/imad/2229.ts
-#EXTINF:-1,UK: Animal Planet
-http://server.internext.tv:8000/live/imad/imad/207.ts
-#EXTINF:-1,UK: baby tv
-http://server.internext.tv:8000/live/imad/imad/317.ts
-#EXTINF:-1,UK: BBC News
-http://server.internext.tv:8000/live/imad/imad/199.ts
-#EXTINF:-1,UK: BT SPORTS 2 HD
-http://server.internext.tv:8000/live/imad/imad/163.ts
-#EXTINF:-1,UK: BT SPORTS 1 HD
-http://server.internext.tv:8000/live/imad/imad/162.ts
-#EXTINF:-1,UK: Cartoon Network
-http://server.internext.tv:8000/live/imad/imad/177.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://server.internext.tv:8000/live/imad/imad/91.ts
-#EXTINF:-1,UK: DISNEY CHANNEL
-http://server.internext.tv:8000/live/imad/imad/169.ts
-#EXTINF:-1,UK: Disney Junior
-http://server.internext.tv:8000/live/imad/imad/258.ts
-#EXTINF:-1,UK: Disney XD
-http://server.internext.tv:8000/live/imad/imad/235.ts
-#EXTINF:-1,UK: ITV 4 HD
-http://server.internext.tv:8000/live/imad/imad/1145.ts
-#EXTINF:-1,UK: ITV 3 HD
-http://server.internext.tv:8000/live/imad/imad/1144.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://server.internext.tv:8000/live/imad/imad/1143.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://server.internext.tv:8000/live/imad/imad/219.ts
-#EXTINF:-1,UK: National Geographic
-http://server.internext.tv:8000/live/imad/imad/217.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://server.internext.tv:8000/live/imad/imad/90.ts
-#EXTINF:-1,UK: Discovery History
-http://server.internext.tv:8000/live/imad/imad/316.ts
-#EXTINF:-1,UK: Docubox HD
-http://server.internext.tv:8000/live/imad/imad/189.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://server.internext.tv:8000/live/imad/imad/89.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://server.internext.tv:8000/live/imad/imad/88.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://server.internext.tv:8000/live/imad/imad/87.ts
-#EXTINF:-1,UK : RTE2
-http://server.internext.tv:8000/live/imad/imad/676.ts
-#EXTINF:-1,UK : Sky Cinema Hits UHD
-http://server.internext.tv:8000/live/imad/imad/677.ts
-#EXTINF:-1,UK: Premiere Sports
-http://server.internext.tv:8000/live/imad/imad/680.ts
-#EXTINF:-1,UK: BBC One
-http://server.internext.tv:8000/live/imad/imad/691.ts
-#EXTINF:-1,UK: BBC Two
-http://server.internext.tv:8000/live/imad/imad/690.ts
-#EXTINF:-1,UK: BBC Three
-http://server.internext.tv:8000/live/imad/imad/689.ts
-#EXTINF:-1,UK: Cbeebies
-http://server.internext.tv:8000/live/imad/imad/688.ts
-#EXTINF:-1,UK: Channel 4
-http://server.internext.tv:8000/live/imad/imad/687.ts
-#EXTINF:-1,UK: Channel 5
-http://server.internext.tv:8000/live/imad/imad/686.ts
-#EXTINF:-1,UK: Disney Channel UK
-http://server.internext.tv:8000/live/imad/imad/685.ts
-#EXTINF:-1,UK: ITV Encore
-http://server.internext.tv:8000/live/imad/imad/684.ts
-#EXTINF:-1,UK: National Geo Wild
-http://server.internext.tv:8000/live/imad/imad/683.ts
-#EXTINF:-1,UK: National Geographic HD
-http://server.internext.tv:8000/live/imad/imad/682.ts
-#EXTINF:-1,UK: Nick Junior
-http://server.internext.tv:8000/live/imad/imad/681.ts
-#EXTINF:-1,UK: Setanta Sports
-http://server.internext.tv:8000/live/imad/imad/678.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://server.internext.tv:8000/live/imad/imad/692.ts
-#EXTINF:-1,UK: TLC
-http://server.internext.tv:8000/live/imad/imad/679.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://server.internext.tv:8000/live/imad/imad/703.ts
-#EXTINF:-1,UK: BT SPORT ESPN
-http://server.internext.tv:8000/live/imad/imad/704.ts
-#EXTINF:-1,UK: Fight Box HD
-http://server.internext.tv:8000/live/imad/imad/941.ts
-#EXTINF:-1,UK: Sky Arts
-http://server.internext.tv:8000/live/imad/imad/198.ts
-#EXTINF:-1,UK: 3E
-http://server.internext.tv:8000/live/imad/imad/2484.ts
-#EXTINF:-1,UK: ALIBI
-http://server.internext.tv:8000/live/imad/imad/2479.ts
-#EXTINF:-1,UK: AT THE RACES
-http://server.internext.tv:8000/live/imad/imad/2453.ts
-#EXTINF:-1,UK: BOOMERANG
-http://server.internext.tv:8000/live/imad/imad/2464.ts
-#EXTINF:-1,UK: BOXNATION
-http://server.internext.tv:8000/live/imad/imad/2452.ts
-#EXTINF:-1,UK: BRITISH EUROSPORT 1
-http://server.internext.tv:8000/live/imad/imad/2450.ts
-#EXTINF:-1,UK: BRITISH EUROSPORT 2
-http://server.internext.tv:8000/live/imad/imad/2449.ts
-#EXTINF:-1,UK: CBBC
-http://server.internext.tv:8000/live/imad/imad/2463.ts
-#EXTINF:-1,UK: CBS ACTION
-http://server.internext.tv:8000/live/imad/imad/2483.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://server.internext.tv:8000/live/imad/imad/2482.ts
-#EXTINF:-1,UK: CBS REALITY
-http://server.internext.tv:8000/live/imad/imad/2481.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://server.internext.tv:8000/live/imad/imad/2457.ts
-#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
-http://server.internext.tv:8000/live/imad/imad/2477.ts
-#EXTINF:-1,UK: COMEDY CENTRAL HD
-http://server.internext.tv:8000/live/imad/imad/2478.ts
-#EXTINF:-1,UK: CRIME AND INVESTIGATION
-http://server.internext.tv:8000/live/imad/imad/2469.ts
-#EXTINF:-1,UK: DAVE
-http://server.internext.tv:8000/live/imad/imad/2489.ts
-#EXTINF:-1,UK: DISCOVERY
-http://server.internext.tv:8000/live/imad/imad/2504.ts
-#EXTINF:-1,UK: DISCOVERY HOME AND HEALTH
-http://server.internext.tv:8000/live/imad/imad/2485.ts
-#EXTINF:-1,UK: DISCOVERY INVESTIGATION
-http://server.internext.tv:8000/live/imad/imad/2503.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://server.internext.tv:8000/live/imad/imad/2502.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://server.internext.tv:8000/live/imad/imad/2500.ts
-#EXTINF:-1,UK: DISCOVERY WORLD
-http://server.internext.tv:8000/live/imad/imad/2499.ts
-#EXTINF:-1,UK: DMAX
-http://server.internext.tv:8000/live/imad/imad/2498.ts
-#EXTINF:-1,UK: DRAMA
-http://server.internext.tv:8000/live/imad/imad/2497.ts
-#EXTINF:-1,UK: E!
-http://server.internext.tv:8000/live/imad/imad/2472.ts
-#EXTINF:-1,UK: FILM 4
-http://server.internext.tv:8000/live/imad/imad/2459.ts
-#EXTINF:-1,UK: FOOD NETWORK
-http://server.internext.tv:8000/live/imad/imad/2496.ts
-#EXTINF:-1,UK: FOX
-http://server.internext.tv:8000/live/imad/imad/2488.ts
-#EXTINF:-1,UK: GOOD FOOD
-http://server.internext.tv:8000/live/imad/imad/2495.ts
-#EXTINF:-1,UK: H2
-http://server.internext.tv:8000/live/imad/imad/2494.ts
-#EXTINF:-1,UK: HOME
-http://server.internext.tv:8000/live/imad/imad/2493.ts
-#EXTINF:-1,UK: HORROR
-http://server.internext.tv:8000/live/imad/imad/2492.ts
-#EXTINF:-1,UK: LONDON LIFE
-http://server.internext.tv:8000/live/imad/imad/2491.ts
-#EXTINF:-1,UK: MORE 4
-http://server.internext.tv:8000/live/imad/imad/2480.ts
-#EXTINF:-1,UK: MOVIES 4 MEN
-http://server.internext.tv:8000/live/imad/imad/2460.ts
-#EXTINF:-1,UK: MTV 1
-http://server.internext.tv:8000/live/imad/imad/2467.ts
-#EXTINF:-1,UK: MTV BASE
-http://server.internext.tv:8000/live/imad/imad/2468.ts
-#EXTINF:-1,UK: MTV CLASSIC
-http://server.internext.tv:8000/live/imad/imad/2466.ts
-#EXTINF:-1,UK: MTV ROCKS
-http://server.internext.tv:8000/live/imad/imad/2465.ts
-#EXTINF:-1,UK: MUTV
-http://server.internext.tv:8000/live/imad/imad/2455.ts
-#EXTINF:-1,UK: NICK TOON
-http://server.internext.tv:8000/live/imad/imad/2462.ts
-#EXTINF:-1,UK: PICK TV
-http://server.internext.tv:8000/live/imad/imad/2476.ts
-#EXTINF:-1,UK: PREMIER SPORT
-http://server.internext.tv:8000/live/imad/imad/2456.ts
-#EXTINF:-1,UK: QUEST
-http://server.internext.tv:8000/live/imad/imad/2475.ts
-#EXTINF:-1,UK: RACING
-http://server.internext.tv:8000/live/imad/imad/2454.ts
-#EXTINF:-1,UK: REALLY
-http://server.internext.tv:8000/live/imad/imad/2474.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://server.internext.tv:8000/live/imad/imad/2471.ts
-#EXTINF:-1,UK: RTE1 HD
-http://server.internext.tv:8000/live/imad/imad/2470.ts
-#EXTINF:-1,UK: RUSSIA DOCUMENTARY
-http://server.internext.tv:8000/live/imad/imad/2506.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE
-http://server.internext.tv:8000/live/imad/imad/2458.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HD
-http://server.internext.tv:8000/live/imad/imad/2451.ts
-#EXTINF:-1,UK: SKY TWO
-http://server.internext.tv:8000/live/imad/imad/2487.ts
-#EXTINF:-1,UK: TG4
-http://server.internext.tv:8000/live/imad/imad/2486.ts
-#EXTINF:-1,UK: TRUE MOVIES
-http://server.internext.tv:8000/live/imad/imad/2461.ts
-#EXTINF:-1,UK: VH1 CLASSIC
-http://server.internext.tv:8000/live/imad/imad/2473.ts
-#EXTINF:-1,UK: VIVA UK
-http://server.internext.tv:8000/live/imad/imad/2490.ts
-#EXTINF:-1,UK: YESTERDAY
-http://server.internext.tv:8000/live/imad/imad/2505.ts
-#EXTINF:-1,USA: BRAVO HD
-http://server.internext.tv:8000/live/imad/imad/2406.ts
-#EXTINF:-1,USA: CINEMAX 5 STARMAX
-http://server.internext.tv:8000/live/imad/imad/2403.ts
-#EXTINF:-1,USA: CINEMAX ACTOIN MAX EAST
-http://server.internext.tv:8000/live/imad/imad/2402.ts
-#EXTINF:-1,USA: CINEMAX EAST
-http://server.internext.tv:8000/live/imad/imad/2405.ts
-#EXTINF:-1,USA: CINEMAX MOREMAX
-http://server.internext.tv:8000/live/imad/imad/2404.ts
-#EXTINF:-1,USA: FOX SPORTS 3
-http://server.internext.tv:8000/live/imad/imad/2408.ts
-#EXTINF:-1,USA: FX HD
-http://server.internext.tv:8000/live/imad/imad/2400.ts
-#EXTINF:-1,USA: NBC SPORT
-http://server.internext.tv:8000/live/imad/imad/2407.ts
-#EXTINF:-1,USA: RT NEWS
-http://server.internext.tv:8000/live/imad/imad/2369.ts
-#EXTINF:-1,USA: TREE HOUSE CANADA
-http://server.internext.tv:8000/live/imad/imad/2410.ts
-#EXTINF:-1,USA: YTV CANADA
-http://server.internext.tv:8000/live/imad/imad/2411.ts
-#EXTINF:-1,USA: PBS HD
-http://server.internext.tv:8000/live/imad/imad/2401.ts
-#EXTINF:-1,USA: Y TV Canada
-http://server.internext.tv:8000/live/imad/imad/2136.ts
-#EXTINF:-1,USA: NBA TV NETWORK
-http://server.internext.tv:8000/live/imad/imad/2115.ts
-#EXTINF:-1,USA: Versus NBA HD
-http://server.internext.tv:8000/live/imad/imad/2114.ts
-#EXTINF:-1,USA: UC TV
-http://server.internext.tv:8000/live/imad/imad/2113.ts
-#EXTINF:-1,USA: Twit Tv
-http://server.internext.tv:8000/live/imad/imad/2112.ts
-#EXTINF:-1,USA: TSC
-http://server.internext.tv:8000/live/imad/imad/2111.ts
-#EXTINF:-1,USA: Tru HD
-http://server.internext.tv:8000/live/imad/imad/2132.ts
-#EXTINF:-1,USA: Travel Channel HD
-http://server.internext.tv:8000/live/imad/imad/2110.ts
-#EXTINF:-1,USA: FIX TV HD
-http://server.internext.tv:8000/live/imad/imad/2108.ts
-#EXTINF:-1,USA: TBS HD
-http://server.internext.tv:8000/live/imad/imad/2131.ts
-#EXTINF:-1,USA: Super Ecran 4 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2141.ts
-#EXTINF:-1,USA: Super Ecran 3 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2140.ts
-#EXTINF:-1,USA: Super Ecran 2 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2139.ts
-#EXTINF:-1,USA: Super Ecran 1 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2138.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://server.internext.tv:8000/live/imad/imad/2130.ts
-#EXTINF:-1,USA: Starz Cinema
-http://server.internext.tv:8000/live/imad/imad/2128.ts
-#EXTINF:-1,USA: Slice ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2142.ts
-#EXTINF:-1,USA: SIlver Screen Classics ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2143.ts
-#EXTINF:-1,USA: RT Documentary
-http://server.internext.tv:8000/live/imad/imad/2107.ts
-#EXTINF:-1,USA: RT America HD
-http://server.internext.tv:8000/live/imad/imad/2105.ts
-#EXTINF:-1,USA: RT America
-http://server.internext.tv:8000/live/imad/imad/2106.ts
-#EXTINF:-1,USA: RDS 2 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2144.ts
-#EXTINF:-1,USA: RDI ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2145.ts
-#EXTINF:-1,USA: Poker Central
-http://server.internext.tv:8000/live/imad/imad/2104.ts
-#EXTINF:-1,USA: Peach Tree TV ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2146.ts
-#EXTINF:-1,USA: OLN ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2147.ts
-#EXTINF:-1,USA: NICKELODEON
-http://server.internext.tv:8000/live/imad/imad/2126.ts
-#EXTINF:-1,USA: AL JAZEERA English
-http://server.internext.tv:8000/live/imad/imad/1960.ts
-#EXTINF:-1,USA: Nasa TV HD
-http://server.internext.tv:8000/live/imad/imad/2103.ts
-#EXTINF:-1,USA: Movietime ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2148.ts
-#EXTINF:-1,USA: Motor Sports 7
-http://server.internext.tv:8000/live/imad/imad/2102.ts
-#EXTINF:-1,USA: Mello TV
-http://server.internext.tv:8000/live/imad/imad/2101.ts
-#EXTINF:-1,USA: HSN 1
-http://server.internext.tv:8000/live/imad/imad/2100.ts
-#EXTINF:-1,USA: History Channel ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2125.ts
-#EXTINF:-1,USA: CBN News
-http://server.internext.tv:8000/live/imad/imad/2123.ts
-#EXTINF:-1,USA: HBO Family
-http://server.internext.tv:8000/live/imad/imad/2122.ts
-#EXTINF:-1,USA: HBO US
-http://server.internext.tv:8000/live/imad/imad/2121.ts
-#EXTINF:-1,USA: CBSN News
-http://server.internext.tv:8000/live/imad/imad/2120.ts
-#EXTINF:-1,USA: GSN ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2149.ts
-#EXTINF:-1,USA: G4 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2150.ts
-#EXTINF:-1,USA: FYI ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2151.ts
-#EXTINF:-1,USA: Fox News HD
-http://server.internext.tv:8000/live/imad/imad/2152.ts
-#EXTINF:-1,USA: Fox 59 News
-http://server.internext.tv:8000/live/imad/imad/2099.ts
-#EXTINF:-1,USA: Florida Channel
-http://server.internext.tv:8000/live/imad/imad/2109.ts
-#EXTINF:-1,USA: Fight Network
-http://server.internext.tv:8000/live/imad/imad/2119.ts
-#EXTINF:-1,USA: CP24 ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2154.ts
-#EXTINF:-1,USA: Cottage Life ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2155.ts
-#EXTINF:-1,USA: Comedy Gold ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2156.ts
-#EXTINF:-1,USA: CNN HD
-http://server.internext.tv:8000/live/imad/imad/2133.ts
-#EXTINF:-1,USA: City Vancouver ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2157.ts
-#EXTINF:-1,USA: Cinemax
-http://server.internext.tv:8000/live/imad/imad/2098.ts
-#EXTINF:-1,USA: CHCH ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2158.ts
-#EXTINF:-1,USA: ABC HD
-http://server.internext.tv:8000/live/imad/imad/2118.ts
-#EXTINF:-1,USA: CBS HD
-http://server.internext.tv:8000/live/imad/imad/2117.ts
-#EXTINF:-1,USA: CBS Drama
-http://server.internext.tv:8000/live/imad/imad/2116.ts
-#EXTINF:-1,USA: CBC Toronto ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2159.ts
-#EXTINF:-1,USA: CBC SD ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2160.ts
-#EXTINF:-1,USA: C TV Toronto ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2153.ts
-#EXTINF:-1,USA: BYU Sports TV
-http://server.internext.tv:8000/live/imad/imad/2097.ts
-#EXTINF:-1,USA: AMG TV
-http://server.internext.tv:8000/live/imad/imad/2096.ts
-#EXTINF:-1,USA: ABC Spark ( Canada )
-http://server.internext.tv:8000/live/imad/imad/2161.ts
-#EXTINF:-1,USA: 360 North
-http://server.internext.tv:8000/live/imad/imad/2095.ts
-#EXTINF:-1,USA: HBO ZONE HD
-http://server.internext.tv:8000/live/imad/imad/950.ts
-#EXTINF:-1,USA: TSN 5 HD
-http://server.internext.tv:8000/live/imad/imad/951.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://server.internext.tv:8000/live/imad/imad/954.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://server.internext.tv:8000/live/imad/imad/955.ts
-#EXTINF:-1,USA: NAT GEO
-http://server.internext.tv:8000/live/imad/imad/1270.ts
-#EXTINF:-1,USA: CW HD
-http://server.internext.tv:8000/live/imad/imad/956.ts
-#EXTINF:-1,USA: NFL Network HD
-http://server.internext.tv:8000/live/imad/imad/957.ts
-#EXTINF:-1,USA: CNBC
-http://server.internext.tv:8000/live/imad/imad/959.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://server.internext.tv:8000/live/imad/imad/969.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://server.internext.tv:8000/live/imad/imad/970.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://server.internext.tv:8000/live/imad/imad/967.ts
-#EXTINF:-1,USA: TSN2 HD
-http://server.internext.tv:8000/live/imad/imad/968.ts
-#EXTINF:-1,USA: ABC News HD
-http://server.internext.tv:8000/live/imad/imad/982.ts
-#EXTINF:-1,USA: Fox Life HD
-http://server.internext.tv:8000/live/imad/imad/999.ts
-#EXTINF:-1,USA: Lifetime HD
-http://server.internext.tv:8000/live/imad/imad/1000.ts
-#EXTINF:-1,USA: TNT HD
-http://server.internext.tv:8000/live/imad/imad/997.ts
-#EXTINF:-1,USA: NBA HD
-http://server.internext.tv:8000/live/imad/imad/992.ts
-#EXTINF:-1,USA: WWE Raw Network HD
-http://server.internext.tv:8000/live/imad/imad/981.ts
-#EXTINF:-1,USA: AFN Sports 1
-http://server.internext.tv:8000/live/imad/imad/1007.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://server.internext.tv:8000/live/imad/imad/1008.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://server.internext.tv:8000/live/imad/imad/1268.ts
-#EXTINF:-1,USA: Discovery Channel HD
-http://server.internext.tv:8000/live/imad/imad/1489.ts
-#EXTINF:-1,USA: Astro Sports
-http://server.internext.tv:8000/live/imad/imad/1704.ts
-#EXTINF:-1,USA: ShowTime HD
-http://server.internext.tv:8000/live/imad/imad/1703.ts
-#EXTINF:-1,USA: Willow Cricket HD
-http://server.internext.tv:8000/live/imad/imad/1701.ts
-#EXTINF:-1,USA: USA Network HD
-http://server.internext.tv:8000/live/imad/imad/1700.ts
-#EXTINF:-1,USA: ESPN HD ( USA )
-http://server.internext.tv:8000/live/imad/imad/1699.ts
-#EXTINF:-1,USA: ESPN 2 HD ( USA )
-http://server.internext.tv:8000/live/imad/imad/1697.ts
-#EXTINF:-1,USA: SYFY HD
-http://server.internext.tv:8000/live/imad/imad/1696.ts
-#EXTINF:-1,USA: A&E HD
-http://server.internext.tv:8000/live/imad/imad/1688.ts
-#EXTINF:-1,USA: Bein Sports US HD
-http://server.internext.tv:8000/live/imad/imad/1687.ts
-#EXTINF:-1,USA: NBA TV HD ( USA )
-http://server.internext.tv:8000/live/imad/imad/1684.ts
-#EXTINF:-1,USA: NBC HD
-http://server.internext.tv:8000/live/imad/imad/1692.ts
-#EXTINF:-1,USA: AMC HD
-http://server.internext.tv:8000/live/imad/imad/1689.ts
-#EXTINF:-1,USA: WGN ( USA )
-http://server.internext.tv:8000/live/imad/imad/1685.ts
-#EXTINF:-1,USA: Spike HD ( USA )
-http://server.internext.tv:8000/live/imad/imad/1693.ts
-#EXTINF:-1,USA: ANIMAL PLANET HD
-http://server.internext.tv:8000/live/imad/imad/2448.ts
-#EXTINF:-1,USA: BIG TEN NETWORK HD
-http://server.internext.tv:8000/live/imad/imad/2447.ts
-#EXTINF:-1,USA: BLOOMBERG
-http://server.internext.tv:8000/live/imad/imad/2446.ts
-#EXTINF:-1,USA: BTN SPORTS HD
-http://server.internext.tv:8000/live/imad/imad/2445.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://server.internext.tv:8000/live/imad/imad/2444.ts
-#EXTINF:-1,USA: CBS NEWS
-http://server.internext.tv:8000/live/imad/imad/2443.ts
-#EXTINF:-1,USA: COMEDY CENTRAL HD
-http://server.internext.tv:8000/live/imad/imad/2442.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE
-http://server.internext.tv:8000/live/imad/imad/2440.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://server.internext.tv:8000/live/imad/imad/2441.ts
-#EXTINF:-1,USA: DIY Network
-http://server.internext.tv:8000/live/imad/imad/2439.ts
-#EXTINF:-1,USA: E! HD
-http://server.internext.tv:8000/live/imad/imad/2438.ts
-#EXTINF:-1,USA: ESPN NEWS HD
-http://server.internext.tv:8000/live/imad/imad/2437.ts
-#EXTINF:-1,USA: ESPN U HD
-http://server.internext.tv:8000/live/imad/imad/2436.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://server.internext.tv:8000/live/imad/imad/2435.ts
-#EXTINF:-1,USA: FOX HD
-http://server.internext.tv:8000/live/imad/imad/2434.ts
-#EXTINF:-1,USA: FOXX HD
-http://server.internext.tv:8000/live/imad/imad/2433.ts
-#EXTINF:-1,USA: HALLMARK CHANNEL HD
-http://server.internext.tv:8000/live/imad/imad/2432.ts
-#EXTINF:-1,USA: HBO COMEDY
-http://server.internext.tv:8000/live/imad/imad/2431.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://server.internext.tv:8000/live/imad/imad/2430.ts
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY
-http://server.internext.tv:8000/live/imad/imad/2429.ts
-#EXTINF:-1,USA: MLB Network HD
-http://server.internext.tv:8000/live/imad/imad/2428.ts
-#EXTINF:-1,USA: Music RMC 1
-http://server.internext.tv:8000/live/imad/imad/2427.ts
-#EXTINF:-1,USA: NBC GOLF
-http://server.internext.tv:8000/live/imad/imad/2426.ts
-#EXTINF:-1,USA: NHL NETWORK HD
-http://server.internext.tv:8000/live/imad/imad/2425.ts
-#EXTINF:-1,USA: PACNET 4 HD
-http://server.internext.tv:8000/live/imad/imad/2424.ts
-#EXTINF:-1,USA: PACNET 4 SD
-http://server.internext.tv:8000/live/imad/imad/2423.ts
-#EXTINF:-1,USA: SHOWTIME 2 HD
-http://server.internext.tv:8000/live/imad/imad/2422.ts
-#EXTINF:-1,USA: SHOWTIME EXTREME
-http://server.internext.tv:8000/live/imad/imad/2421.ts
-#EXTINF:-1,USA: SHOWTIME SHOWCASE
-http://server.internext.tv:8000/live/imad/imad/2420.ts
-#EXTINF:-1,USA: SPORTS NET 1 HD
-http://server.internext.tv:8000/live/imad/imad/2419.ts
-#EXTINF:-1,USA: SPORTS NET 360
-http://server.internext.tv:8000/live/imad/imad/2418.ts
-#EXTINF:-1,USA: SPORTS NET ONE HD
-http://server.internext.tv:8000/live/imad/imad/2417.ts
-#EXTINF:-1,USA: SPORTS NET ONTARIO HD
-http://server.internext.tv:8000/live/imad/imad/2416.ts
-#EXTINF:-1,USA: STARZ
-http://server.internext.tv:8000/live/imad/imad/2412.ts
-#EXTINF:-1,USA: STARZ ENCORE HD
-http://server.internext.tv:8000/live/imad/imad/2415.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://server.internext.tv:8000/live/imad/imad/2414.ts
-#EXTINF:-1,USA: University of California TV
-http://server.internext.tv:8000/live/imad/imad/2413.ts
-#EXTINF:-1,ES: TELE CINCO
-http://server.internext.tv:8000/live/imad/imad/2313.ts
-#EXTINF:-1,ES: NOVA
-http://server.internext.tv:8000/live/imad/imad/2314.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://server.internext.tv:8000/live/imad/imad/2298.ts
-#EXTINF:-1,ES: NAT GEO WILD
-http://server.internext.tv:8000/live/imad/imad/2299.ts
-#EXTINF:-1,ES: LA SEXTA OS
-http://server.internext.tv:8000/live/imad/imad/2315.ts
-#EXTINF:-1,ES: LA 2
-http://server.internext.tv:8000/live/imad/imad/2327.ts
-#EXTINF:-1,ES: LA 1
-http://server.internext.tv:8000/live/imad/imad/2326.ts
-#EXTINF:-1,ES: HOLLYWOOD SPAIN HD
-http://server.internext.tv:8000/live/imad/imad/2309.ts
-#EXTINF:-1,ES: FOX HD
-http://server.internext.tv:8000/live/imad/imad/2310.ts
-#EXTINF:-1,ES: DISCOVERY HD OS
-http://server.internext.tv:8000/live/imad/imad/2300.ts
-#EXTINF:-1,ES: CAZA Y PESCA
-http://server.internext.tv:8000/live/imad/imad/2302.ts
-#EXTINF:-1,ES: CANAL XTRA
-http://server.internext.tv:8000/live/imad/imad/2305.ts
-#EXTINF:-1,ES: CANAL TOROS
-http://server.internext.tv:8000/live/imad/imad/2318.ts
-#EXTINF:-1,ES: CANAL SERIE CS
-http://server.internext.tv:8000/live/imad/imad/2324.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://server.internext.tv:8000/live/imad/imad/2303.ts
-#EXTINF:-1,ES: CANAL LIGA
-http://server.internext.tv:8000/live/imad/imad/2311.ts
-#EXTINF:-1,ES: CANAL GOLF
-http://server.internext.tv:8000/live/imad/imad/2306.ts
-#EXTINF:-1,ES: CANAL DE CASA
-http://server.internext.tv:8000/live/imad/imad/2304.ts
-#EXTINF:-1,ES: CANAL COMEDIA
-http://server.internext.tv:8000/live/imad/imad/2307.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://server.internext.tv:8000/live/imad/imad/2301.ts
-#EXTINF:-1,ES: CANA:L FUTBOL
-http://server.internext.tv:8000/live/imad/imad/2312.ts
-#EXTINF:-1,ES: CALLE 13
-http://server.internext.tv:8000/live/imad/imad/2320.ts
-#EXTINF:-1,ES: BARCA TV DB
-http://server.internext.tv:8000/live/imad/imad/2321.ts
-#EXTINF:-1,ES: AXN
-http://server.internext.tv:8000/live/imad/imad/2308.ts
-#EXTINF:-1,ES: TAQUILLA 1
-http://server.internext.tv:8000/live/imad/imad/2395.ts
-#EXTINF:-1,ES: TAQUILLA 2
-http://server.internext.tv:8000/live/imad/imad/2396.ts
-#EXTINF:-1,ES: TAQUILLA 3
-http://server.internext.tv:8000/live/imad/imad/2397.ts
-#EXTINF:-1,ES: TAQUILLA 4
-http://server.internext.tv:8000/live/imad/imad/2398.ts
-#EXTINF:-1,ES: TAQUILLA 5
-http://server.internext.tv:8000/live/imad/imad/2399.ts
-#EXTINF:-1,TR: Yol TV
-http://server.internext.tv:8000/live/imad/imad/1225.ts
-#EXTINF:-1,TR: Yaban TV
-http://server.internext.tv:8000/live/imad/imad/1214.ts
-#EXTINF:-1,TR: UCAN KUS
-http://server.internext.tv:8000/live/imad/imad/1226.ts
-#EXTINF:-1,TR: TV NET
-http://server.internext.tv:8000/live/imad/imad/1232.ts
-#EXTINF:-1,TR: Turizm TV
-http://server.internext.tv:8000/live/imad/imad/1227.ts
-#EXTINF:-1,TR: TRT Kurdi
-http://server.internext.tv:8000/live/imad/imad/1228.ts
-#EXTINF:-1,TR: TJK TV
-http://server.internext.tv:8000/live/imad/imad/1234.ts
-#EXTINF:-1,TR: TGRT Haber
-http://server.internext.tv:8000/live/imad/imad/1191.ts
-#EXTINF:-1,TR: Sports TV
-http://server.internext.tv:8000/live/imad/imad/1236.ts
-#EXTINF:-1,TR: Showtv HD
-http://server.internext.tv:8000/live/imad/imad/1211.ts
-#EXTINF:-1,TR: Show TV HD
-http://server.internext.tv:8000/live/imad/imad/1237.ts
-#EXTINF:-1,TR: Planet Turk
-http://server.internext.tv:8000/live/imad/imad/1192.ts
-#EXTINF:-1,TR: Planet Pembe
-http://server.internext.tv:8000/live/imad/imad/1193.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://server.internext.tv:8000/live/imad/imad/1194.ts
-#EXTINF:-1,TR: NTV Spor
-http://server.internext.tv:8000/live/imad/imad/1229.ts
-#EXTINF:-1,TR: Minika Go
-http://server.internext.tv:8000/live/imad/imad/1195.ts
-#EXTINF:-1,TR: Lifetime TV Turkiye
-http://server.internext.tv:8000/live/imad/imad/1238.ts
-#EXTINF:-1,TR: Kids / Animez
-http://server.internext.tv:8000/live/imad/imad/1239.ts
-#EXTINF:-1,TR: Kanal D
-http://server.internext.tv:8000/live/imad/imad/1215.ts
-#EXTINF:-1,TR: Fox Life HD
-http://server.internext.tv:8000/live/imad/imad/1243.ts
-#EXTINF:-1,TR: Fashion One HD
-http://server.internext.tv:8000/live/imad/imad/1230.ts
-#EXTINF:-1,TR: Fanatik TV
-http://server.internext.tv:8000/live/imad/imad/1240.ts
-#EXTINF:-1,TR: Disney Junior
-http://server.internext.tv:8000/live/imad/imad/1231.ts
-#EXTINF:-1,TR: Discovery
-http://server.internext.tv:8000/live/imad/imad/1208.ts
-#EXTINF:-1,TR: Digimax
-http://server.internext.tv:8000/live/imad/imad/1223.ts
-#EXTINF:-1,TR: CNN Turk
-http://server.internext.tv:8000/live/imad/imad/1241.ts
-#EXTINF:-1,TR: Cinevision VIP
-http://server.internext.tv:8000/live/imad/imad/1201.ts
-#EXTINF:-1,TR: Cinemax Turk HD
-http://server.internext.tv:8000/live/imad/imad/1203.ts
-#EXTINF:-1,TR: Cinemax Premiere 3D
-http://server.internext.tv:8000/live/imad/imad/1204.ts
-#EXTINF:-1,TR: Cinemax Horror HD
-http://server.internext.tv:8000/live/imad/imad/1205.ts
-#EXTINF:-1,TR: Cinebox TR
-http://server.internext.tv:8000/live/imad/imad/1206.ts
-#EXTINF:-1,TR: Cinebox DE
-http://server.internext.tv:8000/live/imad/imad/1202.ts
-#EXTINF:-1,TR: Baby TV
-http://server.internext.tv:8000/live/imad/imad/1244.ts
-#EXTINF:-1,TR: ATV
-http://server.internext.tv:8000/live/imad/imad/1212.ts
-#EXTINF:-1,TR: 360 TV
-http://server.internext.tv:8000/live/imad/imad/1242.ts
-#EXTINF:-1,TR: 24 Haber
-http://server.internext.tv:8000/live/imad/imad/1213.ts
-#EXTINF:-1,TR Minika Cocuk
-http://server.internext.tv:8000/live/imad/imad/1196.ts
+#EXTM3U
+#EXTINF:-1,USA <>   Nick HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30555.ts
+#EXTINF:-1,USA <>   Insight HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30556.ts
+#EXTINF:-1,USA <>   Eleven Sports HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30557.ts
+#EXTINF:-1,USA <>   Eleven HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30558.ts
+#EXTINF:-1,USA <>   Bravo HD*
+http://hyper.de1-eu.com:8000/live/martik/martik/30643.ts
+#EXTINF:-1,NBA Live 7
+http://hyper.de1-eu.com:8000/live/martik/martik/30621.ts
+#EXTINF:-1,NBA Live 4
+http://hyper.de1-eu.com:8000/live/martik/martik/30622.ts
+#EXTINF:-1,NBA Live 2
+http://hyper.de1-eu.com:8000/live/martik/martik/30623.ts
+#EXTINF:-1,USA:CA <> TSN 5*
+http://hyper.de1-eu.com:8000/live/martik/martik/28263.ts
+#EXTINF:-1,USA:CA <> TSN 5 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28264.ts
+#EXTINF:-1,USA:CA <> TSN 4 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28262.ts
+#EXTINF:-1,USA:CA <> TSN 3*
+http://hyper.de1-eu.com:8000/live/martik/martik/28260.ts
+#EXTINF:-1,USA:CA <> TSN 3 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28261.ts
+#EXTINF:-1,USA:CA <> TSN 2*
+http://hyper.de1-eu.com:8000/live/martik/martik/28258.ts
+#EXTINF:-1,USA:CA <> TSN 2 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28259.ts
+#EXTINF:-1,USA:CA <> TSN 1*
+http://hyper.de1-eu.com:8000/live/martik/martik/28256.ts
+#EXTINF:-1,USA:CA <> TSN 1 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28257.ts
+#EXTINF:-1,USA:CA <> Sportsnet 360 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28265.ts
+#EXTINF:-1,USA DIY HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28288.ts
+#EXTINF:-1,USA <> YTV
+http://hyper.de1-eu.com:8000/live/martik/martik/28254.ts
+#EXTINF:-1,USA <> WWE HD**
+http://hyper.de1-eu.com:8000/live/martik/martik/28230.ts
+#EXTINF:-1,USA <> WWE HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28241.ts
+#EXTINF:-1,USA <> WFTV CH9 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28234.ts
+#EXTINF:-1,USA <> Weather Channel HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28231.ts
+#EXTINF:-1,USA <> UHD
+http://hyper.de1-eu.com:8000/live/martik/martik/28224.ts
+#EXTINF:-1,USA <> Travel
+http://hyper.de1-eu.com:8000/live/martik/martik/28251.ts
+#EXTINF:-1,USA <> TMN 4 MOVIE
+http://hyper.de1-eu.com:8000/live/martik/martik/28245.ts
+#EXTINF:-1,USA <> TMN 3 MOVIE
+http://hyper.de1-eu.com:8000/live/martik/martik/28246.ts
+#EXTINF:-1,USA <> TMN 2 MOVIE
+http://hyper.de1-eu.com:8000/live/martik/martik/28247.ts
+#EXTINF:-1,USA <> TMN 1 MOVIE
+http://hyper.de1-eu.com:8000/live/martik/martik/28248.ts
+#EXTINF:-1,USA <> Sport 1 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28297.ts
+#EXTINF:-1,USA <> Showtime West
+http://hyper.de1-eu.com:8000/live/martik/martik/28249.ts
+#EXTINF:-1,USA <> SHOWTIME HD DISH
+http://hyper.de1-eu.com:8000/live/martik/martik/28218.ts
+#EXTINF:-1,USA <> POKER HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28235.ts
+#EXTINF:-1,USA <> Poker Central
+http://hyper.de1-eu.com:8000/live/martik/martik/28253.ts
+#EXTINF:-1,USA <> PBS HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28180.ts
+#EXTINF:-1,USA <> PAC-12 Arizona  HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28239.ts
+#EXTINF:-1,USA <> OWN
+http://hyper.de1-eu.com:8000/live/martik/martik/28214.ts
+#EXTINF:-1,USA <> OLYMPICS Channel HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28233.ts
+#EXTINF:-1,USA <> NHL HD LOCAL
+http://hyper.de1-eu.com:8000/live/martik/martik/28221.ts
+#EXTINF:-1,USA <> NHL HD 6
+http://hyper.de1-eu.com:8000/live/martik/martik/28291.ts
+#EXTINF:-1,USA <> NHL HD 5
+http://hyper.de1-eu.com:8000/live/martik/martik/28292.ts
+#EXTINF:-1,USA <> NHL HD 4
+http://hyper.de1-eu.com:8000/live/martik/martik/28293.ts
+#EXTINF:-1,USA <> NHL HD 3
+http://hyper.de1-eu.com:8000/live/martik/martik/28294.ts
+#EXTINF:-1,USA <> NHL HD 2
+http://hyper.de1-eu.com:8000/live/martik/martik/28295.ts
+#EXTINF:-1,USA <> NHL HD 1
+http://hyper.de1-eu.com:8000/live/martik/martik/28296.ts
+#EXTINF:-1,USA <> NDTV
+http://hyper.de1-eu.com:8000/live/martik/martik/28255.ts
+#EXTINF:-1,USA <> NBCSN HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28266.ts
+#EXTINF:-1,USA <> NBC Golf*
+http://hyper.de1-eu.com:8000/live/martik/martik/28275.ts
+#EXTINF:-1,USA <> NBC Golf HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28267.ts
+#EXTINF:-1,USA <> NBA TV HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28240.ts
+#EXTINF:-1,USA <> NBA Live 6
+http://hyper.de1-eu.com:8000/live/martik/martik/28318.ts
+#EXTINF:-1,USA <> NBA Live 5
+http://hyper.de1-eu.com:8000/live/martik/martik/28321.ts
+#EXTINF:-1,USA <> NBA Live 3
+http://hyper.de1-eu.com:8000/live/martik/martik/28319.ts
+#EXTINF:-1,USA <> NBA Live 1
+http://hyper.de1-eu.com:8000/live/martik/martik/28320.ts
+#EXTINF:-1,USA <> Nat Geo Wild
+http://hyper.de1-eu.com:8000/live/martik/martik/28244.ts
+#EXTINF:-1,USA <> Nat Geo HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28219.ts
+#EXTINF:-1,USA <> NASA HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28236.ts
+#EXTINF:-1,USA <> Movie HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28298.ts
+#EXTINF:-1,USA <> Mello TV
+http://hyper.de1-eu.com:8000/live/martik/martik/28282.ts
+#EXTINF:-1,USA <> Max West
+http://hyper.de1-eu.com:8000/live/martik/martik/28243.ts
+#EXTINF:-1,USA <> Max East
+http://hyper.de1-eu.com:8000/live/martik/martik/28268.ts
+#EXTINF:-1,USA <> Lifetime HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28238.ts
+#EXTINF:-1,USA <> HSN 2 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28270.ts
+#EXTINF:-1,USA <> HIFI
+http://hyper.de1-eu.com:8000/live/martik/martik/28271.ts
+#EXTINF:-1,USA <> HGTV HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28272.ts
+#EXTINF:-1,USA <> HBO HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28273.ts
+#EXTINF:-1,USA <> Hallmark
+http://hyper.de1-eu.com:8000/live/martik/martik/28280.ts
+#EXTINF:-1,USA <> FX
+http://hyper.de1-eu.com:8000/live/martik/martik/28284.ts
+#EXTINF:-1,USA <> Fox Sports 1 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28276.ts
+#EXTINF:-1,USA <> FOX NEWS
+http://hyper.de1-eu.com:8000/live/martik/martik/28215.ts
+#EXTINF:-1,USA <> FOX 43
+http://hyper.de1-eu.com:8000/live/martik/martik/28216.ts
+#EXTINF:-1,USA <> FOOD NETWORK
+http://hyper.de1-eu.com:8000/live/martik/martik/28274.ts
+#EXTINF:-1,USA <> ESPN Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28278.ts
+#EXTINF:-1,USA <> ESPN 2
+http://hyper.de1-eu.com:8000/live/martik/martik/28277.ts
+#EXTINF:-1,USA <> E!
+http://hyper.de1-eu.com:8000/live/martik/martik/28279.ts
+#EXTINF:-1,USA <> DIY NETWORK
+http://hyper.de1-eu.com:8000/live/martik/martik/28281.ts
+#EXTINF:-1,USA <> Discovery Science
+http://hyper.de1-eu.com:8000/live/martik/martik/28287.ts
+#EXTINF:-1,USA <> CW HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28222.ts
+#EXTINF:-1,USA <> CNN
+http://hyper.de1-eu.com:8000/live/martik/martik/28252.ts
+#EXTINF:-1,USA <> CN HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28223.ts
+#EXTINF:-1,USA <> CBSN HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28283.ts
+#EXTINF:-1,USA <> CBS HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28269.ts
+#EXTINF:-1,USA <> CBC
+http://hyper.de1-eu.com:8000/live/martik/martik/28217.ts
+#EXTINF:-1,USA <> Bein Sports HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28285.ts
+#EXTINF:-1,USA <> Animal Planet Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28220.ts
+#EXTINF:-1,USA <> America Sport(Latino)
+http://hyper.de1-eu.com:8000/live/martik/martik/28250.ts
+#EXTINF:-1,USA <> Amazing Discoveries HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28242.ts
+#EXTINF:-1,USA <> ABC HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28286.ts
+#EXTINF:-1,USA <> A&E HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28289.ts
+#EXTINF:-1,USA <> A&E HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28290.ts
+#EXTINF:-1,USA <> *DISNEY HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28237.ts
+#EXTINF:-1,USA <> *CNBC HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28232.ts
+#EXTINF:-1,USA <>  USA <>  HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28301.ts
+#EXTINF:-1,USA <>  TNT HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28302.ts
+#EXTINF:-1,USA <>  SYFY HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28303.ts
+#EXTINF:-1,USA <>  SPIKE HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28304.ts
+#EXTINF:-1,USA <>  PBS HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28308.ts
+#EXTINF:-1,USA <>  NICKELODEN HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28306.ts
+#EXTINF:-1,USA <>  NBC HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28307.ts
+#EXTINF:-1,USA <>  LIFETIME HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28310.ts
+#EXTINF:-1,USA <>  HISTORY HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28311.ts
+#EXTINF:-1,USA <>  FXX HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28313.ts
+#EXTINF:-1,USA <>  FX HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28312.ts
+#EXTINF:-1,USA <>  FOX HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28316.ts
+#EXTINF:-1,USA <>  DUKE HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28317.ts
+#EXTINF:-1,USA <>  DIY HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28315.ts
+#EXTINF:-1,USA <>  Discovery HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28305.ts
+#EXTINF:-1,USA <>  COMEDY CENTRAL HD Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28314.ts
+#EXTINF:-1,USA <>  CA <> TSN 5*
+http://hyper.de1-eu.com:8000/live/martik/martik/28329.ts
+#EXTINF:-1,USA <>  CA <> TSN 5 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28330.ts
+#EXTINF:-1,USA <>  CA <> TSN 4 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28328.ts
+#EXTINF:-1,USA <>  CA <> TSN 3*
+http://hyper.de1-eu.com:8000/live/martik/martik/28326.ts
+#EXTINF:-1,USA <>  CA <> TSN 3 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28327.ts
+#EXTINF:-1,USA <>  CA <> TSN 2*
+http://hyper.de1-eu.com:8000/live/martik/martik/28324.ts
+#EXTINF:-1,USA <>  CA <> TSN 2 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28325.ts
+#EXTINF:-1,USA <>  CA <> TSN 1*
+http://hyper.de1-eu.com:8000/live/martik/martik/28322.ts
+#EXTINF:-1,USA <>  CA <> TSN 1 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28323.ts
+#EXTINF:-1,USA <>  CA <> Sportsnet 360 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/28331.ts
+#EXTINF:-1,USA <>  Bravo Local
+http://hyper.de1-eu.com:8000/live/martik/martik/28309.ts
+#EXTINF:-1,USA <>   Starz Encore
+http://hyper.de1-eu.com:8000/live/martik/martik/30664.ts
+#EXTINF:-1,USA <>   STARZ EDGE HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30665.ts
+#EXTINF:-1,USA <>   Starz East
+http://hyper.de1-eu.com:8000/live/martik/martik/30666.ts
+#EXTINF:-1,USA <>   Starz Comedy
+http://hyper.de1-eu.com:8000/live/martik/martik/30667.ts
+#EXTINF:-1,USA <>   Starz Cinema
+http://hyper.de1-eu.com:8000/live/martik/martik/30668.ts
+#EXTINF:-1,USA <>   Spectrum HD-US
+http://hyper.de1-eu.com:8000/live/martik/martik/30735.ts
+#EXTINF:-1,USA <>   Prime Pacific HD-US
+http://hyper.de1-eu.com:8000/live/martik/martik/30736.ts
+#EXTINF:-1,USA <>   Prime Atlantic HD-US
+http://hyper.de1-eu.com:8000/live/martik/martik/30737.ts
+#EXTINF:-1,USA <>   NFL Network HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30758.ts
+#EXTINF:-1,USA <>   ID X HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30734.ts
+#EXTINF:-1,USA <>   HBO Zone
+http://hyper.de1-eu.com:8000/live/martik/martik/30669.ts
+#EXTINF:-1,USA <>   HBO Signature
+http://hyper.de1-eu.com:8000/live/martik/martik/30670.ts
+#EXTINF:-1,USA <>   HBO East
+http://hyper.de1-eu.com:8000/live/martik/martik/30671.ts
+#EXTINF:-1,USA <>   HBO Comedy
+http://hyper.de1-eu.com:8000/live/martik/martik/30672.ts
+#EXTINF:-1,USA <>   Fox Sports 2 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30759.ts
+#EXTINF:-1,USA <>   AFN Sports UHD US
+http://hyper.de1-eu.com:8000/live/martik/martik/30738.ts
+#EXTINF:-1,USA <>   AFN Sports HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30739.ts
+#EXTINF:-1,USA <>   AFN Sports 2 HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30740.ts
+#EXTINF:-1,USA <>   AFN Pulse HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30741.ts
+#EXTINF:-1,USA <>   AFN News HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30742.ts
+#EXTINF:-1,USA <>   AFN Movie HD
+http://hyper.de1-eu.com:8000/live/martik/martik/30743.ts
