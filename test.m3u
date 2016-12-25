@@ -1,5 +1,312 @@
-#EXTM3U
-#EXTINF:-1,First Channel
-http://flvideo.ap.ntdtv.com:1935/live/mpegts800.stream/first.m3u8
-#EXTINF:-1,First Channel
-http://flvideo.ap.ntdtv.com:1935/live/mpegts400.stream/first.m3u8
+#EXTINF:-1,*****USA******
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2082.ts
+#EXTINF:-1,USA: WWE RAW HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1063.ts
+#EXTINF:-1,USA: TSN 5
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2492.ts
+#EXTINF:-1,USA: TSN 4
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1064.ts
+#EXTINF:-1,USA: TSN 3
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1065.ts
+#EXTINF:-1,USA: TSN 2
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1066.ts
+#EXTINF:-1,USA: TSN 1
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1067.ts
+#EXTINF:-1,USA: The Florida Channel
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1070.ts
+#EXTINF:-1,USA: FOX SPORT 2 HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1071.ts
+#EXTINF:-1,USA: FOX SPORT 1 HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1072.ts
+#EXTINF:-1,USA: BTN Sport
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1068.ts
+#EXTINF:-1,CA: NBC HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2809.ts
+#EXTINF:-1,USA: Espn2
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1069.ts
+#EXTINF:-1,USA: BEIN SPORT USA
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1062.ts
+#EXTINF:-1,US:NBA
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1815.ts
+#EXTINF:-1,US:ABC
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/1804.ts
+#EXTINF:-1,US: HBO ZONE
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2281.ts
+#EXTINF:-1,US: HBO HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2284.ts
+#EXTINF:-1,US: Travel Channel
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2475.ts
+#EXTINF:-1,US: Sport1 US
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2477.ts
+#EXTINF:-1,US: NFL
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2340.ts
+#EXTINF:-1,US: Food Network
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2339.ts
+#EXTINF:-1,US: Byu TV
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2338.ts
+#EXTINF:-1,US: Diy Network
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2479.ts
+#EXTINF:-1,US: TBS HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2520.ts
+#EXTINF:-1,US: CNN HD
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2539.ts
+#EXTINF:-1,US: Bravo
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2521.ts
+#EXTINF:-1,US: FX TV
+http://IPTV-VOLKAN.NET:8000/live/khalid12356/abuhassen123548/2538.ts
+#EXTINF:-1,------USA------
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1771.ts
+#EXTINF:-1,beIN SPORTS US
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1723.ts
+#EXTINF:-1,NBA
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1848.ts
+#EXTINF:-1,ABC
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1847.ts
+#EXTINF:-1,NFL
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1789.ts
+#EXTINF:-1,ESPN
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1791.ts
+#EXTINF:-1,TSN 1
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1765.ts
+#EXTINF:-1,TSN 2
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1764.ts
+#EXTINF:-1,TSN 3
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1763.ts
+#EXTINF:-1,TSN 4
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1762.ts
+#EXTINF:-1,TSN 5
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1761.ts
+#EXTINF:-1,FOX SPORT 1 HD
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1767.ts
+#EXTINF:-1,FOX SPORT 2 HD
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1766.ts
+#EXTINF:-1,ASTRO SPORT 1
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1769.ts
+#EXTINF:-1,ASTRO SPORT 2
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1770.ts
+#EXTINF:-1,ASTRO SPORT 3
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1768.ts
+#EXTINF:-1,ASTRO SPORT 4
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1790.ts
+#EXTINF:-1,ABC NEWS
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1760.ts
+#EXTINF:-1,fox usa
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1846.ts
+#EXTINF:-1,WWE RAW HD
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1864.ts
+#EXTINF:-1,Hbo Zone
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1861.ts
+#EXTINF:-1,HBO Signature
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1862.ts
+#EXTINF:-1,HBO HD
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1863.ts
+#EXTINF:-1,Hallmark
+http://media-planete.ddns.net:5890/live/khabuhassan/skype/1860.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 1
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1338.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 2
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1339.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 3
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/687.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 4
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/686.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 5
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/699.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/694.ts
+#EXTINF:-1,SKYUK:SKY SPORTS 2 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/695.ts
+#EXTINF:-1,SKYUK:SKY SPORT 3 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/696.ts
+#EXTINF:-1,SKYUK:SKY SPORT 4 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/697.ts
+#EXTINF:-1,SKYUK:SKY SPORT 5 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/698.ts
+#EXTINF:-1,SKYUK:SKY SPORTS F1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/700.ts
+#EXTINF:-1,SKYUK:SKY SPORTS NEWS HQ
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/701.ts
+#EXTINF:-1,SKYUK:SKY MODERN GREATS HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/674.ts
+#EXTINF:-1,SKYUK:SKY MOVIES ACTION
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/672.ts
+#EXTINF:-1,SKYUK:SKY MOVIES COMEDY
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/670.ts
+#EXTINF:-1,SKYUK:SKY MOVIES DRAMA
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/671.ts
+#EXTINF:-1,SKYUK:SKY MOVIES FAMILY HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/669.ts
+#EXTINF:-1,SKYUK:SKY MOVIES SCIFI
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1384.ts
+#EXTINF:-1,SKYUK:SKY MOVIES ACTION & ADVENTURE
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1383.ts
+#EXTINF:-1,SKYUK:SKY MOVIES PREMIERE HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/668.ts
+#EXTINF:-1,SKYUK:SKY ATLANTIC HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/673.ts
+#EXTINF:-1,SKYUK:SKY ACTION
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/666.ts
+#EXTINF:-1,SKYUK:SKY MOVIES SCI-FI & HORROR
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/676.ts
+#EXTINF:-1,SKYUK:SKY MOVIES SCIFI HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/667.ts
+#EXTINF:-1,SKYUK:SKY MOVIES THRILLER
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/675.ts
+#EXTINF:-1,SKYUK:ZING
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/724.ts
+#EXTINF:-1,SKYUK:TRAVEL CHANNEL
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/732.ts
+#EXTINF:-1,SKYUK:TLC
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/731.ts
+#EXTINF:-1,SKYUK:SKY TWO
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/651.ts
+#EXTINF:-1,SKYUK:SKY ONE HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/649.ts
+#EXTINF:-1,SKYUK:SKY ONE
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/650.ts
+#EXTINF:-1,SKYUK:SKY NEWS
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/684.ts
+#EXTINF:-1,SKYUK:SKY LIVING
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/677.ts
+#EXTINF:-1,SKYUK:SKY  ARTS 1
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/663.ts
+#EXTINF:-1,SKYUK:SKY  ARTS  2
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/664.ts
+#EXTINF:-1,SKYUK:SETANTA IRELAND
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/702.ts
+#EXTINF:-1,SKYUK:UK MOTORS
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1569.ts
+#EXTINF:-1,SKYUK:UK MORE 4
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1515.ts
+#EXTINF:-1,SKYUK:UK LIFETIME
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1519.ts
+#EXTINF:-1,SKYUK:UK GOLD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1521.ts
+#EXTINF:-1,SKYUK:UK DMAX
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1522.ts
+#EXTINF:-1,SKYUK:UK DISCOVERY
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1553.ts
+#EXTINF:-1,SKYUK:TG 4
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1514.ts
+#EXTINF:-1,SKYUK:SKY UK MOVIES SHOWCASE HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1534.ts
+#EXTINF:-1,SKYUK:SKY SELECT
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1517.ts
+#EXTINF:-1,SKYUK:SKY MOVIES THRILLER HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1535.ts
+#EXTINF:-1,SKYUK:SKY MOVIES SELECT HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1537.ts
+#EXTINF:-1,SKYUK:SKY MOVIES PREMIER HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1530.ts
+#EXTINF:-1,SKYUK:SKY MOVIES MODERN GREAT HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1536.ts
+#EXTINF:-1,SKYUK:SKY MOVIES DRAMA HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1533.ts
+#EXTINF:-1,SKYUK:SKY MOVIES DISNEY HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1542.ts
+#EXTINF:-1,SKYUK:SKY MOVIES COMEDY HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1532.ts
+#EXTINF:-1,SKYUK:SKY ARTS 1
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1516.ts
+#EXTINF:-1,SKYUK:NICKELODEON
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1546.ts
+#EXTINF:-1,SKYUK:NICK TOONS
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1548.ts
+#EXTINF:-1,SKYUK:NICK JUNIOR
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1550.ts
+#EXTINF:-1,SKYUK:NATIONAL GEO WILD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1552.ts
+#EXTINF:-1,SKYUK:NATIONAL GEO
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1551.ts
+#EXTINF:-1,SKYUK:MOVIES 4 MEN
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1538.ts
+#EXTINF:-1,SKYUK:LIVERPOOL FC
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1565.ts
+#EXTINF:-1,SKYUK:ITV  1
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1512.ts
+#EXTINF:-1,SKYUK:FOOD NETWORK
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1568.ts
+#EXTINF:-1,SKYUK:FOX
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1540.ts
+#EXTINF:-1,SKYUK:EUROSPORT 1
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1563.ts
+#EXTINF:-1,SKYUK:ESPN
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1567.ts
+#EXTINF:-1,SKYUK:DISNEY CHANNEL
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1543.ts
+#EXTINF:-1,SKYUK:DISCOVERY TURBO
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1555.ts
+#EXTINF:-1,SKYUK:DISCOVERY SCIENCE
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1554.ts
+#EXTINF:-1,SKYUK:DISCOVERY HISTORY
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1561.ts
+#EXTINF:-1,SKYUK:BT SPORTS EUROPE HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1564.ts
+#EXTINF:-1,SKYUK:BBC 3 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1511.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1445.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 2 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1446.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 3 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1450.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 4 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1447.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 5 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1448.ts
+#EXTINF:-1,SKYUK:CTH STADIUM 6 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/1449.ts
+#EXTINF:-1,SKYUK:RTE ONE
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/661.ts
+#EXTINF:-1,SKYUK:RTE 2 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/662.ts
+#EXTINF:-1,SKYUK:RTE 2
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/730.ts
+#EXTINF:-1,SKYUK:RACING UK
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/706.ts
+#EXTINF:-1,SKYUK:MUTV
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/704.ts
+#EXTINF:-1,SKYUK:MTV HITS
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/713.ts
+#EXTINF:-1,SKYUK:ITV 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/657.ts
+#EXTINF:-1,SKYUK:ITV 2
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/658.ts
+#EXTINF:-1,SKYUK:ITV 3
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/659.ts
+#EXTINF:-1,SKYUK:ITV 4
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/660.ts
+#EXTINF:-1,SKYUK:HISTORY CHANNEL
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/688.ts
+#EXTINF:-1,SKYUK:EUROSPORT 2
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/690.ts
+#EXTINF:-1,SKYUK:EUROSPORT 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/689.ts
+#EXTINF:-1,SKYUK:ESPN HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/679.ts
+#EXTINF:-1,SKYUK:DISNEY MOVIE
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/682.ts
+#EXTINF:-1,SKYUK:DISNEY JUNIOR
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/683.ts
+#EXTINF:-1,SKYUK:COMEDY CENTRAL
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/665.ts
+#EXTINF:-1,SKYUK:COLORS
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/725.ts
+#EXTINF:-1,SKYUK:CHELSEA TV
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/703.ts
+#EXTINF:-1,SKYUK:BT SPORTS 2 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/693.ts
+#EXTINF:-1,SKYUK:BT SPORT 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/691.ts
+#EXTINF:-1,SKYUK:BOX NATION  HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/707.ts
+#EXTINF:-1,SKYUK:BBC 4 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/656.ts
+#EXTINF:-1,SKYUK:BBC 3
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/655.ts
+#EXTINF:-1,SKYUK:BBC 2 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/654.ts
+#EXTINF:-1,SKYUK:BBC 1 HD
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/653.ts
+#EXTINF:-1,SKYUK:B4U MOVIES
+http://grandiptv.pw:8000/live/6grandiptv597/77885500/718.ts
