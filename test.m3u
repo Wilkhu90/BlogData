@@ -1,283 +1,107 @@
 #EXTM3U
-#EXTINF:-1,USA <>   Nick HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30555.ts
-#EXTINF:-1,USA <>   Insight HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30556.ts
-#EXTINF:-1,USA <>   Eleven Sports HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30557.ts
-#EXTINF:-1,USA <>   Eleven HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30558.ts
-#EXTINF:-1,USA <>   Bravo HD*
-http://hyper.de1-eu.com:8000/live/martik/martik/30643.ts
-#EXTINF:-1,NBA Live 7
-http://hyper.de1-eu.com:8000/live/martik/martik/30621.ts
-#EXTINF:-1,NBA Live 4
-http://hyper.de1-eu.com:8000/live/martik/martik/30622.ts
-#EXTINF:-1,NBA Live 2
-http://hyper.de1-eu.com:8000/live/martik/martik/30623.ts
-#EXTINF:-1,USA:CA <> TSN 5*
-http://hyper.de1-eu.com:8000/live/martik/martik/28263.ts
-#EXTINF:-1,USA:CA <> TSN 5 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28264.ts
-#EXTINF:-1,USA:CA <> TSN 4 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28262.ts
-#EXTINF:-1,USA:CA <> TSN 3*
-http://hyper.de1-eu.com:8000/live/martik/martik/28260.ts
-#EXTINF:-1,USA:CA <> TSN 3 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28261.ts
-#EXTINF:-1,USA:CA <> TSN 2*
-http://hyper.de1-eu.com:8000/live/martik/martik/28258.ts
-#EXTINF:-1,USA:CA <> TSN 2 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28259.ts
-#EXTINF:-1,USA:CA <> TSN 1*
-http://hyper.de1-eu.com:8000/live/martik/martik/28256.ts
-#EXTINF:-1,USA:CA <> TSN 1 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28257.ts
-#EXTINF:-1,USA:CA <> Sportsnet 360 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28265.ts
-#EXTINF:-1,USA DIY HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28288.ts
-#EXTINF:-1,USA <> YTV
-http://hyper.de1-eu.com:8000/live/martik/martik/28254.ts
-#EXTINF:-1,USA <> WWE HD**
-http://hyper.de1-eu.com:8000/live/martik/martik/28230.ts
-#EXTINF:-1,USA <> WWE HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28241.ts
-#EXTINF:-1,USA <> WFTV CH9 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28234.ts
-#EXTINF:-1,USA <> Weather Channel HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28231.ts
-#EXTINF:-1,USA <> UHD
-http://hyper.de1-eu.com:8000/live/martik/martik/28224.ts
-#EXTINF:-1,USA <> Travel
-http://hyper.de1-eu.com:8000/live/martik/martik/28251.ts
-#EXTINF:-1,USA <> TMN 4 MOVIE
-http://hyper.de1-eu.com:8000/live/martik/martik/28245.ts
-#EXTINF:-1,USA <> TMN 3 MOVIE
-http://hyper.de1-eu.com:8000/live/martik/martik/28246.ts
-#EXTINF:-1,USA <> TMN 2 MOVIE
-http://hyper.de1-eu.com:8000/live/martik/martik/28247.ts
-#EXTINF:-1,USA <> TMN 1 MOVIE
-http://hyper.de1-eu.com:8000/live/martik/martik/28248.ts
-#EXTINF:-1,USA <> Sport 1 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28297.ts
-#EXTINF:-1,USA <> Showtime West
-http://hyper.de1-eu.com:8000/live/martik/martik/28249.ts
-#EXTINF:-1,USA <> SHOWTIME HD DISH
-http://hyper.de1-eu.com:8000/live/martik/martik/28218.ts
-#EXTINF:-1,USA <> POKER HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28235.ts
-#EXTINF:-1,USA <> Poker Central
-http://hyper.de1-eu.com:8000/live/martik/martik/28253.ts
-#EXTINF:-1,USA <> PBS HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28180.ts
-#EXTINF:-1,USA <> PAC-12 Arizona  HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28239.ts
-#EXTINF:-1,USA <> OWN
-http://hyper.de1-eu.com:8000/live/martik/martik/28214.ts
-#EXTINF:-1,USA <> OLYMPICS Channel HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28233.ts
-#EXTINF:-1,USA <> NHL HD LOCAL
-http://hyper.de1-eu.com:8000/live/martik/martik/28221.ts
-#EXTINF:-1,USA <> NHL HD 6
-http://hyper.de1-eu.com:8000/live/martik/martik/28291.ts
-#EXTINF:-1,USA <> NHL HD 5
-http://hyper.de1-eu.com:8000/live/martik/martik/28292.ts
-#EXTINF:-1,USA <> NHL HD 4
-http://hyper.de1-eu.com:8000/live/martik/martik/28293.ts
-#EXTINF:-1,USA <> NHL HD 3
-http://hyper.de1-eu.com:8000/live/martik/martik/28294.ts
-#EXTINF:-1,USA <> NHL HD 2
-http://hyper.de1-eu.com:8000/live/martik/martik/28295.ts
-#EXTINF:-1,USA <> NHL HD 1
-http://hyper.de1-eu.com:8000/live/martik/martik/28296.ts
-#EXTINF:-1,USA <> NDTV
-http://hyper.de1-eu.com:8000/live/martik/martik/28255.ts
-#EXTINF:-1,USA <> NBCSN HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28266.ts
-#EXTINF:-1,USA <> NBC Golf*
-http://hyper.de1-eu.com:8000/live/martik/martik/28275.ts
-#EXTINF:-1,USA <> NBC Golf HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28267.ts
-#EXTINF:-1,USA <> NBA TV HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28240.ts
-#EXTINF:-1,USA <> NBA Live 6
-http://hyper.de1-eu.com:8000/live/martik/martik/28318.ts
-#EXTINF:-1,USA <> NBA Live 5
-http://hyper.de1-eu.com:8000/live/martik/martik/28321.ts
-#EXTINF:-1,USA <> NBA Live 3
-http://hyper.de1-eu.com:8000/live/martik/martik/28319.ts
-#EXTINF:-1,USA <> NBA Live 1
-http://hyper.de1-eu.com:8000/live/martik/martik/28320.ts
-#EXTINF:-1,USA <> Nat Geo Wild
-http://hyper.de1-eu.com:8000/live/martik/martik/28244.ts
-#EXTINF:-1,USA <> Nat Geo HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28219.ts
-#EXTINF:-1,USA <> NASA HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28236.ts
-#EXTINF:-1,USA <> Movie HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28298.ts
-#EXTINF:-1,USA <> Mello TV
-http://hyper.de1-eu.com:8000/live/martik/martik/28282.ts
-#EXTINF:-1,USA <> Max West
-http://hyper.de1-eu.com:8000/live/martik/martik/28243.ts
-#EXTINF:-1,USA <> Max East
-http://hyper.de1-eu.com:8000/live/martik/martik/28268.ts
-#EXTINF:-1,USA <> Lifetime HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28238.ts
-#EXTINF:-1,USA <> HSN 2 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28270.ts
-#EXTINF:-1,USA <> HIFI
-http://hyper.de1-eu.com:8000/live/martik/martik/28271.ts
-#EXTINF:-1,USA <> HGTV HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28272.ts
-#EXTINF:-1,USA <> HBO HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28273.ts
-#EXTINF:-1,USA <> Hallmark
-http://hyper.de1-eu.com:8000/live/martik/martik/28280.ts
-#EXTINF:-1,USA <> FX
-http://hyper.de1-eu.com:8000/live/martik/martik/28284.ts
-#EXTINF:-1,USA <> Fox Sports 1 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28276.ts
-#EXTINF:-1,USA <> FOX NEWS
-http://hyper.de1-eu.com:8000/live/martik/martik/28215.ts
-#EXTINF:-1,USA <> FOX 43
-http://hyper.de1-eu.com:8000/live/martik/martik/28216.ts
-#EXTINF:-1,USA <> FOOD NETWORK
-http://hyper.de1-eu.com:8000/live/martik/martik/28274.ts
-#EXTINF:-1,USA <> ESPN Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28278.ts
-#EXTINF:-1,USA <> ESPN 2
-http://hyper.de1-eu.com:8000/live/martik/martik/28277.ts
-#EXTINF:-1,USA <> E!
-http://hyper.de1-eu.com:8000/live/martik/martik/28279.ts
-#EXTINF:-1,USA <> DIY NETWORK
-http://hyper.de1-eu.com:8000/live/martik/martik/28281.ts
-#EXTINF:-1,USA <> Discovery Science
-http://hyper.de1-eu.com:8000/live/martik/martik/28287.ts
-#EXTINF:-1,USA <> CW HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28222.ts
-#EXTINF:-1,USA <> CNN
-http://hyper.de1-eu.com:8000/live/martik/martik/28252.ts
-#EXTINF:-1,USA <> CN HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28223.ts
-#EXTINF:-1,USA <> CBSN HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28283.ts
-#EXTINF:-1,USA <> CBS HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28269.ts
-#EXTINF:-1,USA <> CBC
-http://hyper.de1-eu.com:8000/live/martik/martik/28217.ts
-#EXTINF:-1,USA <> Bein Sports HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28285.ts
-#EXTINF:-1,USA <> Animal Planet Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28220.ts
-#EXTINF:-1,USA <> America Sport(Latino)
-http://hyper.de1-eu.com:8000/live/martik/martik/28250.ts
-#EXTINF:-1,USA <> Amazing Discoveries HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28242.ts
-#EXTINF:-1,USA <> ABC HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28286.ts
-#EXTINF:-1,USA <> A&E HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28289.ts
-#EXTINF:-1,USA <> A&E HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28290.ts
-#EXTINF:-1,USA <> *DISNEY HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28237.ts
-#EXTINF:-1,USA <> *CNBC HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28232.ts
-#EXTINF:-1,USA <>  USA <>  HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28301.ts
-#EXTINF:-1,USA <>  TNT HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28302.ts
-#EXTINF:-1,USA <>  SYFY HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28303.ts
-#EXTINF:-1,USA <>  SPIKE HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28304.ts
-#EXTINF:-1,USA <>  PBS HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28308.ts
-#EXTINF:-1,USA <>  NICKELODEN HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28306.ts
-#EXTINF:-1,USA <>  NBC HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28307.ts
-#EXTINF:-1,USA <>  LIFETIME HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28310.ts
-#EXTINF:-1,USA <>  HISTORY HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28311.ts
-#EXTINF:-1,USA <>  FXX HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28313.ts
-#EXTINF:-1,USA <>  FX HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28312.ts
-#EXTINF:-1,USA <>  FOX HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28316.ts
-#EXTINF:-1,USA <>  DUKE HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28317.ts
-#EXTINF:-1,USA <>  DIY HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28315.ts
-#EXTINF:-1,USA <>  Discovery HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28305.ts
-#EXTINF:-1,USA <>  COMEDY CENTRAL HD Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28314.ts
-#EXTINF:-1,USA <>  CA <> TSN 5*
-http://hyper.de1-eu.com:8000/live/martik/martik/28329.ts
-#EXTINF:-1,USA <>  CA <> TSN 5 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28330.ts
-#EXTINF:-1,USA <>  CA <> TSN 4 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28328.ts
-#EXTINF:-1,USA <>  CA <> TSN 3*
-http://hyper.de1-eu.com:8000/live/martik/martik/28326.ts
-#EXTINF:-1,USA <>  CA <> TSN 3 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28327.ts
-#EXTINF:-1,USA <>  CA <> TSN 2*
-http://hyper.de1-eu.com:8000/live/martik/martik/28324.ts
-#EXTINF:-1,USA <>  CA <> TSN 2 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28325.ts
-#EXTINF:-1,USA <>  CA <> TSN 1*
-http://hyper.de1-eu.com:8000/live/martik/martik/28322.ts
-#EXTINF:-1,USA <>  CA <> TSN 1 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28323.ts
-#EXTINF:-1,USA <>  CA <> Sportsnet 360 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/28331.ts
-#EXTINF:-1,USA <>  Bravo Local
-http://hyper.de1-eu.com:8000/live/martik/martik/28309.ts
-#EXTINF:-1,USA <>   Starz Encore
-http://hyper.de1-eu.com:8000/live/martik/martik/30664.ts
-#EXTINF:-1,USA <>   STARZ EDGE HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30665.ts
-#EXTINF:-1,USA <>   Starz East
-http://hyper.de1-eu.com:8000/live/martik/martik/30666.ts
-#EXTINF:-1,USA <>   Starz Comedy
-http://hyper.de1-eu.com:8000/live/martik/martik/30667.ts
-#EXTINF:-1,USA <>   Starz Cinema
-http://hyper.de1-eu.com:8000/live/martik/martik/30668.ts
-#EXTINF:-1,USA <>   Spectrum HD-US
-http://hyper.de1-eu.com:8000/live/martik/martik/30735.ts
-#EXTINF:-1,USA <>   Prime Pacific HD-US
-http://hyper.de1-eu.com:8000/live/martik/martik/30736.ts
-#EXTINF:-1,USA <>   Prime Atlantic HD-US
-http://hyper.de1-eu.com:8000/live/martik/martik/30737.ts
-#EXTINF:-1,USA <>   NFL Network HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30758.ts
-#EXTINF:-1,USA <>   ID X HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30734.ts
-#EXTINF:-1,USA <>   HBO Zone
-http://hyper.de1-eu.com:8000/live/martik/martik/30669.ts
-#EXTINF:-1,USA <>   HBO Signature
-http://hyper.de1-eu.com:8000/live/martik/martik/30670.ts
-#EXTINF:-1,USA <>   HBO East
-http://hyper.de1-eu.com:8000/live/martik/martik/30671.ts
-#EXTINF:-1,USA <>   HBO Comedy
-http://hyper.de1-eu.com:8000/live/martik/martik/30672.ts
-#EXTINF:-1,USA <>   Fox Sports 2 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30759.ts
-#EXTINF:-1,USA <>   AFN Sports UHD US
-http://hyper.de1-eu.com:8000/live/martik/martik/30738.ts
-#EXTINF:-1,USA <>   AFN Sports HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30739.ts
-#EXTINF:-1,USA <>   AFN Sports 2 HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30740.ts
-#EXTINF:-1,USA <>   AFN Pulse HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30741.ts
-#EXTINF:-1,USA <>   AFN News HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30742.ts
-#EXTINF:-1,USA <>   AFN Movie HD
-http://hyper.de1-eu.com:8000/live/martik/martik/30743.ts
+#EXTINF:-1,A&E
+http://5.226.137.176:9090/load/free123/2.mpegts
+#EXTINF:-1,ABC
+http://5.226.137.176:9090/load/free123/3.mpegts
+#EXTINF:-1,AMC
+http://5.226.137.176:9090/load/free123/4.mpegts
+#EXTINF:-1,Animal Planet US
+http://5.226.137.176:9090/load/free123/27.mpegts
+#EXTINF:-1,Cinemas EAST
+http://5.226.137.176:9090/load/free123/18.mpegts
+#EXTINF:-1,Cinemax 5Stars
+http://5.226.137.176:9090/load/free123/21.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://5.226.137.176:9090/load/free123/20.mpegts
+#EXTINF:-1,CNN US
+http://5.226.137.176:9090/load/free123/16.mpegts
+#EXTINF:-1,Comedy Central US
+http://5.226.137.176:9090/load/free123/14.mpegts
+#EXTINF:-1,Discovery Channel US
+http://5.226.137.176:9090/load/free123/49.mpegts
+#EXTINF:-1,E!
+http://5.226.137.176:9090/load/free123/5.mpegts
+#EXTINF:-1,ESPN
+http://5.226.137.176:9090/load/free123/30.mpegts
+#EXTINF:-1,ESPN2
+http://5.226.137.176:9090/load/free123/31.mpegts
+#EXTINF:-1,FOX
+http://5.226.137.176:9090/load/free123/6.mpegts
+#EXTINF:-1,Fox Sports1
+http://5.226.137.176:9090/load/free123/32.mpegts
+#EXTINF:-1,Fox Sports2
+http://5.226.137.176:9090/load/free123/33.mpegts
+#EXTINF:-1,FX
+http://5.226.137.176:9090/load/free123/7.mpegts
+#EXTINF:-1,H2 US
+http://5.226.137.176:9090/load/free123/25.mpegts
+#EXTINF:-1,HallMark
+http://5.226.137.176:9090/load/free123/9.mpegts
+#EXTINF:-1,HBO Comedy
+http://5.226.137.176:9090/load/free123/53.mpegts
+#EXTINF:-1,HBO EAST
+http://5.226.137.176:9090/load/free123/17.mpegts
+#EXTINF:-1,HBO Family
+http://5.226.137.176:9090/load/free123/52.mpegts
+#EXTINF:-1,HBO Signature
+http://5.226.137.176:9090/load/free123/51.mpegts
+#EXTINF:-1,HBO ZONE
+http://5.226.137.176:9090/load/free123/50.mpegts
+#EXTINF:-1,HGTV
+http://5.226.137.176:9090/load/free123/29.mpegts
+#EXTINF:-1,History US
+http://5.226.137.176:9090/load/free123/24.mpegts
+#EXTINF:-1,Investigation Discovery US
+http://5.226.137.176:9090/load/free123/28.mpegts
+#EXTINF:-1,Lifetime US
+http://5.226.137.176:9090/load/free123/15.mpegts
+#EXTINF:-1,LMN
+http://5.226.137.176:9090/load/free123/8.mpegts
+#EXTINF:-1,NatGeo Wild US
+http://5.226.137.176:9090/load/free123/48.mpegts
+#EXTINF:-1,National Geographic US
+http://5.226.137.176:9090/load/free123/26.mpegts
+#EXTINF:-1,NBA
+http://5.226.137.176:9090/load/free123/34.mpegts
+#EXTINF:-1,NBC
+http://5.226.137.176:9090/load/free123/1.mpegts
+#EXTINF:-1,NBC SN
+http://5.226.137.176:9090/load/free123/43.mpegts
+#EXTINF:-1,NFL Network
+http://5.226.137.176:9090/load/free123/35.mpegts
+#EXTINF:-1,Showtime
+http://5.226.137.176:9090/load/free123/19.mpegts
+#EXTINF:-1,Showtime West
+http://5.226.137.176:9090/load/free123/54.mpegts
+#EXTINF:-1,Spike US
+http://5.226.137.176:9090/load/free123/12.mpegts
+#EXTINF:-1,Sportnet 360
+http://5.226.137.176:9090/load/free123/45.mpegts
+#EXTINF:-1,Sportsnet ONE
+http://5.226.137.176:9090/load/free123/44.mpegts
+#EXTINF:-1,Sportsnet Ontario
+http://5.226.137.176:9090/load/free123/47.mpegts
+#EXTINF:-1,SPORTSNET WORLD
+http://5.226.137.176:9090/load/free123/46.mpegts
+#EXTINF:-1,Starz Edge
+http://5.226.137.176:9090/load/free123/22.mpegts
+#EXTINF:-1,Starz Encore
+http://5.226.137.176:9090/load/free123/23.mpegts
+#EXTINF:-1,SyFY US
+http://5.226.137.176:9090/load/free123/11.mpegts
+#EXTINF:-1,TBS
+http://5.226.137.176:9090/load/free123/42.mpegts
+#EXTINF:-1,TNT
+http://5.226.137.176:9090/load/free123/13.mpegts
+#EXTINF:-1,TSN1
+http://5.226.137.176:9090/load/free123/36.mpegts
+#EXTINF:-1,TSN2
+http://5.226.137.176:9090/load/free123/37.mpegts
+#EXTINF:-1,TSN3
+http://5.226.137.176:9090/load/free123/38.mpegts
+#EXTINF:-1,TSN4
+http://5.226.137.176:9090/load/free123/39.mpegts
+#EXTINF:-1,TSN5
+http://5.226.137.176:9090/load/free123/40.mpegts
+#EXTINF:-1,USA Network
+http://5.226.137.176:9090/load/free123/10.mpegts
