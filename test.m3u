@@ -1,161 +1,1140 @@
 #EXTM3U
-#EXTINF:0,A&E
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNDozMCBQTSZoYXNoX3ZhbHVlPVd2S2NMOXMzRTFoaUFRQU83WW5pRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/ae9.stream
-#EXTINF:0,ABC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
-#EXTINF:0,ABC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiBQTSZoYXNoX3ZhbHVlPXMrWlZqNFVkVTQ2MjlWOVYzaDBhOWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abc9.stream
-#EXTINF:0,AMC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
-#EXTINF:0,AMC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
-#EXTINF:0,Animal Planet
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
-#EXTINF:0,BBC 1
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NDowOCBQTSZoYXNoX3ZhbHVlPTNETnM0UXlEZjIvM05qa3IvZFpma3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc1.stream
-#EXTINF:0,BBC 2
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPTR5Q3dtWlUrdkRMYk5md1BaVFpqbFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc2.stream
-#EXTINF:0,BBC 3
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTowOCBQTSZoYXNoX3ZhbHVlPVRqWFludmQraGIyZzVjRXFwRkQ0UHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc3.stream
-#EXTINF:0,BBC 4
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MjoyNCBQTSZoYXNoX3ZhbHVlPXhKWEFuZFpNc3Y4QVBjV3lVRE11VEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc4.stream
-#EXTINF:0,BBC News
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MzoxNCBQTSZoYXNoX3ZhbHVlPW05Zkc1bThtWUhkQVByMGhxMXFPaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbcnews.stream
-#EXTINF:0,BLOOMBERG
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTI6NTAgUE0maGFzaF92YWx1ZT1CWUF3QVJieURXNmJTSStEcDFNbldnPT0mdmFsaWRtaW51dGVzPTIw/bloomberg.stream
-#EXTINF:0,Bravo HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1Njo0OCBQTSZoYXNoX3ZhbHVlPWNPem1DQmFqcXJVaEk4NUlObVNmcmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bravo77
-#EXTINF:0,Cartoon Network
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NzozOSBQTSZoYXNoX3ZhbHVlPXNvSDFOejgrbng5YWx6UWM3T1BMQ0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cn77
-#EXTINF:0,CBS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1OToyOCBQTSZoYXNoX3ZhbHVlPWlmek1iRjVJRmdRR2IrRk1DRHh1dWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbs9.stream
-#EXTINF:0,CBS Action
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMDowNSBQTSZoYXNoX3ZhbHVlPXZkTnpRM1Z1VGdXRFh6MGlRakI0M3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsaction.stream
-#EXTINF:0,CBS Drama
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMzoyNSBQTSZoYXNoX3ZhbHVlPVZ4WkpOK3E4ZEtXWmRjaTU5QjdsRXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsdrama.stream
-#EXTINF:0,CBS Reality
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNDo0OCBQTSZoYXNoX3ZhbHVlPXd6b0ZrMkcvbHVSemFDeUlkMCtlT1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsreality.stream
-#EXTINF:0,CNBC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNTo0NSBQTSZoYXNoX3ZhbHVlPTRRUlR5SFJDbVFibVViOFUyMFh6U2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnbc.stream
-#EXTINF:0,CNN
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowODo1MyBQTSZoYXNoX3ZhbHVlPUM2R2xpcnlHT2pTYmdpQVAxYWxNY0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnn.stream
-#EXTINF:0,CW
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMTo0NyBQTSZoYXNoX3ZhbHVlPUlvakpRRURQRUJ2cUd0L1lEKzJtUGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cw77
-#EXTINF:0,Discovery
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMjozNCBQTSZoYXNoX3ZhbHVlPWFRU2FTSUxRT2ErYkVMOE5IVUxMY3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discovery.stream
-#EXTINF:0,Discovery History
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxOToyMSBQTSZoYXNoX3ZhbHVlPURISUJVS3VCR0xYTWMrNHRjQW5MeEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoveryh.stream
-#EXTINF:0,Science Discovery
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMDowMiBQTSZoYXNoX3ZhbHVlPUI4dHYvWGpyQk1RUFIrdW05SUo1Y2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoverys.stream
-#EXTINF:0,Disney
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTowMyBQTSZoYXNoX3ZhbHVlPTIwazVZL1ZnL2dKKzNwL2lnRC8zZFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/disney.stream
-#EXTINF:0,Disney Jr
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTo0NSBQTSZoYXNoX3ZhbHVlPXkrR2dic0hRRTZEb2poSTNFdjJJZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/disneyjrr.stream
-#EXTINF:0,E
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMjo0MiBQTSZoYXNoX3ZhbHVlPVpBbjJXMVREaXlUcDFyK1haQ3pOZ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ee.stream
-#EXTINF:0,FOOD NETWORK
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyNjo1OCBQTSZoYXNoX3ZhbHVlPVNvMVl5NXB6ZXhwMjlRN0ZyYzBSa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/foodnetwork.stream
-#EXTINF:0,FOX HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyODo1OCBQTSZoYXNoX3ZhbHVlPU4raGN6dHJ1VFN2RmtQT3F1bkNZRlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/foxhd.stream
-#EXTINF:0,HISTORY
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMzo1NSBQTSZoYXNoX3ZhbHVlPVl3S3BaMjdicDFDVDRweTd6WWpBRGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/history.stream
-#EXTINF:0,HISTORY 2 (H2)
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMjoyNyBQTSZoYXNoX3ZhbHVlPTdZU1E1KzNnWWZicjZFMUhzRkprVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/h2.stream
-#EXTINF:0,ITV
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjoxNSBQTSZoYXNoX3ZhbHVlPVYvTncxK2xKTi9ONjAxNncxb0o5VWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv11.stream
-#EXTINF:0,ITV 2
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTozMjoyOSBQTSZoYXNoX3ZhbHVlPW53VFdub3pBcHpGeDMzSGJiWVZyamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv2.stream
-#EXTINF:0,ITV 3
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo0MDozNSBQTSZoYXNoX3ZhbHVlPW16NE9jM1FUWVdBRmVLZkhwMVc5TGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv3.stream
-#EXTINF:0,ITV 4
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo0MTozNSBQTSZoYXNoX3ZhbHVlPXl1cGVoYzIxNTVuOEJlNXYxRUFjeFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv4.stream
-#EXTINF:0,LIFETIME
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjo1OSBQTSZoYXNoX3ZhbHVlPWd6MXVJQjR3YnpkYWM5d0NKL0FIdkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/lifetime9.stream
-#EXTINF:0,NAT GEO
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNzo0NCBQTSZoYXNoX3ZhbHVlPWlPL2U3VGlhNlBnM0d6WE8vZTBKcXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeo.stream
-#EXTINF:0,NAT GEO WILD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozOTo0MCBQTSZoYXNoX3ZhbHVlPWZFOURJVW5aOE5udTBMVlVhd3dBMGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeow.stream
-#EXTINF:0,NBA TV
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MDo1NSBQTSZoYXNoX3ZhbHVlPS9vRVI2eVFuRnlZVzU1VE1HRlZGU1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/nba.stream
-#EXTINF:0,NBC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
-#EXTINF:0,NBC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MjoxOSBQTSZoYXNoX3ZhbHVlPVBTQ2FKL3hncXRPQWQxVE5HdXk1K3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbchd.stream
-#EXTINF:0,NFL NETWORK
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0Mjo1NiBQTSZoYXNoX3ZhbHVlPUw0cDV3MWVjRmZxMmlWL2RxWDZQRVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nfl.stream
-#EXTINF:0,NICK
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NTowMCBQTSZoYXNoX3ZhbHVlPW9sSVZqU0xlNTBtcWw4bUUvTG5HMHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nick.stream
-#EXTINF:0,NICK TOONS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NToyOSBQTSZoYXNoX3ZhbHVlPTBFdzhxWTZtTEwxSUJDWDRyaXJFRUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nicktoons.stream
-#EXTINF:0,PBS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NjoxMiBQTSZoYXNoX3ZhbHVlPWhiZ3lIRGhmQk9mWE1lOU1GRS8zNkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/pbs9.stream
-#EXTINF:0,SPIKE
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1NDowOSBQTSZoYXNoX3ZhbHVlPW5pUStsQmpoU2tCVHlwVS9vbFBRdkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/spike9.stream
-#EXTINF:0,TBS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MTo1OCBQTSZoYXNoX3ZhbHVlPU83ZHcwRTUvNkhybEFpWEFLUGVsM1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/tbs9.stream
-#EXTINF:0,TNT HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MDowOCBQTSZoYXNoX3ZhbHVlPTdULzdhZ21rMzVMdHNWN0dwTktudWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/tnthd.stream
-#EXTINF:0,TRAVEL CHANNEL
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1MTowNiBQTSZoYXNoX3ZhbHVlPUhjOXhDaWZ0R2cyK3ZpZ3l0bDJFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/travel.stream
-#EXTINF:0,TRUE MOVIES 1
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo0OToyMiBQTSZoYXNoX3ZhbHVlPWVmLzdtcnNldGdqNDl5T3l1MmdGSHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/true1.stream
-#EXTINF:0,TRUE MOVIES 2
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo0ODozOCBQTSZoYXNoX3ZhbHVlPUQwTVdlekVoL3BWR2thbm56cjJna1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/true2.stream
-#EXTINF:0,WWE
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNDoyNCBQTSZoYXNoX3ZhbHVlPXlJc3VGUEJsQlFiNEl4TW5IWHZuMXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/wwe.stream
-#EXTINF:0,VH1
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNToyNCBQTSZoYXNoX3ZhbHVlPUltWUJiamQvK2dWUy9uQTJ4NzRTUUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/vh1.stream
-#EXTINF:0,USA
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNzozOSBQTSZoYXNoX3ZhbHVlPXRFK1kvNkl0dG1VMEpUalhic0x4dVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/usa9.stream
-#EXTINF:0,SKY ACTION & ADVENTURE
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream
-#EXTINF:0,SKY CRIME & THRILLER
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream
-#EXTINF:0,SKY COMEDY
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
-#EXTINF:0,SKY COMEDY
-rtmp://play.uktvnow.net:1935/live/mcomedy.stream
-#EXTINF:0,SKY DRAMA & ROMANCE
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream
-#EXTINF:0,SKY DISNEY
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream
-#EXTINF:0,SKY FAMILY
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream
-#EXTINF:0,SKY PREMIER
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream
-#EXTINF:0,SKY SCI-FI & HORROR
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream
-#EXTINF:0,SKY 1
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDg6NDMgUE0maGFzaF92YWx1ZT03YkxuWnB1YUNPa3RoQjFmS1hvNHFnPT0mdmFsaWRtaW51dGVzPTIw/sky1.stream
-#EXTINF:0,SKY 2
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTA6MjIgUE0maGFzaF92YWx1ZT10dW5ENkwySWg4QVdKWTk4dDhTNkJBPT0mdmFsaWRtaW51dGVzPTIw/sky2.stream
-#EXTINF:0,SKY ATLANTIC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDg6MDkgUE0maGFzaF92YWx1ZT1oZW5DUEt0NDJXeW5JZmt4bUZvMmJnPT0mdmFsaWRtaW51dGVzPTIw/skyatlantic.stream
-#EXTINF:0,SKY LIVING
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDc6MzQgUE0maGFzaF92YWx1ZT1VYmptNDJUMTBKKy9GaHJNbWlHUStRPT0mdmFsaWRtaW51dGVzPTIw/skyliving.stream
-#EXTINF:0,SKY NEWS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDY6NDQgUE0maGFzaF92YWx1ZT1vaWdBWStDTzVJQSs5bDB2VTJETjBBPT0mdmFsaWRtaW51dGVzPTIw/skynews.stream
-#EXTINF:0,MTV
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTg6MDEgUE0maGFzaF92YWx1ZT1qc1RJVGNsSUVXL3RVenBVMm5JUU5nPT0mdmFsaWRtaW51dGVzPTIw/mtvmusic.stream
-#EXTINF:0,MTV CLASSIC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTg6MzIgUE0maGFzaF92YWx1ZT1FRU9sL0xQVUxqSW1wMDBLeHhYeTRBPT0mdmFsaWRtaW51dGVzPTIw/mtvclassic.stream
-#EXTINF:0,MTV HITS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NTk6MDYgUE0maGFzaF92YWx1ZT1RQWE2QW4xT3lYWHFIMkdCRTFZaFlnPT0mdmFsaWRtaW51dGVzPTIw/mtvhits.stream
-#EXTINF:0,FLAVA
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDE6MjUgUE0maGFzaF92YWx1ZT1Mc3RoQzVSUzVTaW1FTVQwTmNUbmhBPT0mdmFsaWRtaW51dGVzPTIw/flava.stream
-#EXTINF:0,3E
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTY6MzkgUE0maGFzaF92YWx1ZT1jdVdwY2RQaVlVanpWUFo2ZW9kMnNBPT0mdmFsaWRtaW51dGVzPTIw/3e.stream
-#EXTINF:0,CHANNEL 4
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDg6MzIgUE0maGFzaF92YWx1ZT1TWWpQVm1aOXNwejZnQzR4VXUzaHR3PT0mdmFsaWRtaW51dGVzPTIw/c4.stream
-#EXTINF:0,CHELSEA TV
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDc6NTYgUE0maGFzaF92YWx1ZT1kaFJLWmVXTkgrS2hRUCtxYkR5OFJ3PT0mdmFsaWRtaW51dGVzPTIw/chelsea.stream
-#EXTINF:0,DMAX
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDc6MTQgUE0maGFzaF92YWx1ZT1BWUxTT0djY25ZZEpJVUM3NytmMU1RPT0mdmFsaWRtaW51dGVzPTIw/dmax.stream
-#EXTINF:0,DRAMA
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDY6NDAgUE0maGFzaF92YWx1ZT1jNXdOK3AxazJqazdCUTROMjNWeG9nPT0mdmFsaWRtaW51dGVzPTIw/drama.stream
-#EXTINF:0,E4
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDU6NTQgUE0maGFzaF92YWx1ZT1pWDFIckVmSEliRTFIYlFtdERuai93PT0mdmFsaWRtaW51dGVzPTIw/e4.stream
-#EXTINF:0,FILM4
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDE6NTYgUE0maGFzaF92YWx1ZT1GNU5WK1R2eFZqRUNiR0w0a1g4bkFBPT0mdmFsaWRtaW51dGVzPTIw/film4.stream
-#EXTINF:0,FIVE
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDI6MjkgUE0maGFzaF92YWx1ZT16c284eVR6em0ycExyT2hOWFl4clZRPT0mdmFsaWRtaW51dGVzPTIw/five.stream
+#EXTINF:0,UK | SkySportF1Uk
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1073.ts
+#EXTINF:0,UK | PremierSport
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1074.ts
+#EXTINF:0,UK | SetantaSport
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1075.ts
+#EXTINF:0,UK | Setanta
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1076.ts
+#EXTINF:0,UK | BTSportESPN
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1077.ts
+#EXTINF:0,UK | BTSport2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1078.ts
+#EXTINF:0,UK | BTSport1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1079.ts
+#EXTINF:0,UK | BTSportEurope
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1085.ts
+#EXTINF:0,UK | SkysportNews
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1086.ts
+#EXTINF:0,UK | SkySportNewsUk
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1087.ts
+#EXTINF:0,UK | SkysportF1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1088.ts
+#EXTINF:0,UK | SkySport5 UK
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1089.ts
+#EXTINF:0,UK | SkySport4 UK
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1090.ts
+#EXTINF:0,UK | SkySport3 UK
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1091.ts
+#EXTINF:0,UK | SkySport2 UK
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1092.ts
+#EXTINF:0,UK | SkySport1 UK
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1093.ts
+#EXTINF:0,UK | EUROSPORT2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1094.ts
+#EXTINF:0,UK | EUROSPORT1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1095.ts
+#EXTINF:0,UK | MotorsTV
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1097.ts
+#EXTINF:0,UK | CNBC
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1098.ts
+#EXTINF:0,UK | CNN
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1099.ts
+#EXTINF:0,UK | Dmax.
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1100.ts
+#EXTINF:0,UK | Yesterday
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1102.ts
+#EXTINF:0,UK | RTE One
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1104.ts
+#EXTINF:0,UK | Rte Two
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1103.ts
+#EXTINF:0,UK | Sky Movies Premiere HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1105.ts
+#EXTINF:0,UK | Sky Movies Scifi / Horror HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1106.ts
+#EXTINF:0,UK | Sky Movies Family HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1107.ts
+#EXTINF:0,UK | Sky Movies Action
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1108.ts
+#EXTINF:0,UK | Sky Movies Comedy
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1109.ts
+#EXTINF:0,UK | SkyMTV Hits
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1110.ts
+#EXTINF:0,UK | Movies 4Men
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1111.ts
+#EXTINF:0,UK | More4+1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1112.ts
+#EXTINF:0,UK | SkyOne HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1113.ts
+#EXTINF:0,UK | SkTrueMovies 2 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1114.ts
+#EXTINF:0,UK | True Movies1 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1115.ts
+#EXTINF:0,UK | Racing
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1116.ts
+#EXTINF:0,UK | Watch Ireland
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1117.ts
+#EXTINF:0,UK | FOX News
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1118.ts
+#EXTINF:0,UK | BBC News
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1119.ts
+#EXTINF:0,UK | 5USA
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1120.ts
+#EXTINF:0,UK | SkyMoviesDrama HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1121.ts
+#EXTINF:0,UK | SkyMoviesSelect HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1122.ts
+#EXTINF:0,UK | SkyMoviesThriller
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1123.ts
+#EXTINF:0,UK | NationalGeographic
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1124.ts
+#EXTINF:0,UK | Discovery Investigation HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1125.ts
+#EXTINF:0,UK | Discovery Turbo HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1126.ts
+#EXTINF:0,UK | Discovery Science HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1127.ts
+#EXTINF:0,UK | DiscoveryShed
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1128.ts
+#EXTINF:0,UK | DiscoveryHistory
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1129.ts
+#EXTINF:0,UK | DiscoveryChannelHD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1130.ts
+#EXTINF:0,UK | DisneyChannel
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1131.ts
+#EXTINF:0,UK | DisneyJunior
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1132.ts
+#EXTINF:0,UK | ComedyCentral
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1133.ts
+#EXTINF:0,UK | Channel5
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1134.ts
+#EXTINF:0,UK | Channel4
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1135.ts
+#EXTINF:0,UK | CBSAction
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1136.ts
+#EXTINF:0,UK | CBSDrama
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1137.ts
+#EXTINF:0,UK | CBSReality
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1138.ts
+#EXTINF:0,UK | BBC4
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1139.ts
+#EXTINF:0,UK | BBC3
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1140.ts
+#EXTINF:0,UK | BBC2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1141.ts
+#EXTINF:0,UK | BBC1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1142.ts
+#EXTINF:0,UK | ITV4
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1143.ts
+#EXTINF:0,UK | ITV3
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1144.ts
+#EXTINF:0,UK | ITV2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1145.ts
+#EXTINF:0,UK | ITV1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/1146.ts
+
+#EXTINF:-1,==-ENGLAND-==
+http://skyeg.dyndns.org:8000/live/samara7/samara7/844.ts
+#EXTINF:-1,UK:3e
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1583.ts
+#EXTINF:-1,UK:5_Star
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1582.ts
+#EXTINF:-1,UK:5_Usa
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1584.ts
+#EXTINF:-1,UK:Alibi
+http://skyeg.dyndns.org:8000/live/samara7/samara7/556.ts
+#EXTINF:-1,UK:Animal_Planet
+http://skyeg.dyndns.org:8000/live/samara7/samara7/743.ts
+#EXTINF:-1,UK:Baby_TV
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1951.ts
+#EXTINF:-1,UK:BBC_1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1212.ts
+#EXTINF:-1,UK:BBC_2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1213.ts
+#EXTINF:-1,UK:BBC_3
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1214.ts
+#EXTINF:-1,UK:BBC_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1215.ts
+#EXTINF:-1,UK:BBC_News
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1585.ts
+#EXTINF:-1,UK:BBC_Parliament
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1027.ts
+#EXTINF:-1,UK:BBC_Sports
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1591.ts
+#EXTINF:-1,UK:BBC_World_News
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1600.ts
+#EXTINF:-1,UK:Boomerang
+http://skyeg.dyndns.org:8000/live/samara7/samara7/583.ts
+#EXTINF:-1,UK:Box_Nation
+http://skyeg.dyndns.org:8000/live/samara7/samara7/623.ts
+#EXTINF:-1,UK:BT_SPORT_1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/712.ts
+#EXTINF:-1,UK:BT_SPORT_2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/711.ts
+#EXTINF:-1,UK:BT_SPORT_Europa
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1960.ts
+#EXTINF:-1,UK:Cartoon_Network
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1953.ts
+#EXTINF:-1,UK:CBS_ACTION
+http://skyeg.dyndns.org:8000/live/samara7/samara7/696.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://skyeg.dyndns.org:8000/live/samara7/samara7/615.ts
+#EXTINF:-1,UK:CBS_REALITY
+http://skyeg.dyndns.org:8000/live/samara7/samara7/557.ts
+#EXTINF:-1,UK:Channel_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1599.ts
+#EXTINF:-1,UK:Channel_5
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1961.ts
+#EXTINF:-1,UK:Chelsea_TV
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1028.ts
+#EXTINF:-1,UK:CNN
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1954.ts
+#EXTINF:-1,UK:Comedy_Central
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1581.ts
+#EXTINF:-1,UK:Comedy_Extra
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1580.ts
+#EXTINF:-1,UK:Dave
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1601.ts
+#EXTINF:-1,UK:Discovery
+http://skyeg.dyndns.org:8000/live/samara7/samara7/563.ts
+#EXTINF:-1,UK:Discovery_History
+http://skyeg.dyndns.org:8000/live/samara7/samara7/584.ts
+#EXTINF:-1,UK:Discovery_Investigation
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1030.ts
+#EXTINF:-1,UK:Discovery_Science
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1588.ts
+#EXTINF:-1,UK:Discovery_Shed
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1589.ts
+#EXTINF:-1,UK:Discovery_Turbo
+http://skyeg.dyndns.org:8000/live/samara7/samara7/522.ts
+#EXTINF:-1,UK:Disney_Channel
+http://skyeg.dyndns.org:8000/live/samara7/samara7/709.ts
+#EXTINF:-1,UK:Disney_Junior
+http://skyeg.dyndns.org:8000/live/samara7/samara7/817.ts
+#EXTINF:-1,UK:Disney_XD
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1029.ts
+#EXTINF:-1,UK:Dmax
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1217.ts
+#EXTINF:-1,UK:E!
+http://skyeg.dyndns.org:8000/live/samara7/samara7/698.ts
+#EXTINF:-1,UK:E4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1218.ts
+#EXTINF:-1,UK:ESPN
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1950.ts
+#EXTINF:-1,UK:Eurosport
+http://skyeg.dyndns.org:8000/live/samara7/samara7/755.ts
+#EXTINF:-1,UK:Fashion
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1955.ts
+#EXTINF:-1,UK:Film_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/558.ts
+#EXTINF:-1,UK:Food_Network
+http://skyeg.dyndns.org:8000/live/samara7/samara7/710.ts
+#EXTINF:-1,UK:Fox
+http://skyeg.dyndns.org:8000/live/samara7/samara7/332.ts
+#EXTINF:-1,UK:Gold
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1593.ts
+#EXTINF:-1,UK:History
+http://skyeg.dyndns.org:8000/live/samara7/samara7/320.ts
+#EXTINF:-1,UK:Horror
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1590.ts
+#EXTINF:-1,UK:I_Film_English
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1957.ts
+#EXTINF:-1,UK:ITV_1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/796.ts
+#EXTINF:-1,UK:ITV_2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/329.ts
+#EXTINF:-1,UK:ITV_3
+http://skyeg.dyndns.org:8000/live/samara7/samara7/752.ts
+#EXTINF:-1,UK:ITV_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/527.ts
+#EXTINF:-1,UK:ITV_Be
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1958.ts
+#EXTINF:-1,UK:KixMax
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1594.ts
+#EXTINF:-1,UK:Living
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1607.ts
+#EXTINF:-1,UK:London
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1222.ts
+#EXTINF:-1,UK:Manchester_United
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1949.ts
+#EXTINF:-1,UK:More_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1596.ts
+#EXTINF:-1,UK:Movies_Action
+http://skyeg.dyndns.org:8000/live/samara7/samara7/489.ts
+#EXTINF:-1,UK:Movies_Comedy
+http://skyeg.dyndns.org:8000/live/samara7/samara7/749.ts
+#EXTINF:-1,UK:Movies_Crime
+http://skyeg.dyndns.org:8000/live/samara7/samara7/399.ts
+#EXTINF:-1,UK:Movies_Disney
+http://skyeg.dyndns.org:8000/live/samara7/samara7/75.ts
+#EXTINF:-1,UK:Movies_Drama
+http://skyeg.dyndns.org:8000/live/samara7/samara7/534.ts
+#EXTINF:-1,UK:Movies_Family
+http://skyeg.dyndns.org:8000/live/samara7/samara7/496.ts
+#EXTINF:-1,UK:Movies_Modern_Great
+http://skyeg.dyndns.org:8000/live/samara7/samara7/499.ts
+#EXTINF:-1,UK:Movies_Premiere
+http://skyeg.dyndns.org:8000/live/samara7/samara7/744.ts
+#EXTINF:-1,UK:Movies_ScFi&Horror
+http://skyeg.dyndns.org:8000/live/samara7/samara7/398.ts
+#EXTINF:-1,UK:Movies_Select
+http://skyeg.dyndns.org:8000/live/samara7/samara7/159.ts
+#EXTINF:-1,UK:Movies_Thriller
+http://skyeg.dyndns.org:8000/live/samara7/samara7/514.ts
+#EXTINF:-1,UK:MTV_CLASSIC
+http://skyeg.dyndns.org:8000/live/samara7/samara7/152.ts
+#EXTINF:-1,UK:MTV_HITS
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1220.ts
+#EXTINF:-1,UK:MTV_MUSIC
+http://skyeg.dyndns.org:8000/live/samara7/samara7/739.ts
+#EXTINF:-1,UK:National_Geographic
+http://skyeg.dyndns.org:8000/live/samara7/samara7/564.ts
+#EXTINF:-1,UK:National_Geographic_Wild
+http://skyeg.dyndns.org:8000/live/samara7/samara7/443.ts
+#EXTINF:-1,UK:Nickelodeon
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1952.ts
+#EXTINF:-1,UK:NickJr._+1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1602.ts
+#EXTINF:-1,UK:NickToons
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1595.ts
+#EXTINF:-1,UK:Pick
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1597.ts
+#EXTINF:-1,UK:Rte_News_Now
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1959.ts
+#EXTINF:-1,UK:Rte_One
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1224.ts
+#EXTINF:-1,UK:Rte_Two
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1223.ts
+#EXTINF:-1,UK:SKY_Arts
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1962.ts
+#EXTINF:-1,UK:Sky_Atlantic
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1221.ts
+#EXTINF:-1,UK:Sky_News
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1606.ts
+#EXTINF:-1,UK:Sky_Sports_1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/692.ts
+#EXTINF:-1,UK:Sky_Sports_2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/672.ts
+#EXTINF:-1,UK:Sky_Sports_3
+http://skyeg.dyndns.org:8000/live/samara7/samara7/695.ts
+#EXTINF:-1,UK:Sky_Sports_4
+http://skyeg.dyndns.org:8000/live/samara7/samara7/694.ts
+#EXTINF:-1,UK:Sky_Sports_5
+http://skyeg.dyndns.org:8000/live/samara7/samara7/693.ts
+#EXTINF:-1,UK:Sky_Sports_f1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/529.ts
+#EXTINF:-1,UK:Sky1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1603.ts
+#EXTINF:-1,UK:Sky2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1604.ts
+#EXTINF:-1,UK:SyFy
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1219.ts
+#EXTINF:-1,UK:TCM
+http://skyeg.dyndns.org:8000/live/samara7/samara7/440.ts
+#EXTINF:-1,UK:TLC
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1586.ts
+#EXTINF:-1,UK:Tru_Tv
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1592.ts
+#EXTINF:-1,UK:True_Christmas
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1587.ts
+#EXTINF:-1,UK:True_Crime
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1031.ts
+#EXTINF:-1,UK:True_Drama
+http://skyeg.dyndns.org:8000/live/samara7/samara7/824.ts
+#EXTINF:-1,UK:True_Entertainment
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1216.ts
+#EXTINF:-1,UK:True_Movies_1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/581.ts
+#EXTINF:-1,UK:True_Movies_2
+http://skyeg.dyndns.org:8000/live/samara7/samara7/582.ts
+#EXTINF:-1,UK:Vh1
+http://skyeg.dyndns.org:8000/live/samara7/samara7/697.ts
+#EXTINF:-1,UK:Watch
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1605.ts
+#EXTINF:-1,UK:World_Fashion
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1956.ts
+#EXTINF:-1,UK:Yesterday
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1598.ts
+#EXTINF:-1,==-USA-==
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1253.ts
+#EXTINF:-1,USA:Animal_Planet
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1232.ts
+#EXTINF:-1,USA:CBS_ACTION
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1336.ts
+#EXTINF:-1,USA:CBS_DRAMA
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1339.ts
+#EXTINF:-1,USA:Discovery_Channel
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1238.ts
+#EXTINF:-1,USA:Discovery_Science
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1236.ts
+#EXTINF:-1,USA:HALLMARK
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1234.ts
+#EXTINF:-1,USA:NASA
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1237.ts
+#EXTINF:-1,USA:Show_Time
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1337.ts
+#EXTINF:-1,USA:SyFy
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1235.ts
+#EXTINF:-1,USA:TBS
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1338.ts
+#EXTINF:-1,USA:TLC
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1233.ts
+#EXTINF:-1,USA:USA
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1335.ts
+#EXTINF:-1,USA:WWE
+http://skyeg.dyndns.org:8000/live/samara7/samara7/1239.ts
+#EXTINF:-1,UK-US-CA_TV ///
+http://37.187.175.177:8000/live/adnen1/adnen1/805.ts
+#EXTINF:-1,UK-Sky-Sport1
+http://37.187.175.177:8000/live/adnen1/adnen1/874.ts
+#EXTINF:-1,UK-SkySports1 SD
+http://37.187.175.177:8000/live/adnen1/adnen1/2971.ts
+#EXTINF:-1,UK-Sky-Sport2
+http://37.187.175.177:8000/live/adnen1/adnen1/421.ts
+#EXTINF:-1,UK-SkySports2 SD
+http://37.187.175.177:8000/live/adnen1/adnen1/2972.ts
+#EXTINF:-1,UK-Sky-Sport3
+http://37.187.175.177:8000/live/adnen1/adnen1/420.ts
+#EXTINF:-1,UK-SkySports3 SD
+http://37.187.175.177:8000/live/adnen1/adnen1/2973.ts
+#EXTINF:-1,UK-Sky-Sport4
+http://37.187.175.177:8000/live/adnen1/adnen1/419.ts
+#EXTINF:-1,UK-SkySports4 SD
+http://37.187.175.177:8000/live/adnen1/adnen1/2974.ts
+#EXTINF:-1,UK-Sky-Sport5
+http://37.187.175.177:8000/live/adnen1/adnen1/418.ts
+#EXTINF:-1,UK-SkySports5 SD
+http://37.187.175.177:8000/live/adnen1/adnen1/2975.ts
+#EXTINF:-1,UK-sky_sport_F1
+http://37.187.175.177:8000/live/adnen1/adnen1/2014.ts
+#EXTINF:-1,UK-Premier Sports
+http://37.187.175.177:8000/live/adnen1/adnen1/2153.ts
+#EXTINF:-1,UK-Racing
+http://37.187.175.177:8000/live/adnen1/adnen1/2016.ts
+#EXTINF:-1,UK-Box_Nation
+http://37.187.175.177:8000/live/adnen1/adnen1/1595.ts
+#EXTINF:-1,UK:Setanta
+http://37.187.175.177:8000/live/adnen1/adnen1/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+http://37.187.175.177:8000/live/adnen1/adnen1/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+http://37.187.175.177:8000/live/adnen1/adnen1/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+http://37.187.175.177:8000/live/adnen1/adnen1/1309.ts
+#EXTINF:-1,UK-BT-Espn
+http://37.187.175.177:8000/live/adnen1/adnen1/1594.ts
+#EXTINF:-1,UK-Liverpool_FC
+http://37.187.175.177:8000/live/adnen1/adnen1/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+http://37.187.175.177:8000/live/adnen1/adnen1/396.ts
+#EXTINF:-1,UK-Motors_TV
+http://37.187.175.177:8000/live/adnen1/adnen1/2216.ts
+#EXTINF:-1,UK-Sky_Sports-News
+http://37.187.175.177:8000/live/adnen1/adnen1/2223.ts
+#EXTINF:-1,UK-True_M1
+http://37.187.175.177:8000/live/adnen1/adnen1/2203.ts
+#EXTINF:-1,UK-True_M2
+http://37.187.175.177:8000/live/adnen1/adnen1/2202.ts
+#EXTINF:-1,UK-MUTV
+http://37.187.175.177:8000/live/adnen1/adnen1/379.ts
+#EXTINF:-1,UK-Pick
+http://37.187.175.177:8000/live/adnen1/adnen1/2225.ts
+#EXTINF:-1,UK-GOLD
+http://37.187.175.177:8000/live/adnen1/adnen1/2220.ts
+#EXTINF:-1,UK-Dave
+http://37.187.175.177:8000/live/adnen1/adnen1/2213.ts
+#EXTINF:-1,UK-Yesterday
+http://37.187.175.177:8000/live/adnen1/adnen1/2210.ts
+#EXTINF:-1,UK-Watch
+http://37.187.175.177:8000/live/adnen1/adnen1/2204.ts
+#EXTINF:-1,UK-BBC1
+http://37.187.175.177:8000/live/adnen1/adnen1/1302.ts
+#EXTINF:-1,UK-BBC2
+http://37.187.175.177:8000/live/adnen1/adnen1/1303.ts
+#EXTINF:-1,UK-BBC3_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/1920.ts
+#EXTINF:-1,UK-BBC4_CBEEBIES
+http://37.187.175.177:8000/live/adnen1/adnen1/1921.ts
+#EXTINF:-1,UK-SKY-NEWS
+http://37.187.175.177:8000/live/adnen1/adnen1/417.ts
+#EXTINF:-1,UK_FRANCE_24(En)
+http://37.187.175.177:8000/live/adnen1/adnen1/1538.ts
+#EXTINF:-1,UK_EuroNews(En)
+http://37.187.175.177:8000/live/adnen1/adnen1/1539.ts
+#EXTINF:-1,UK-RT_Document
+http://37.187.175.177:8000/live/adnen1/adnen1/1911.ts
+#EXTINF:-1,UK-CHANNEL4
+http://37.187.175.177:8000/live/adnen1/adnen1/1922.ts
+#EXTINF:-1,UK-CHANNEL5
+http://37.187.175.177:8000/live/adnen1/adnen1/1923.ts
+#EXTINF:-1,UK-Select_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2218.ts
+#EXTINF:-1,UK-SCI-FI
+http://37.187.175.177:8000/live/adnen1/adnen1/2221.ts
+#EXTINF:-1,UK-Premiere_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2219.ts
+#EXTINF:-1,UK-Sky_Greats
+http://37.187.175.177:8000/live/adnen1/adnen1/436.ts
+#EXTINF:-1,UK-Sky-LivingIt
+http://37.187.175.177:8000/live/adnen1/adnen1/1610.ts
+#EXTINF:-1,UK-Crimes & Inv
+http://37.187.175.177:8000/live/adnen1/adnen1/1619.ts
+#EXTINF:-1,UK-Thriller
+http://37.187.175.177:8000/live/adnen1/adnen1/213.ts
+#EXTINF:-1,UK-Sky_Premiere
+http://37.187.175.177:8000/live/adnen1/adnen1/218.ts
+#EXTINF:-1,UK-Sky_Chelsea
+http://37.187.175.177:8000/live/adnen1/adnen1/426.ts
+#EXTINF:-1,UK-SKY-Syfy+1
+http://37.187.175.177:8000/live/adnen1/adnen1/425.ts
+#EXTINF:-1,UK-RTE1
+http://37.187.175.177:8000/live/adnen1/adnen1/427.ts
+#EXTINF:-1,UK-RTE2
+http://37.187.175.177:8000/live/adnen1/adnen1/275.ts
+#EXTINF:-1,UK-Atlantic+1
+http://37.187.175.177:8000/live/adnen1/adnen1/422.ts
+#EXTINF:-1,UK-Sky_Monsters
+http://37.187.175.177:8000/live/adnen1/adnen1/219.ts
+#EXTINF:-1,UK-Sky_Arts
+http://37.187.175.177:8000/live/adnen1/adnen1/217.ts
+#EXTINF:-1,UK-Sky_Family
+http://37.187.175.177:8000/live/adnen1/adnen1/216.ts
+#EXTINF:-1,UK-Drama_Rom
+http://37.187.175.177:8000/live/adnen1/adnen1/215.ts
+#EXTINF:-1,UK-Sky-Mv_Disney
+http://37.187.175.177:8000/live/adnen1/adnen1/214.ts
+#EXTINF:-1,UK-Sky_Comedy
+http://37.187.175.177:8000/live/adnen1/adnen1/212.ts
+#EXTINF:-1,UK-Sky_Action
+http://37.187.175.177:8000/live/adnen1/adnen1/211.ts
+#EXTINF:-1,UK-COMEDY_CENTRAL
+http://37.187.175.177:8000/live/adnen1/adnen1/2151.ts
+#EXTINF:-1,UK-Inves.& discovery
+http://37.187.175.177:8000/live/adnen1/adnen1/2093.ts
+#EXTINF:-1,UK-Sky2
+http://37.187.175.177:8000/live/adnen1/adnen1/272.ts
+#EXTINF:-1,UK-sky_one
+http://37.187.175.177:8000/live/adnen1/adnen1/1865.ts
+#EXTINF:-1,UK-Quest
+http://37.187.175.177:8000/live/adnen1/adnen1/2033.ts
+#EXTINF:-1,UK-E!
+http://37.187.175.177:8000/live/adnen1/adnen1/2032.ts
+#EXTINF:-1,UK-AMC HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2636.ts
+#EXTINF:-1,UK-Disc_History
+http://37.187.175.177:8000/live/adnen1/adnen1/381.ts
+#EXTINF:-1,UK-Discovery-Sc
+http://37.187.175.177:8000/live/adnen1/adnen1/2211.ts
+#EXTINF:-1,UK-Discovery_Turbo
+http://37.187.175.177:8000/live/adnen1/adnen1/2017.ts
+#EXTINF:-1,UK-Discovery_CH
+http://37.187.175.177:8000/live/adnen1/adnen1/2018.ts
+#EXTINF:-1,UK-Animal_Planet
+http://37.187.175.177:8000/live/adnen1/adnen1/2015.ts
+#EXTINF:-1,UK-Nat-Geo+1
+http://37.187.175.177:8000/live/adnen1/adnen1/392.ts
+#EXTINF:-1,UK-NAT-GEO-WILD
+http://37.187.175.177:8000/live/adnen1/adnen1/393.ts
+#EXTINF:-1,UK-sky_famliy
+http://37.187.175.177:8000/live/adnen1/adnen1/394.ts
+#EXTINF:-1,UK-FOX-News
+http://37.187.175.177:8000/live/adnen1/adnen1/389.ts
+#EXTINF:-1,UK-horror_channel
+http://37.187.175.177:8000/live/adnen1/adnen1/233.ts
+#EXTINF:-1,UK-H2
+http://37.187.175.177:8000/live/adnen1/adnen1/248.ts
+#EXTINF:-1,UK-CBS_Action
+http://37.187.175.177:8000/live/adnen1/adnen1/2228.ts
+#EXTINF:-1,UK-CBS_Reality
+http://37.187.175.177:8000/live/adnen1/adnen1/230.ts
+#EXTINF:-1,UK-CBS_Drama
+http://37.187.175.177:8000/live/adnen1/adnen1/229.ts
+#EXTINF:-1,UK-TG4
+http://37.187.175.177:8000/live/adnen1/adnen1/2150.ts
+#EXTINF:-1,UK-Nick_Junior
+http://37.187.175.177:8000/live/adnen1/adnen1/2100.ts
+#EXTINF:-1,UK-Nick Toons
+http://37.187.175.177:8000/live/adnen1/adnen1/2212.ts
+#EXTINF:-1,UK-Baby_TV
+http://37.187.175.177:8000/live/adnen1/adnen1/2215.ts
+#EXTINF:-1,UK-BOOMERANG
+http://37.187.175.177:8000/live/adnen1/adnen1/2031.ts
+#EXTINF:-1,UK-Disney_XD+1
+http://37.187.175.177:8000/live/adnen1/adnen1/384.ts
+#EXTINF:-1,UK-Disney_Junior+1
+http://37.187.175.177:8000/live/adnen1/adnen1/378.ts
+#EXTINF:-1,UK-Disney_Channel
+http://37.187.175.177:8000/live/adnen1/adnen1/383.ts
+#EXTINF:-1,UK:NICKLEODON
+http://37.187.175.177:8000/live/adnen1/adnen1/1587.ts
+#EXTINF:-1,UK:Carton Network
+http://37.187.175.177:8000/live/adnen1/adnen1/1589.ts
+#EXTINF:-1,UK-3E
+http://37.187.175.177:8000/live/adnen1/adnen1/2488.ts
+#EXTINF:-1,UK-Show case!
+http://37.187.175.177:8000/live/adnen1/adnen1/2489.ts
+#EXTINF:-1,UK-Nicktoons
+http://37.187.175.177:8000/live/adnen1/adnen1/2486.ts
+#EXTINF:-1,UK-Food Network
+http://37.187.175.177:8000/live/adnen1/adnen1/2490.ts
+#EXTINF:-1,UK-Poker Central
+http://37.187.175.177:8000/live/adnen1/adnen1/1615.ts
+#EXTINF:-1,UK-5USA
+http://37.187.175.177:8000/live/adnen1/adnen1/2085.ts
+#EXTINF:-1,UK-ITV1_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/249.ts
+#EXTINF:-1,UK-ITV2
+http://37.187.175.177:8000/live/adnen1/adnen1/234.ts
+#EXTINF:-1,UK-ITV3_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/236.ts
+#EXTINF:-1,UK-ITV4
+http://37.187.175.177:8000/live/adnen1/adnen1/235.ts
+#EXTINF:-1,UK-Itv_Be
+http://37.187.175.177:8000/live/adnen1/adnen1/2224.ts
+#EXTINF:-1,UK-More4
+http://37.187.175.177:8000/live/adnen1/adnen1/358.ts
+#EXTINF:-1,UK-VH1
+http://37.187.175.177:8000/live/adnen1/adnen1/2222.ts
+#EXTINF:-1,UK-Peace_TV(en)
+http://37.187.175.177:8000/live/adnen1/adnen1/3334.ts
+#EXTINF:-1,USA-CNN_Live
+http://37.187.175.177:8000/live/adnen1/adnen1/2806.ts
+#EXTINF:-1,US-CNN News-intl.
+http://37.187.175.177:8000/live/adnen1/adnen1/191.ts
+#EXTINF:-1,USA-ABC_News
+http://37.187.175.177:8000/live/adnen1/adnen1/1063.ts
+#EXTINF:-1,USA-BBC-News
+http://37.187.175.177:8000/live/adnen1/adnen1/2071.ts
+#EXTINF:-1,USA-Bloomberg
+http://37.187.175.177:8000/live/adnen1/adnen1/1304.ts
+#EXTINF:-1,USA-RT_News
+http://37.187.175.177:8000/live/adnen1/adnen1/1910.ts
+#EXTINF:-1,USA_Al-jazeera
+http://37.187.175.177:8000/live/adnen1/adnen1/1536.ts
+#EXTINF:-1,cspan1
+http://37.187.175.177:8000/live/adnen1/adnen1/2734.ts
+#EXTINF:-1,cspan2
+http://37.187.175.177:8000/live/adnen1/adnen1/2735.ts
+#EXTINF:-1,cspan3
+http://37.187.175.177:8000/live/adnen1/adnen1/2736.ts
+#EXTINF:-1,US-USA Network
+http://37.187.175.177:8000/live/adnen1/adnen1/2731.ts
+#EXTINF:-1,US-TBS HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2729.ts
+#EXTINF:-1,US-Bravo HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2732.ts
+#EXTINF:-1,USA-AMC HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2113.ts
+#EXTINF:-1,Usa- A&E hd
+http://37.187.175.177:8000/live/adnen1/adnen1/2637.ts
+#EXTINF:-1,US-Boston City TV
+http://37.187.175.177:8000/live/adnen1/adnen1/2737.ts
+#EXTINF:-1,US-AMG
+http://37.187.175.177:8000/live/adnen1/adnen1/2733.ts
+#EXTINF:-1,USA-Family E
+http://37.187.175.177:8000/live/adnen1/adnen1/2094.ts
+#EXTINF:-1,USA-HBO
+http://37.187.175.177:8000/live/adnen1/adnen1/827.ts
+#EXTINF:-1,USA-HBO1
+http://37.187.175.177:8000/live/adnen1/adnen1/2115.ts
+#EXTINF:-1,US-Family FE
+http://37.187.175.177:8000/live/adnen1/adnen1/1627.ts
+#EXTINF:-1,US-Hallmark HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2393.ts
+#EXTINF:-1,US-WWE
+http://37.187.175.177:8000/live/adnen1/adnen1/2730.ts
+#EXTINF:-1,USA--NBA-US
+http://37.187.175.177:8000/live/adnen1/adnen1/1261.ts
+#EXTINF:-1,USA--AFL
+http://37.187.175.177:8000/live/adnen1/adnen1/1240.ts
+#EXTINF:-1,USA:ESPN
+http://37.187.175.177:8000/live/adnen1/adnen1/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://37.187.175.177:8000/live/adnen1/adnen1/2116.ts
+#EXTINF:-1,US-Sports Net
+http://37.187.175.177:8000/live/adnen1/adnen1/1625.ts
+#EXTINF:-1,USA-PAC-12 WS
+http://37.187.175.177:8000/live/adnen1/adnen1/2101.ts
+#EXTINF:-1,USA:London live
+http://37.187.175.177:8000/live/adnen1/adnen1/2084.ts
+#EXTINF:-1,USA:FOOD network
+http://37.187.175.177:8000/live/adnen1/adnen1/2087.ts
+#EXTINF:-1,USA-NASA_HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2097.ts
+#EXTINF:-1,USA-QVC HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2114.ts
+#EXTINF:-1,USA-London_Live
+http://37.187.175.177:8000/live/adnen1/adnen1/2096.ts
+#EXTINF:-1,USA-Spike
+http://37.187.175.177:8000/live/adnen1/adnen1/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+http://37.187.175.177:8000/live/adnen1/adnen1/2102.ts
+#EXTINF:-1,USA-California_University
+http://37.187.175.177:8000/live/adnen1/adnen1/2103.ts
+#EXTINF:-1,Ca-TVA Montreal
+http://37.187.175.177:8000/live/adnen1/adnen1/2395.ts
+#EXTINF:-1,CA-WGN
+http://37.187.175.177:8000/live/adnen1/adnen1/2389.ts
+#EXTINF:-1,Ca-RDI
+http://37.187.175.177:8000/live/adnen1/adnen1/2397.ts
+#EXTINF:-1,US-Weather Network HD
+http://37.187.175.177:8000/live/adnen1/adnen1/2398.ts
+#EXTINF:-1,CA-TOMATO TV
+http://37.187.175.177:8000/live/adnen1/adnen1/2384.ts
+#EXTINF:-1,Ca-SN quebec Canal9
+http://37.187.175.177:8000/live/adnen1/adnen1/2390.ts
+#EXTINF:-1,CA-Assemble Nationale
+http://37.187.175.177:8000/live/adnen1/adnen1/2383.ts
+#EXTINF:-1,Ca-AN Du Quebec
+http://37.187.175.177:8000/live/adnen1/adnen1/2391.ts
+#EXTINF:-1,CA-MYJAVA
+http://37.187.175.177:8000/live/adnen1/adnen1/2385.ts
+#EXTINF:-1,Ca-Radio-Shebrooke
+http://37.187.175.177:8000/live/adnen1/adnen1/2394.ts
+#EXTINF:-1,US-MTV Hit
+http://37.187.175.177:8000/live/adnen1/adnen1/2396.ts
+#EXTINF:-1,USA/CA : SUPER CHANNEL HD 3
+http://fiberbox.tk/live/brennan/brennan/12387.ts
+#EXTINF:-1,USA/CA : HBO HD 2
+http://fiberbox.tk/live/brennan/brennan/12386.ts
+#EXTINF:-1,USA/CA : HBO HD 1
+http://fiberbox.tk/live/brennan/brennan/12385.ts
+#EXTINF:-1,US:WWE Network HD
+http://fiberbox.tk/live/brennan/brennan/12384.ts
+#EXTINF:-1,US:WWE HD
+http://fiberbox.tk/live/brennan/brennan/12382.ts
+#EXTINF:-1,US:WWE HD
+http://fiberbox.tk/live/brennan/brennan/12383.ts
+#EXTINF:-1,US:WILLOW CRICKET HD
+http://fiberbox.tk/live/brennan/brennan/12381.ts
+#EXTINF:-1,US:VH1 HD
+http://fiberbox.tk/live/brennan/brennan/12379.ts
+#EXTINF:-1,US:VH1 HD
+http://fiberbox.tk/live/brennan/brennan/12380.ts
+#EXTINF:-1,US:VELOCITY HD
+http://fiberbox.tk/live/brennan/brennan/12377.ts
+#EXTINF:-1,US:VELOCITY HD
+http://fiberbox.tk/live/brennan/brennan/12378.ts
+#EXTINF:-1,US:USA NETWORK HD
+http://fiberbox.tk/live/brennan/brennan/12375.ts
+#EXTINF:-1,US:USA Network HD
+http://fiberbox.tk/live/brennan/brennan/12376.ts
+#EXTINF:-1,US:TV One HD
+http://fiberbox.tk/live/brennan/brennan/12374.ts
+#EXTINF:-1,US:TRU TV HD 
+http://fiberbox.tk/live/brennan/brennan/12373.ts
+#EXTINF:-1,US:TNT HD
+http://fiberbox.tk/live/brennan/brennan/12371.ts
+#EXTINF:-1,US:TNT HD
+http://fiberbox.tk/live/brennan/brennan/12372.ts
+#EXTINF:-1,US:TENNIS HD
+http://fiberbox.tk/live/brennan/brennan/12370.ts
+#EXTINF:-1,US:TBS HD
+http://fiberbox.tk/live/brennan/brennan/12368.ts
+#EXTINF:-1,US:TBS HD
+http://fiberbox.tk/live/brennan/brennan/12369.ts
+#EXTINF:-1,US:SYFY HD
+http://fiberbox.tk/live/brennan/brennan/12366.ts
+#EXTINF:-1,US:SYFY HD
+http://fiberbox.tk/live/brennan/brennan/12367.ts
+#EXTINF:-1,US:Starz HD
+http://fiberbox.tk/live/brennan/brennan/12365.ts
+#EXTINF:-1,US:STARZ EDGE HD
+http://fiberbox.tk/live/brennan/brennan/12364.ts
+#EXTINF:-1,US:Starz Comedy
+http://fiberbox.tk/live/brennan/brennan/12363.ts
+#EXTINF:-1,US:SPIKE HD
+http://fiberbox.tk/live/brennan/brennan/12361.ts
+#EXTINF:-1,US:SPIKE HD
+http://fiberbox.tk/live/brennan/brennan/12362.ts
+#EXTINF:-1,US:Showtime Showcase
+http://fiberbox.tk/live/brennan/brennan/12360.ts
+#EXTINF:-1,US:Showtime Extreme
+http://fiberbox.tk/live/brennan/brennan/12359.ts
+#EXTINF:-1,US:ShowTime 2 HD
+http://fiberbox.tk/live/brennan/brennan/12358.ts
+#EXTINF:-1,US:ShowTime
+http://fiberbox.tk/live/brennan/brennan/12357.ts
+#EXTINF:-1,US:POKER CENTRAL
+http://fiberbox.tk/live/brennan/brennan/12356.ts
+#EXTINF:-1,US:PBS HD
+http://fiberbox.tk/live/brennan/brennan/12355.ts
+#EXTINF:-1,US:OWN HD (OPRAH WINFRY NETWORK)
+http://fiberbox.tk/live/brennan/brennan/12354.ts
+#EXTINF:-1,US:OWN HD
+http://fiberbox.tk/live/brennan/brennan/12353.ts
+#EXTINF:-1,US:Nicktoons HD
+http://fiberbox.tk/live/brennan/brennan/12352.ts
+#EXTINF:-1,US:NICKELODEN HD
+http://fiberbox.tk/live/brennan/brennan/12351.ts
+#EXTINF:-1,US:NICK HD
+http://fiberbox.tk/live/brennan/brennan/12350.ts
+#EXTINF:-1,US:NHL NETWORK HD
+http://fiberbox.tk/live/brennan/brennan/12348.ts
+#EXTINF:-1,US:NHL NETWORK HD
+http://fiberbox.tk/live/brennan/brennan/12349.ts
+#EXTINF:-1,US:NFL NOW HD
+http://fiberbox.tk/live/brennan/brennan/12347.ts
+#EXTINF:-1,US:NFL NETWORK HD ( 1080i )
+http://fiberbox.tk/live/brennan/brennan/12346.ts
+#EXTINF:-1,US:NFL NETWORK HD
+http://fiberbox.tk/live/brennan/brennan/12344.ts
+#EXTINF:-1,US:NFL Network HD
+http://fiberbox.tk/live/brennan/brennan/12345.ts
+#EXTINF:-1,US:NBCSN HD
+http://fiberbox.tk/live/brennan/brennan/12342.ts
+#EXTINF:-1,US:NBCSN HD
+http://fiberbox.tk/live/brennan/brennan/12343.ts
+#EXTINF:-1,US:NBC HD
+http://fiberbox.tk/live/brennan/brennan/12341.ts
+#EXTINF:-1,US:NBC EXTRA TIME HD3 ( MATCH TIME )
+http://fiberbox.tk/live/brennan/brennan/12340.ts
+#EXTINF:-1,US:NBC EXTRA TIME HD3
+http://fiberbox.tk/live/brennan/brennan/12339.ts
+#EXTINF:-1,US:NBC EXTRA TIME HD1
+http://fiberbox.tk/live/brennan/brennan/12338.ts
+#EXTINF:-1,US:NBC EXTRA TIME HD ( MATCH TIME )
+http://fiberbox.tk/live/brennan/brennan/12337.ts
+#EXTINF:-1,US:NBC 8 HD
+http://fiberbox.tk/live/brennan/brennan/12336.ts
+#EXTINF:-1,US:NBA TV HD
+http://fiberbox.tk/live/brennan/brennan/12334.ts
+#EXTINF:-1,US:NBA TV HD
+http://fiberbox.tk/live/brennan/brennan/12335.ts
+#EXTINF:-1,US:NBA TV
+http://fiberbox.tk/live/brennan/brennan/12333.ts
+#EXTINF:-1,US:National Geographic
+http://fiberbox.tk/live/brennan/brennan/12332.ts
+#EXTINF:-1,US:Nat Geo HD
+http://fiberbox.tk/live/brennan/brennan/12330.ts
+#EXTINF:-1,US:NAT GEO HD
+http://fiberbox.tk/live/brennan/brennan/12331.ts
+#EXTINF:-1,US:MY9 TV HD
+http://fiberbox.tk/live/brennan/brennan/12329.ts
+#EXTINF:-1,US:MTV LIVE HD
+http://fiberbox.tk/live/brennan/brennan/12328.ts
+#EXTINF:-1,US:MTV HD
+http://fiberbox.tk/live/brennan/brennan/12327.ts
+#EXTINF:-1,US:MSNBC HD
+http://fiberbox.tk/live/brennan/brennan/12326.ts
+#EXTINF:-1,US:MOV HD
+http://fiberbox.tk/live/brennan/brennan/12325.ts
+#EXTINF:-1,BEIN:SPORT 2 HD.
+http://fiberbox.tk/live/brennan/brennan/11835.ts
+#EXTINF:-1,US:Lifetime HD
+http://fiberbox.tk/live/brennan/brennan/12321.ts
+#EXTINF:-1,US:Lifetime HD
+http://fiberbox.tk/live/brennan/brennan/12322.ts
+#EXTINF:-1,US:Investigation Discovery
+http://fiberbox.tk/live/brennan/brennan/12319.ts
+#EXTINF:-1,US:ID HD
+http://fiberbox.tk/live/brennan/brennan/12318.ts
+#EXTINF:-1,US:HISTORY HD
+http://fiberbox.tk/live/brennan/brennan/12316.ts
+#EXTINF:-1,US:HISTORY HD
+http://fiberbox.tk/live/brennan/brennan/12317.ts
+#EXTINF:-1,US:HISTORY
+http://fiberbox.tk/live/brennan/brennan/12315.ts
+#EXTINF:-1,US:HGTV HD
+http://fiberbox.tk/live/brennan/brennan/12313.ts
+#EXTINF:-1,US:HGTV HD
+http://fiberbox.tk/live/brennan/brennan/12314.ts
+#EXTINF:-1,US:HBO Zone HD
+http://fiberbox.tk/live/brennan/brennan/12312.ts
+#EXTINF:-1,US:HBO FAMILY HD
+http://fiberbox.tk/live/brennan/brennan/12310.ts
+#EXTINF:-1,US:HBO Family HD
+http://fiberbox.tk/live/brennan/brennan/12311.ts
+#EXTINF:-1,US:HALLMARK
+http://fiberbox.tk/live/brennan/brennan/12309.ts
+#EXTINF:-1,US:GSN HD
+http://fiberbox.tk/live/brennan/brennan/12308.ts
+#EXTINF:-1,US:GOLF HD
+http://fiberbox.tk/live/brennan/brennan/12307.ts
+#EXTINF:-1,US:FX HD
+http://fiberbox.tk/live/brennan/brennan/12305.ts
+#EXTINF:-1,US:FX HD
+http://fiberbox.tk/live/brennan/brennan/12306.ts
+#EXTINF:-1,US:FreeRom HD
+http://fiberbox.tk/live/brennan/brennan/12304.ts
+#EXTINF:-1,US:FREE FORM HD
+http://fiberbox.tk/live/brennan/brennan/12303.ts
+#EXTINF:-1,US:FOX SPORT 2 HD
+http://fiberbox.tk/live/brennan/brennan/12302.ts
+#EXTINF:-1,US:FOX LIFE HD
+http://fiberbox.tk/live/brennan/brennan/12301.ts
+#EXTINF:-1,US:FOX HD
+http://fiberbox.tk/live/brennan/brennan/12300.ts
+#EXTINF:-1,US:FOX 43 HD
+http://fiberbox.tk/live/brennan/brennan/12299.ts
+#EXTINF:-1,US:Food Network HD
+http://fiberbox.tk/live/brennan/brennan/12297.ts
+#EXTINF:-1,US:Food Network HD
+http://fiberbox.tk/live/brennan/brennan/12298.ts
+#EXTINF:-1,US:ESPN2 HD
+http://fiberbox.tk/live/brennan/brennan/12296.ts
+#EXTINF:-1,US:ESPN NEWS HD
+http://fiberbox.tk/live/brennan/brennan/12295.ts
+#EXTINF:-1,US:ESPN HD 2
+http://fiberbox.tk/live/brennan/brennan/12294.ts
+#EXTINF:-1,US:ESPN HD 
+http://fiberbox.tk/live/brennan/brennan/12292.ts
+#EXTINF:-1,US:ESPN HD
+http://fiberbox.tk/live/brennan/brennan/12293.ts
+#EXTINF:-1,US:ESPN 2
+http://fiberbox.tk/live/brennan/brennan/12291.ts
+#EXTINF:-1,US:ESPN
+http://fiberbox.tk/live/brennan/brennan/12290.ts
+#EXTINF:-1,US:EPIX HD
+http://fiberbox.tk/live/brennan/brennan/12289.ts
+#EXTINF:-1,US:ELREY HD
+http://fiberbox.tk/live/brennan/brennan/12288.ts
+#EXTINF:-1,US:E! HD
+http://fiberbox.tk/live/brennan/brennan/12286.ts
+#EXTINF:-1,US:E! HD
+http://fiberbox.tk/live/brennan/brennan/12287.ts
+#EXTINF:-1,US:DTX HD
+http://fiberbox.tk/live/brennan/brennan/12285.ts
+#EXTINF:-1,US:Disney XD HD
+http://fiberbox.tk/live/brennan/brennan/12284.ts
+#EXTINF:-1,US:Disney Jr. HD
+http://fiberbox.tk/live/brennan/brennan/12283.ts
+#EXTINF:-1,US:DISNEY HD
+http://fiberbox.tk/live/brennan/brennan/12282.ts
+#EXTINF:-1,US:DISCOVERY SHOWCASE HD
+http://fiberbox.tk/live/brennan/brennan/12281.ts
+#EXTINF:-1,US:Discovery HD
+http://fiberbox.tk/live/brennan/brennan/12279.ts
+#EXTINF:-1,US:Discovery HD
+http://fiberbox.tk/live/brennan/brennan/12280.ts
+#EXTINF:-1,US:Discovery Channel HD
+http://fiberbox.tk/live/brennan/brennan/12278.ts
+#EXTINF:-1,US:CW HD
+http://fiberbox.tk/live/brennan/brennan/12276.ts
+#EXTINF:-1,US:CW HD
+http://fiberbox.tk/live/brennan/brennan/12277.ts
+#EXTINF:-1,US:COMEDY CENTRAL HD
+http://fiberbox.tk/live/brennan/brennan/12274.ts
+#EXTINF:-1,US:COMEDY CENTRAL HD
+http://fiberbox.tk/live/brennan/brennan/12275.ts
+#EXTINF:-1,US:CNN HD USA
+http://fiberbox.tk/live/brennan/brennan/12272.ts
+#EXTINF:-1,US:CNN HD USA
+http://fiberbox.tk/live/brennan/brennan/12273.ts
+#EXTINF:-1,US:CNN HD
+http://fiberbox.tk/live/brennan/brennan/12271.ts
+#EXTINF:-1,US:CNBC HD
+http://fiberbox.tk/live/brennan/brennan/12270.ts
+#EXTINF:-1,US:Cinemax ThrillerMax HD
+http://fiberbox.tk/live/brennan/brennan/12269.ts
+#EXTINF:-1,US:Cinemax MoreMax HD
+http://fiberbox.tk/live/brennan/brennan/12268.ts
+#EXTINF:-1,US:CINEMAX HD
+http://fiberbox.tk/live/brennan/brennan/12266.ts
+#EXTINF:-1,US:CINEMAX HD
+http://fiberbox.tk/live/brennan/brennan/12267.ts
+#EXTINF:-1,US:Cinemax East
+http://fiberbox.tk/live/brennan/brennan/12265.ts
+#EXTINF:-1,US:Cinemax 5 StarMax
+http://fiberbox.tk/live/brennan/brennan/12264.ts
+#EXTINF:-1,US:CBS HD / Sunday Ticket 5
+http://fiberbox.tk/live/brennan/brennan/12263.ts
+#EXTINF:-1,US:CARTOON NETWORK HD
+http://fiberbox.tk/live/brennan/brennan/12262.ts
+#EXTINF:-1,US:C SPAN 3 HD
+http://fiberbox.tk/live/brennan/brennan/12261.ts
+#EXTINF:-1,US:C SPAN 2 HD
+http://fiberbox.tk/live/brennan/brennan/12260.ts
+#EXTINF:-1,US:C SPAN 1 HD
+http://fiberbox.tk/live/brennan/brennan/12259.ts
+#EXTINF:-1,US:BTN SPORTS HD
+http://fiberbox.tk/live/brennan/brennan/12258.ts
+#EXTINF:-1,US:BRAVO HD
+http://fiberbox.tk/live/brennan/brennan/12255.ts
+#EXTINF:-1,US:BRAVO HD
+http://fiberbox.tk/live/brennan/brennan/12256.ts
+#EXTINF:-1,US:BRAVO HD
+http://fiberbox.tk/live/brennan/brennan/12257.ts
+#EXTINF:-1,US:BOOMERANG HD
+http://fiberbox.tk/live/brennan/brennan/12254.ts
+#EXTINF:-1,US:Bloomberg HD
+http://fiberbox.tk/live/brennan/brennan/12253.ts
+#EXTINF:-1,US:BEIN USA HD
+http://fiberbox.tk/live/brennan/brennan/12251.ts
+#EXTINF:-1,US:Bein USA HD
+http://fiberbox.tk/live/brennan/brennan/12252.ts
+#EXTINF:-1,US:AXN WHITE
+http://fiberbox.tk/live/brennan/brennan/12250.ts
+#EXTINF:-1,US:AXN HD
+http://fiberbox.tk/live/brennan/brennan/12249.ts
+#EXTINF:-1,US:AXN BLACK HD
+http://fiberbox.tk/live/brennan/brennan/12248.ts
+#EXTINF:-1,US:Animal Planet HD
+http://fiberbox.tk/live/brennan/brennan/12247.ts
+#EXTINF:-1,US:AMC HD
+http://fiberbox.tk/live/brennan/brennan/12246.ts
+#EXTINF:-1,US:AFN SPORTS 2
+http://fiberbox.tk/live/brennan/brennan/12245.ts
+#EXTINF:-1,US:AFN SPORTS
+http://fiberbox.tk/live/brennan/brennan/12244.ts
+#EXTINF:-1,US:AFN SPECTRUM
+http://fiberbox.tk/live/brennan/brennan/12243.ts
+#EXTINF:-1,US:AFN PULSE
+http://fiberbox.tk/live/brennan/brennan/12242.ts
+#EXTINF:-1,US:AFN PRIME PACIFIC
+http://fiberbox.tk/live/brennan/brennan/12241.ts
+#EXTINF:-1,US:AFN PRIME ATLANTIC
+http://fiberbox.tk/live/brennan/brennan/12240.ts
+#EXTINF:-1,US:ABC NEWS HD
+http://fiberbox.tk/live/brennan/brennan/12239.ts
+#EXTINF:-1,US:ABC HD
+http://fiberbox.tk/live/brennan/brennan/12238.ts
+#EXTINF:-1,US:A&E HD
+http://fiberbox.tk/live/brennan/brennan/12237.ts
+#EXTINF:-1,US: CINEMAX 5
+http://fiberbox.tk/live/brennan/brennan/12236.ts
+#EXTINF:-1,UK:ZING
+http://fiberbox.tk/live/brennan/brennan/12235.ts
+#EXTINF:-1,UK:ZEE TV
+http://fiberbox.tk/live/brennan/brennan/12234.ts
+#EXTINF:-1,UK:ZEE PUNJABI
+http://fiberbox.tk/live/brennan/brennan/12233.ts
+#EXTINF:-1,UK:TV3
+http://fiberbox.tk/live/brennan/brennan/12232.ts
+#EXTINF:-1,UK:True Movies 1 HD
+http://fiberbox.tk/live/brennan/brennan/12231.ts
+#EXTINF:-1,UK:STAR VIJOY
+http://fiberbox.tk/live/brennan/brennan/12230.ts
+#EXTINF:-1,UK:STAR UTSAV HD
+http://fiberbox.tk/live/brennan/brennan/12229.ts
+#EXTINF:-1,UK:STAR PLUS
+http://fiberbox.tk/live/brennan/brennan/12228.ts
+#EXTINF:-1,UK:STAR LIFE OK
+http://fiberbox.tk/live/brennan/brennan/12227.ts
+#EXTINF:-1,UK:STAR JALSHA
+http://fiberbox.tk/live/brennan/brennan/12226.ts
+#EXTINF:-1,UK:STAR GOLD
+http://fiberbox.tk/live/brennan/brennan/12225.ts
+#EXTINF:-1,UK:Sony UK
+http://fiberbox.tk/live/brennan/brennan/12224.ts
+#EXTINF:-1,UK:Sky TWO
+http://fiberbox.tk/live/brennan/brennan/12223.ts
+#EXTINF:-1,UK:SKY SPORTS NEWS HD
+http://fiberbox.tk/live/brennan/brennan/12222.ts
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://fiberbox.tk/live/brennan/brennan/12221.ts
+#EXTINF:-1,UK:SKY SPORTS 5 HD
+http://fiberbox.tk/live/brennan/brennan/12220.ts
+#EXTINF:-1,UK:SKY SPORTS 4 HD
+http://fiberbox.tk/live/brennan/brennan/12219.ts
+#EXTINF:-1,UK:SKY SPORTS 3 HD
+http://fiberbox.tk/live/brennan/brennan/12218.ts
+#EXTINF:-1,UK:SKY SPORTS 2 HD
+http://fiberbox.tk/live/brennan/brennan/12217.ts
+#EXTINF:-1,UK:SKY SPORTS 1 HD
+http://fiberbox.tk/live/brennan/brennan/12216.ts
+#EXTINF:-1,UK:Sky Sport S BOX OFFICE PPV
+http://fiberbox.tk/live/brennan/brennan/12215.ts
+#EXTINF:-1,UK:Sky Sport s Box Office
+http://fiberbox.tk/live/brennan/brennan/12214.ts
+#EXTINF:-1,UK:Sky Sport 1
+http://fiberbox.tk/live/brennan/brennan/12213.ts
+#EXTINF:-1,UK:Sky Select Movies
+http://fiberbox.tk/live/brennan/brennan/12212.ts
+#EXTINF:-1,UK:Sky SciFi & Horror Movies
+http://fiberbox.tk/live/brennan/brennan/12211.ts
+#EXTINF:-1,UK:Sky Premiere Movies
+http://fiberbox.tk/live/brennan/brennan/12210.ts
+#EXTINF:-1,UK:Sky Movies Thriller HD
+http://fiberbox.tk/live/brennan/brennan/12209.ts
+#EXTINF:-1,UK:Sky Movies Select HD
+http://fiberbox.tk/live/brennan/brennan/12208.ts
+#EXTINF:-1,UK:Sky Movies Family HD
+http://fiberbox.tk/live/brennan/brennan/12207.ts
+#EXTINF:-1,UK:Sky Movies Drama HD
+http://fiberbox.tk/live/brennan/brennan/12206.ts
+#EXTINF:-1,UK:Sky Movies Disney
+http://fiberbox.tk/live/brennan/brennan/12205.ts
+#EXTINF:-1,UK:Sky Movies Comedy HD
+http://fiberbox.tk/live/brennan/brennan/12204.ts
+#EXTINF:-1,UK:Sky Greats Movies
+http://fiberbox.tk/live/brennan/brennan/12203.ts
+#EXTINF:-1,UK:Sky Family Movies
+http://fiberbox.tk/live/brennan/brennan/12202.ts
+#EXTINF:-1,UK:Sky Drama Romance Movies
+http://fiberbox.tk/live/brennan/brennan/12201.ts
+#EXTINF:-1,UK:Sky Comedy Movies
+http://fiberbox.tk/live/brennan/brennan/12200.ts
+#EXTINF:-1,UK:Sky Cinema Select HD
+http://fiberbox.tk/live/brennan/brennan/12199.ts
+#EXTINF:-1,UK:Sky Cinema Family HD
+http://fiberbox.tk/live/brennan/brennan/12198.ts
+#EXTINF:-1,UK:Sky Cinema Comedy HD
+http://fiberbox.tk/live/brennan/brennan/12197.ts
+#EXTINF:-1,UK:Sky Action Movies
+http://fiberbox.tk/live/brennan/brennan/12196.ts
+#EXTINF:-1,UK:Sky 2
+http://fiberbox.tk/live/brennan/brennan/12195.ts
+#EXTINF:-1,UK:Set Max
+http://fiberbox.tk/live/brennan/brennan/12194.ts
+#EXTINF:-1,UK:RTE ONE
+http://fiberbox.tk/live/brennan/brennan/12193.ts
+#EXTINF:-1,UK:RTE JUNIOR
+http://fiberbox.tk/live/brennan/brennan/12192.ts
+#EXTINF:-1,UK:RACING UK
+http://fiberbox.tk/live/brennan/brennan/12191.ts
+#EXTINF:-1,UK:PREMIERE SPORT
+http://fiberbox.tk/live/brennan/brennan/12190.ts
+#EXTINF:-1,UK:NICK JR
+http://fiberbox.tk/live/brennan/brennan/12189.ts
+#EXTINF:-1,UK:Nat Geographic HD
+http://fiberbox.tk/live/brennan/brennan/12188.ts
+#EXTINF:-1,UK:MOVIES SHOW CASE
+http://fiberbox.tk/live/brennan/brennan/12187.ts
+#EXTINF:-1,UK:LIVERPOOL FC
+http://fiberbox.tk/live/brennan/brennan/12186.ts
+#EXTINF:-1,UK:Life oK
+http://fiberbox.tk/live/brennan/brennan/12185.ts
+#EXTINF:-1,UK:ITV4 HD
+http://fiberbox.tk/live/brennan/brennan/12184.ts
+#EXTINF:-1,UK:ITV HD Backup
+http://fiberbox.tk/live/brennan/brennan/12183.ts
+#EXTINF:-1,UK:ITV HD
+http://fiberbox.tk/live/brennan/brennan/12182.ts
+#EXTINF:-1,UK:ITV 3 HD
+http://fiberbox.tk/live/brennan/brennan/12181.ts
+#EXTINF:-1,UK:Heart TV UK
+http://fiberbox.tk/live/brennan/brennan/12180.ts
+#EXTINF:-1,UK:Film4
+http://fiberbox.tk/live/brennan/brennan/12179.ts
+#EXTINF:-1,UK:Eleven Sports
+http://fiberbox.tk/live/brennan/brennan/12178.ts
+#EXTINF:-1,UK:Discovery Investigation HD
+http://fiberbox.tk/live/brennan/brennan/12177.ts
+#EXTINF:-1,UK:Channel 5 UK
+http://fiberbox.tk/live/brennan/brennan/12175.ts
+#EXTINF:-1,UK:Channel 4 UK
+http://fiberbox.tk/live/brennan/brennan/12174.ts
+#EXTINF:-1,UK:BT Sport 2 HD
+http://fiberbox.tk/live/brennan/brennan/12173.ts
+#EXTINF:-1,UK:Boomerang
+http://fiberbox.tk/live/brennan/brennan/12172.ts
+#EXTINF:-1,UK:Bloomberg TV INDIA
+http://fiberbox.tk/live/brennan/brennan/12171.ts
+#EXTINF:-1,UK:BBC  Two Scotland
+http://fiberbox.tk/live/brennan/brennan/12170.ts
+#EXTINF:-1,UK:BBC  Two HD
+http://fiberbox.tk/live/brennan/brennan/12169.ts
+#EXTINF:-1,UK:BBC  One London
+http://fiberbox.tk/live/brennan/brennan/12168.ts
+#EXTINF:-1,UK:BBC  One HD
+http://fiberbox.tk/live/brennan/brennan/12167.ts
+#EXTINF:-1,UK:BBC  News UK
+http://fiberbox.tk/live/brennan/brennan/12166.ts
+#EXTINF:-1,UK:BBC  News
+http://fiberbox.tk/live/brennan/brennan/12165.ts
+#EXTINF:-1,UK:BBC  Four UK
+http://fiberbox.tk/live/brennan/brennan/12164.ts
+#EXTINF:-1,UK:Baby TV
+http://fiberbox.tk/live/brennan/brennan/12163.ts
