@@ -1,19 +1,20 @@
-#EXTINF:-1, Animal Planet
-#EXTINF:-1, Spike Tv
-#EXTINF:-1, Syfy US
-#EXTINF:-1, CBS
-http://167.114.102.27/live/7UOccUyYMEdDSAAdCOgTig/1491312858/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
-#EXTINF:-1, Bravo Tv
-#EXTINF:-1, CBS
-#EXTINF:-1, FOX
+#EXTINF:-1, USA Network
+#EXTINF:-1, TNT
+#EXTINF:-1, Comedy Central
+#EXTINF:-1, FX
+#EXTINF:-1, Comedy Central
 #EXTM3U
 #EXTINF:-1, ABC
 #EXTINF:-1, A&E
-http://167.114.102.27/live/tI-629LGodR933J9eUtr0Q/1491313340/ce425ca32dea0f37b22717ae989bcffb.m3u8
+#EXTINF:-1, CNBC
 #EXTINF:-1, AMC
-http://167.114.102.27/live/v0wtze91qlraTuBc62oOCw/1491313341/c0371e35a2b3244f5edda7947172d954.m3u8
+#EXTINF:-1, Discovery Channel
 #EXTINF:-1, Animal Planet
-http://167.114.102.27/live/Rf7oI4LXnEES2vsarwGniw/1491313416/a0f8ddb8c8251a68f136648b32c0f62d.m3u8
+#EXTINF:-1, ESPN
 #EXTINF:-1, Bravo Tv
-#EXTINF:-1, The CW
-#EXTINF:-1, TBS
+#EXTINF:-1, CBS
+#EXTINF:-1, Comedy Central
+#EXTINF:-1, CNBC
+#EXTINF:-1, CBS
+#EXTINF:-1, Lifetime
+http://167.114.102.27/live/NRpdnlAo7JuP0m5-vcZ7yQ/1491313716/e00dd9ccbf6cba8e47ca458993f307c1.m3u8
