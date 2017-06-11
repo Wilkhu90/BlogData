@@ -1,0 +1,22 @@
+[
+    {
+      name: "CNN",
+      link: "http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8",
+      image: "http://www.livenewson.com/wp-content/uploads/2015/02/CNN_News_Live-2-300x157.png"
+    },
+    {
+      name: "MSNBC",
+      link: "http://5.79.71.185:8088/live/MSNBC_livestreaming/playlist.m3u8?id=71203&pk=94f2f62d17701216f9050e2c09bbb45e3ebe6e8c803d3f5d1947d0220d96027d",
+      image: "http://www.livenewson.com/wp-content/uploads/2014/11/MSNBC-300x171.jpg"
+    },
+    {
+      name: "MSNBC HD",
+      link: "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8",
+      image: "http://www.livenewson.com/wp-content/uploads/2014/11/MSNBC-300x171.jpg"
+    },
+    {
+      name: "FOX",
+      link: "http://185.2.137.180:8088/live/livenewsbox_FoxNews/playlist.m3u8?id=62162&pk=94f2f62d17701216f9050e2c09bbb45e3ebe6e8c803d3f5d1947d0220d96027d",
+      image: "http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg"
+    }
+]
