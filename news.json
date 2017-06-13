@@ -20,8 +20,38 @@
       "image": "http://www.livenewson.com/wp-content/uploads/2014/11/MSNBC-300x171.jpg"
     },
     {
-      "name": "FOX",
+      "name": "FOX News",
       "link": "http://185.2.137.180:8088/live/livenewsbox_FoxNews/playlist.m3u8?id=62162&pk=94f2f62d17701216f9050e2c09bbb45e3ebe6e8c803d3f5d1947d0220d96027d",
       "image": "http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg"
+    },
+    {
+      "name": "HBO HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/25586.ts",
+      "image": "https://vignette4.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/200?cb=20170424065216"
+    },
+    {
+      "name": "HBO2 HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/8629.ts",
+      "image": "https://vignette3.wikia.nocookie.net/logopedia/images/3/39/HBO_2_2014.png/revision/latest?cb=20151026111009"
+    },
+    {
+      "name": "HBO Comedy HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/9138.ts",
+      "image": "https://vignette1.wikia.nocookie.net/logopedia/images/0/0d/HBO_Comedy_2014.png/revision/latest?cb=20151026111202"
+    },
+    {
+      "name": "HBO Family HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/8507.ts",
+      "image": "https://vignette3.wikia.nocookie.net/logopedia/images/1/15/HBO_Family_new_logo.svg/revision/latest/scale-to-width-down/200?cb=20160327205120"
+    },
+    {
+      "name": "HBO Signature HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/8664.ts",
+      "image": "https://vignette3.wikia.nocookie.net/logopedia/images/0/0a/HBO_Signature_new_logo.png/revision/latest?cb=20151026111511"
+    },
+    {
+      "name": "HBO Zone HD",
+      "link": "http://dexonline.ninja:8000/live/clreaiptv/direct1654/8665.ts",
+      "image": "https://vignette1.wikia.nocookie.net/logopedia/images/6/62/HBO_Zone_new_logo.png/revision/latest?cb=20151026111726"
     }
 ]
