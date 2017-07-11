@@ -1,64 +1,162 @@
-#EXTINF:-1,US:  ABC Spark
-http://ndasat.pro:8000/live/58965889362952/1593574628/1122.ts
-#EXTINF:-1,US: AMC HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1120.ts
-#EXTINF:-1,US: Bravo HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1114.ts
-#EXTINF:-1,US: CBN News
-http://ndasat.pro:8000/live/58965889362952/1593574628/1113.ts
-#EXTINF:-1,US:  CBS HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1095.ts
-#EXTINF:-1,US:  Cinemax East
-http://ndasat.pro:8000/live/58965889362952/1593574628/1111.ts
-#EXTINF:-1,US: CW HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1094.ts
-#EXTINF:-1,US:  DISCCOVERY
-http://ndasat.pro:8000/live/58965889362952/1593574628/1134.ts
-#EXTINF:-1,US:  ESPN 2
-http://ndasat.pro:8000/live/58965889362952/1593574628/1118.ts
-#EXTINF:-1,US:  ESPN HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1136.ts
-#EXTINF:-1,US: Fox Sport 1 HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1138.ts
-#EXTINF:-1,US:  Fox Sport 2
-http://ndasat.pro:8000/live/58965889362952/1593574628/1139.ts
-#EXTINF:-1,US:  FX HD USA
-http://ndasat.pro:8000/live/58965889362952/1593574628/1098.ts
-#EXTINF:-1,US:  HBO Zone HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1108.ts
-#EXTINF:-1,US: HISTORY
-http://ndasat.pro:8000/live/58965889362952/1593574628/1133.ts
-#EXTINF:-1,US: LIFETIME HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1117.ts
-#EXTINF:-1,US: NAT GEOGRAPHIC
-http://ndasat.pro:8000/live/58965889362952/1593574628/1135.ts
-#EXTINF:-1,US:  NBA Network
-http://ndasat.pro:8000/live/58965889362952/1593574628/1116.ts
-#EXTINF:-1,US:  NBC SPORT
-http://ndasat.pro:8000/live/58965889362952/1593574628/1137.ts
-#EXTINF:-1,US: Network HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1132.ts
-#EXTINF:-1,US:  NFL Network
-http://ndasat.pro:8000/live/58965889362952/1593574628/1107.ts
-#EXTINF:-1,US:  PBS HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1096.ts
-#EXTINF:-1,US: SPIKE HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1131.ts
-#EXTINF:-1,US:  SYFY HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1130.ts
-#EXTINF:-1,US:  TBS HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1129.ts
-#EXTINF:-1,US: TNT HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1128.ts
-#EXTINF:-1,US:  TSN 1
-http://ndasat.pro:8000/live/58965889362952/1593574628/1097.ts
-#EXTINF:-1,US:  TSN 2
-http://ndasat.pro:8000/live/58965889362952/1593574628/1124.ts
-#EXTINF:-1,US:  TSN 3
-http://ndasat.pro:8000/live/58965889362952/1593574628/1125.ts
-#EXTINF:-1,US: TSN 4
-http://ndasat.pro:8000/live/58965889362952/1593574628/1126.ts
-#EXTINF:-1,US:  TSN 5
-http://ndasat.pro:8000/live/58965889362952/1593574628/1127.ts
-#EXTINF:-1,US:  WILLOW CRICKET HD
-http://ndasat.pro:8000/live/58965889362952/1593574628/1102.ts
+#EXTINF:-1,HBO HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13685.ts
+#EXTINF:-1,HGTV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13835.ts
+#EXTINF:-1,NBCSN Golf Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13687.ts
+#EXTINF:-1,MSNBC HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16841.ts
+#EXTINF:-1,NFL Network Now US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13690.ts
+#EXTINF:-1,NHL Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13688.ts
+#EXTINF:-1,Fox Sports West US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13692.ts
+#EXTINF:-1,Ion Life US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13671.ts
+#EXTINF:-1,Showtime US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13666.ts
+#EXTINF:-1,Heroes & Icons US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13668.ts
+#EXTINF:-1,Starz Cinema US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13676.ts
+#EXTINF:-1,Starz Edge US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13677.ts
+#EXTINF:-1,Family Jr. CAN
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13674.ts
+#EXTINF:-1,Starz West US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13678.ts
+#EXTINF:-1,Willow Cricket US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13689.ts
+#EXTINF:-1,A&E US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10350.ts
+#EXTINF:-1,ABC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9026.ts
+#EXTINF:-1,AMC HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13104.ts
+#EXTINF:-1,Bravo US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10704.ts
+#EXTINF:-1,C-SPAN 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10701.ts
+#EXTINF:-1,C-SPAN 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10702.ts
+#EXTINF:-1,C-SPAN 3 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10703.ts
+#EXTINF:-1,Cartoon Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13103.ts
+#EXTINF:-1,CBS HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10347.ts
+#EXTINF:-1,CBS Reality US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10346.ts
+#EXTINF:-1,CNBC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9028.ts
+#EXTINF:-1,CNN US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9029.ts
+#EXTINF:-1,Comedy Central US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13102.ts
+#EXTINF:-1,DIY Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13101.ts
+#EXTINF:-1,E! US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9021.ts
+#EXTINF:-1,ESPN 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9023.ts
+#EXTINF:-1,ESPN 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9022.ts
+#EXTINF:-1,FOX News US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13100.ts
+#EXTINF:-1,FOX Sports 1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9031.ts
+#EXTINF:-1,FOX Sports 2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9030.ts
+#EXTINF:-1,Qubo US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13099.ts
+#EXTINF:-1,FX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13098.ts
+#EXTINF:-1,FXX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13097.ts
+#EXTINF:-1,H2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9019.ts
+#EXTINF:-1,Hallmark Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9025.ts
+#EXTINF:-1,HBO Comedy US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9017.ts
+#EXTINF:-1,HBO Signature US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9016.ts
+#EXTINF:-1,Lifetime US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9078.ts
+#EXTINF:-1,Lifetime Movie Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13096.ts
+#EXTINF:-1,MLB Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10699.ts
+#EXTINF:-1,Get Tv US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10698.ts
+#EXTINF:-1,NBA TV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9010.ts
+#EXTINF:-1,NBC US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9009.ts
+#EXTINF:-1,NBC Sports Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9008.ts
+#EXTINF:-1,NFL Network US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9077.ts
+#EXTINF:-1,Nick US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9012.ts
+#EXTINF:-1,Spike US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13107.ts
+#EXTINF:-1,Sportsnet 360 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10700.ts
+#EXTINF:-1,Sportsnet One US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10344.ts
+#EXTINF:-1,Sportsnet World US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10342.ts
+#EXTINF:-1,Sportsnet Ontario US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10345.ts
+#EXTINF:-1,Syfy HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13095.ts
+#EXTINF:-1,TBS US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13106.ts
+#EXTINF:-1,TSN1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9032.ts
+#EXTINF:-1,TSN2 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9033.ts
+#EXTINF:-1,TSN3 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9034.ts
+#EXTINF:-1,TSN4 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9035.ts
+#EXTINF:-1,TSN5 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9036.ts
+#EXTINF:-1,USA Network HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13105.ts
+#EXTINF:-1,VH1 Classic US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12059.ts
+#EXTINF:-1,VH1 US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12058.ts
+#EXTINF:-1,Sport 1 HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7325.ts
+#EXTINF:-1,Animal Planet HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12060.ts
+#EXTINF:-1,MTV Rocks US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12062.ts
+#EXTINF:-1,MTV Hits US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12063.ts
+#EXTINF:-1,MTV Dance US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12064.ts
+#EXTINF:-1,Discovery Channel US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15717.ts
+#EXTINF:-1,FOX HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15716.ts
+#EXTINF:-1,History HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15712.ts
+#EXTINF:-1,National Geographic HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15714.ts
+#EXTINF:-1,PBS US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15715.ts
+#EXTINF:-1,FreeForm HD US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14294.ts
+#EXTINF:-1,OWN US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16295.ts
+#EXTINF:-1,NASA LIVE US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16585.ts
+#EXTINF:-1,TNT US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15366.ts
+#EXTINF:-1,Fuel TV US
+http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9484.ts
