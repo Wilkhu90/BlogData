@@ -1,382 +1,807 @@
-#EXTINF:-1,USA | ABC News
-http://217.182.138.85:7000/live/chewie/chewie/4181.ts
-#EXTINF:-1,USA | Animal Planet
-http://217.182.138.85:7000/live/chewie/chewie/4182.ts
-#EXTINF:-1,USA | Bein USA
-http://217.182.138.85:7000/live/chewie/chewie/4183.ts
-#EXTINF:-1,USA | Bloomberg
-http://217.182.138.85:7000/live/chewie/chewie/4184.ts
-#EXTINF:-1,USA | CBS
-http://217.182.138.85:7000/live/chewie/chewie/4197.ts
-#EXTINF:-1,USA | CBSN
-http://217.182.138.85:7000/live/chewie/chewie/4202.ts
-#EXTINF:-1,USA | CNBC
-http://217.182.138.85:7000/live/chewie/chewie/4185.ts
-#EXTINF:-1,USA | CNN
-http://217.182.138.85:7000/live/chewie/chewie/4186.ts
-#EXTINF:-1,USA | ESPN USA
-http://217.182.138.85:7000/live/chewie/chewie/4187.ts
-#EXTINF:-1,USA | Fox Sports 1
-http://217.182.138.85:7000/live/chewie/chewie/4188.ts
-#EXTINF:-1,USA | FOX Sports 2
-http://217.182.138.85:7000/live/chewie/chewie/4189.ts
-#EXTINF:-1,USA | NBA TV
-http://217.182.138.85:7000/live/chewie/chewie/4190.ts
-#EXTINF:-1,USA | NBC SN
-http://217.182.138.85:7000/live/chewie/chewie/4191.ts
-#EXTINF:-1,USA | NDTV
-http://217.182.138.85:7000/live/chewie/chewie/4199.ts
-#EXTINF:-1,USA | NFL
-http://217.182.138.85:7000/live/chewie/chewie/4200.ts
-#EXTINF:-1,USA | PAG
-http://217.182.138.85:7000/live/chewie/chewie/4201.ts
-#EXTINF:-1,USA | Poker Central
-http://217.182.138.85:7000/live/chewie/chewie/4203.ts
-#EXTINF:-1,USA | Space
-http://217.182.138.85:7000/live/chewie/chewie/4204.ts
-#EXTINF:-1,USA | TSN 1
-http://217.182.138.85:7000/live/chewie/chewie/4192.ts
-#EXTINF:-1,USA | TSN 2
-http://217.182.138.85:7000/live/chewie/chewie/4193.ts
-#EXTINF:-1,USA | TSN 3
-http://217.182.138.85:7000/live/chewie/chewie/4194.ts
-#EXTINF:-1,USA | TSN 4
-http://217.182.138.85:7000/live/chewie/chewie/4195.ts
-#EXTINF:-1,USA | TSN 5
-http://217.182.138.85:7000/live/chewie/chewie/4196.ts
-#EXTINF:-1,USA | WWE
-http://217.182.138.85:7000/live/chewie/chewie/4198.ts
-#EXTINF:-1,US: ABC HD Philadelphia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3684.ts
-#EXTINF:-1,US: NBC HD Philadelphia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1420.ts
-#EXTINF:-1,US: CBS HD Philadelphia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3682.ts
-#EXTINF:-1,US: CW HD Philadelphia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3677.ts
-#EXTINF:-1,US: FOX HD Philadelphia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2956.ts
-#EXTINF:-1,US: CBS HD New York
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5964.ts
-#EXTINF:-1,US: ABC HD New York
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5960.ts
-#EXTINF:-1,US: FOX HD New York
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5951.ts
-#EXTINF:-1,US: NBC HD New York
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6095.ts
-#EXTINF:-1,US: My9 HD New York
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6096.ts
-#EXTINF:-1,US: NBC HD Boston
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5947.ts
-#EXTINF:-1,US: NBC HD Los Angeles
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5950.ts
-#EXTINF:-1,US: CBS HD Los Angeles
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5963.ts
-#EXTINF:-1,US: ABC HD Los Angeles
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5961.ts
-#EXTINF:-1,US: My13 LA HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5957.ts
-#EXTINF:-1,US: NBC HD San Francisco
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5949.ts
-#EXTINF:-1,US: CBS HD San Franciso
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5962.ts
-#EXTINF:-1,US: FOX HD San Francisco
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6097.ts
-#EXTINF:-1,US: MY20 HD D.C.
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5959.ts
-#EXTINF:-1,US: My20 Houston
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5948.ts
-#EXTINF:-1,US: MY27 HD Dallas
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5956.ts
-#EXTINF:-1,US: MY29 HD Minnesota
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5958.ts
-#EXTINF:-1,US: My50 HD Chicago
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5955.ts
-#EXTINF:-1,US: CBS HD Milwaukee
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5952.ts
-#EXTINF:-1,US: Channel 7 HD Miami
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5953.ts
-#EXTINF:-1,AR: OSN Cricket
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7648.ts
-#EXTINF:-1,IN: Ten Cricket
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7649.ts
-#EXTINF:-1,US: EPIX HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5874.ts
-#EXTINF:-1,US: EPIX2 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5875.ts
-#EXTINF:-1,US: EPIX 3 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3671.ts
-#EXTINF:-1,US: Cinemax HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1394.ts
-#EXTINF:-1,US: Cinemax Moremax HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5870.ts
-#EXTINF:-1,US: Cinemax Thrillermax HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3679.ts
-#EXTINF:-1,US: Showtime HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3670.ts
-#EXTINF:-1,US: Showtime 2 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5883.ts
-#EXTINF:-1,US: Showtime Family Zone HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5884.ts
-#EXTINF:-1,US: HBO HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1464.ts
-#EXTINF:-1,US: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2444.ts
-#EXTINF:-1,US: HBO Zone HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1412.ts
-#EXTINF:-1,US: HBO Comedy HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5879.ts
-#EXTINF:-1,US: HBO 2 Comedy
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2437.ts
-#EXTINF:-1,US: HBO Signature HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5880.ts
-#EXTINF:-1,US: HBO Family HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1411.ts
-#EXTINF:-1,CA: HBO HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1261.ts
-#EXTINF:-1,CA: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1260.ts
-#EXTINF:-1,US: Starz HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1434.ts
-#EXTINF:-1,US: Starz Edge HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1433.ts
-#EXTINF:-1,US: Sony Movie Channel HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1415.ts
-#EXTINF:-1,US: Chiller HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3664.ts
-#EXTINF:-1,US: MGM HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1393.ts
-#EXTINF:-1,US: Impact HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2443.ts
-#EXTINF:-1,US: AMC HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1448.ts
-#EXTINF:-1,US: A&E HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1378.ts
-#EXTINF:-1,US: American Heroes HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5893.ts
-#EXTINF:-1,US: Animal Planet HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1449.ts
-#EXTINF:-1,US: BET HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6201.ts
-#EXTINF:-1,US: BBC America HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3683.ts
-#EXTINF:-1,US: Bravo HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1390.ts
-#EXTINF:-1,US: CMT HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5871.ts
-#EXTINF:-1,US: Comedy Central HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2105.ts
-#EXTINF:-1,US: Cooking Channel HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3678.ts
-#EXTINF:-1,US: Discovery Science HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1455.ts
-#EXTINF:-1,US: Discovery Family HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3676.ts
-#EXTINF:-1,US: Destination America HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5259.ts
-#EXTINF:-1,US: DIY HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3673.ts
-#EXTINF:-1,US: Discovery Life HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5887.ts
-#EXTINF:-1,US: Discovery HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1454.ts
-#EXTINF:-1,US: El Rey Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5873.ts
-#EXTINF:-1,US: E! Entertainment HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3680.ts
-#EXTINF:-1,US: Crime and Investigation HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5872.ts
-#EXTINF:-1,US: Nat Geo HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1377.ts
-#EXTINF:-1,US: OWN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3660.ts
-#EXTINF:-1,US: IFC HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3663.ts
-#EXTINF:-1,US: Lifetime HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1467.ts
-#EXTINF:-1,US: Hallmark HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1410.ts
-#EXTINF:-1,US: SYFY HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2948.ts
-#EXTINF:-1,US: Oxygen HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3672.ts
-#EXTINF:-1,US: Outside HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5486.ts
-#EXTINF:-1,US: NAT GEO WILD HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1469.ts
-#EXTINF:-1,US: POP HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5896.ts
-#EXTINF:-1,US: MTV HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3662.ts
-#EXTINF:-1,US: MTV Live HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1417.ts
-#EXTINF:-1,US: TLC HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5892.ts
-#EXTINF:-1,US: FX HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3668.ts
-#EXTINF:-1,US: FXX HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3667.ts
-#EXTINF:-1,US: FX Movie Channel
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5888.ts
-#EXTINF:-1,US: FYI HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5876.ts
-#EXTINF:-1,US: Fusion HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3666.ts
-#EXTINF:-1,US: FreeForm HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1407.ts
-#EXTINF:-1,US: Food Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1948.ts
-#EXTINF:-1,US: HSN
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5429.ts
-#EXTINF:-1,US: HGTV HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5881.ts
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5878.ts
-#EXTINF:-1,US: ID HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1414.ts
-#EXTINF:-1,US: GSN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5877.ts
-#EXTINF:-1,US: LMN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5882.ts
-#EXTINF:-1,US: History Channel HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1466.ts
-#EXTINF:-1,US: Mello TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2946.ts
-#EXTINF:-1,US: Spike HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1432.ts
-#EXTINF:-1,US: Turner Classic Movies HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5894.ts
-#EXTINF:-1,US: TBS HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2106.ts
-#EXTINF:-1,US: VELOCITY HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1475.ts
-#EXTINF:-1,US: TNT HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2068.ts
-#EXTINF:-1,US: USA Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2067.ts
-#EXTINF:-1,US: WE HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3654.ts
-#EXTINF:-1,US: TruTV HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1856.ts
-#EXTINF:-1,US: Universal HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5487.ts
-#EXTINF:-1,US: Viceland
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3734.ts
-#EXTINF:-1,US: Travel Channel HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3655.ts
-#EXTINF:-1,US: Sundance HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3656.ts
-#EXTINF:-1,US: Esquire Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3659.ts
-#EXTINF:-1,US: VH1 HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1476.ts
-#EXTINF:-1,US: TV Land HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1853.ts
-#EXTINF:-1,US: Hi-Yah! Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5890.ts
-#EXTINF:-1,US: Buzzr
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6006.ts
-#EXTINF:-1,US: Cozi
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7372.ts
-#EXTINF:-1,US: Antenna TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7373.ts
-#EXTINF:-1,US: Get TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7375.ts
-#EXTINF:-1,US: Grit
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7376.ts
-#EXTINF:-1,US: H&I
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7377.ts
-#EXTINF:-1,US: ION Life
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7378.ts
-#EXTINF:-1,US: Movies
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7379.ts
-#EXTINF:-1,US: Qubo
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7380.ts
-#EXTINF:-1,US: This TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/7381.ts
-#EXTINF:-1,US: CNN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1452.ts
-#EXTINF:-1,US: MSNBC HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1468.ts
-#EXTINF:-1,US: Bloomberg HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1389.ts
-#EXTINF:-1,US: HLN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1920.ts
-#EXTINF:-1,US: Fox News HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1406.ts
-#EXTINF:-1,US: Fox Business Network HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1405.ts
-#EXTINF:-1,UK: CNN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1322.ts
-#EXTINF:-1,US: BBC World News HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6069.ts
-#EXTINF:-1,US: NECN HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/6068.ts
-#EXTINF:-1,UK: Sky News HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1359.ts
-#EXTINF:-1,UK: Sky News Arabia
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3141.ts
-#EXTINF:-1,UK: Sky News
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3437.ts
-#EXTINF:-1,UK: Fox News
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3441.ts
-#EXTINF:-1,UK: RTE News Now
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/3147.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/1380.ts
-#EXTINF:-1,CA: MSNBC
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5446.ts
-#EXTINF:-1,US: Newsmax TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2947.ts
-#EXTINF:-1,US: Al Jazeera English
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2944.ts
-#EXTINF:-1,US: CBS NEWS
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2938.ts
-#EXTINF:-1,US: The Weather Channel
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2957.ts
-#EXTINF:-1,US: C-Span 1
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2939.ts
-#EXTINF:-1,US: C-Span 2
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2940.ts
-#EXTINF:-1,US: C-Span 3
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/2941.ts
-#EXTINF:-1,US: PRESS TV
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5365.ts
-#EXTINF:-1,US: AFRICA NEWS NETWORK
-http://nitrotv.for-the.biz:25461/live/Fern/Fern/5368.ts
-#EXTINF:-1,(US) 5 USA
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18408.ts
-#EXTINF:-1,(US) ABC
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18425.ts
-#EXTINF:-1,(US) AMC HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18416.ts
-#EXTINF:-1,(US) BBC ONE
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18421.ts
-#EXTINF:-1,(US) CNBC
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18424.ts
-#EXTINF:-1,(US) CNN INTERNATIONAL
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18409.ts
-#EXTINF:-1,(US) HBO
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18420.ts
-#EXTINF:-1,(US) HBO 1
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18419.ts
-#EXTINF:-1,(US) HBO Signature
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18418.ts
-#EXTINF:-1,(US) Network
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18422.ts
-#EXTINF:-1,(US) Fox News
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18423.ts
-#EXTINF:-1,(US) DISCOVERY HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18410.ts
-#EXTINF:-1,(US) ESPN HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18407.ts
-#EXTINF:-1,(US) FOX Sport
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18413.ts
-#EXTINF:-1,(US) NBC HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18415.ts
-#EXTINF:-1,(US) NFL
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18417.ts
-#EXTINF:-1,(US) TSN 5 HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18402.ts
-#EXTINF:-1,(US) SPORTS NET ONE HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18411.ts
+#EXTM3U
+#EXTINF:-1,US| Animal Planet  IPTVultra.com [480x272]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29665.ts
+#EXTINF:-1,US| BEIN SPORT  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29651.ts
+#EXTINF:-1,US| Bloomberg  IPTVultra.com [480x272]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29666.ts
+#EXTINF:-1,US| Fox Sports  1  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29642.ts
+#EXTINF:-1,US| TBS HD  IPTVultra.com [640x368]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29702.ts
+#EXTINF:-1,US| HBO ZONE  IPTVultra.com [1920x1088]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29644.ts
+#EXTINF:-1,US| Comedy C HD  IPTVultra.com [1920x1088]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29636.ts
+#EXTINF:-1,US| BET  IPTVultra.com [720x576]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29710.ts
+#EXTINF:-1,US| CBS News HD  IPTVultra.com [720x576]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29670.ts
+#EXTINF:-1,US| LIFE TIME  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29686.ts
+#EXTINF:-1,US| ABC News  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29634.ts
+#EXTINF:-1,(US) ESPN HD  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18407.ts
+#EXTINF:-1,US| TSN 3  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29653.ts
+#EXTINF:-1,US| Versus NBA HD  IPTVultra.com [640x368]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29708.ts
+#EXTINF:-1,US| TSN 1  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29646.ts
+#EXTINF:-1,US| Fox Sports 1  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29640.ts
+#EXTINF:-1,US| Discovery Science HD  IPTVultra.com [544x576]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29675.ts
+#EXTINF:-1,US| Nick  IPTVultra.com [720x576]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29716.ts
+#EXTINF:-1,US| RT America HD  IPTVultra.com [720x256]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29694.ts
+#EXTINF:-1,(US) HBO Signature  IPTVultra.com [1920x1088]
+http://193.70.45.41:8000/live/Nasser/Nasser/18418.ts
+#EXTINF:-1,US| HBO SIGNATURE  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29683.ts
+#EXTINF:-1,US| HALLMARK  IPTVultra.com [1920x1088]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29679.ts
+#EXTINF:-1,US| FOX  IPTVultra.com [544x576]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29677.ts
+#EXTINF:-1,US| TSN 5  IPTVultra.com [1280x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29654.ts
+#EXTINF:-1,US| WWE Network  IPTVultra.com [960x720]
+http://46.105.115.50:9100/live/BNft5PvGA0/6eD3KTAABD/29649.ts
+#EXTINF:-1,(US) CNN INTERNATIONAL  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18409.ts
+#EXTINF:-1,(US) HBO 1  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18419.ts
+#EXTINF:-1,(US) AMC HD  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18416.ts
+#EXTINF:-1,(US) HBO  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18420.ts
+#EXTINF:-1,(US) TSN 5 HD  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18402.ts
+#EXTINF:-1,(US) FOX Sport  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18413.ts
+#EXTINF:-1,(US) 5 USA  IPTVultra.com [720x576]
+http://193.70.45.41:8000/live/Nasser/Nasser/18408.ts
+#EXTINF:-1,(US) NFL  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18417.ts
+#EXTINF:-1,(US) SPORTS NET ONE HD  IPTVultra.com [1280x720]
+http://193.70.45.41:8000/live/Nasser/Nasser/18411.ts
+#EXTINF:-1,  ABC HD  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/exch/exch/1123.ts
+#EXTINF:-1,  ABC Spark  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/exch/exch/1122.ts
+#EXTINF:-1, AMC HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1120.ts
+#EXTINF:-1, Bravo HD  IPTVultra.com [640x480]
+http://173.212.194.126:8000/live/exch/exch/1114.ts
+#EXTINF:-1, CBN News  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1113.ts
+#EXTINF:-1,  CBS HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1095.ts
+#EXTINF:-1, CW HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1094.ts
+#EXTINF:-1,  Cinemax East  IPTVultra.com [960x544]
+http://173.212.194.126:8000/live/exch/exch/1111.ts
+#EXTINF:-1,  Fox Sport 2  IPTVultra.com [960x544]
+http://173.212.194.126:8000/live/exch/exch/1139.ts
+#EXTINF:-1,  ESPN 2  IPTVultra.com [960x544]
+http://173.212.194.126:8000/live/exch/exch/1118.ts
+#EXTINF:-1,  HBO Zone HD  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/exch/exch/1108.ts
+#EXTINF:-1,  ESPN HD  IPTVultra.com [960x720]
+http://173.212.194.126:8000/live/exch/exch/1136.ts
+#EXTINF:-1, HISTORY  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1133.ts
+#EXTINF:-1,  NBA Network  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1116.ts
+#EXTINF:-1,  FX HD USA  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1098.ts
+#EXTINF:-1,  DISCCOVERY  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1134.ts
+#EXTINF:-1, TSN 4  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1126.ts
+#EXTINF:-1, Network HD  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/exch/exch/1132.ts
+#EXTINF:-1, LIFETIME HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1117.ts
+#EXTINF:-1,  NFL Network  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1107.ts
+#EXTINF:-1, SPIKE HD  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/exch/exch/1131.ts
+#EXTINF:-1,  TSN 1  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1097.ts
+#EXTINF:-1, NAT GEOGRAPHIC  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1135.ts
+#EXTINF:-1,  SYFY HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/exch/exch/1130.ts
+#EXTINF:-1,  Fox Sport 1 HD  IPTVultra.com [960x544]
+http://173.212.194.126:8000/live/exch/exch/1138.ts
+#EXTINF:-1,  NBC SPORT  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1137.ts
+#EXTINF:-1, TNT HD  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/exch/exch/1128.ts
+#EXTINF:-1,  TBS HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/exch/exch/1129.ts
+#EXTINF:-1,  TSN 2  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1124.ts
+#EXTINF:-1,US | BeIN Sports HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/exch/exch/1119.ts
+#EXTINF:-1, AMC HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/120.ts
+#EXTINF:-1,  WILLOW CRICKET HD  IPTVultra.com [704x400]
+http://173.212.194.126:8000/live/exch/exch/1102.ts
+#EXTINF:-1,USA  MelloTV  IPTVultra.com [1280x720]
+http://164.132.219.57:3838/live/ozihemsoX4/hxEfHkhAa832/98.ts
+#EXTINF:-1,USA | Bein USA  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4183.ts
+#EXTINF:-1,  TSN 5  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/1127.ts
+#EXTINF:-1, SPIKE HD  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/exch/exch/131.ts
+#EXTINF:-1,USA | Animal Planet  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4182.ts
+#EXTINF:-1,USA | ABC News  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4181.ts
+#EXTINF:-1,USA | Bloomberg  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4184.ts
+#EXTINF:-1,USA | CBS  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4197.ts
+#EXTINF:-1,USA | CBSN  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4202.ts
+#EXTINF:-1,USA | ESPN USA  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4187.ts
+#EXTINF:-1,USA | CNN  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4186.ts
+#EXTINF:-1,USA | Fox Sports 1  IPTVultra.com [960x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4188.ts
+#EXTINF:-1,USA | NBA TV  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4190.ts
+#EXTINF:-1,USA | NBC SN  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/mohamed/mohamed/4191.ts
+#EXTINF:-1,USA | NDTV  IPTVultra.com [640x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4199.ts
+#EXTINF:-1,USA | NFL  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4200.ts
+#EXTINF:-1,USA | Space  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4204.ts
+#EXTINF:-1,USA | TSN 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4193.ts
+#EXTINF:-1,USA | TSN 3  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4194.ts
+#EXTINF:-1,USA | TSN 4  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4195.ts
+#EXTINF:-1,USA | TSN 5  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4196.ts
+#EXTINF:-1,USA VIP | 360 North  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4206.ts
+#EXTINF:-1,USA VIP | AFN Sports  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4230.ts
+#EXTINF:-1,USA VIP | A&E  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4207.ts
+#EXTINF:-1,USA VIP | AFN Sports 2  IPTVultra.com [720x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4231.ts
+#EXTINF:-1,USA VIP | AMC  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4209.ts
+#EXTINF:-1,USA VIP | Bein Sports  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4254.ts
+#EXTINF:-1,USA VIP | Bloomberg  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4225.ts
+#EXTINF:-1,USA | CNBC  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4185.ts
+#EXTINF:-1,USA VIP | BYU Sports TV  IPTVultra.com [400x224]
+http://217.182.138.85:7000/live/mohamed/mohamed/4246.ts
+#EXTINF:-1,USA VIP | Cartoon Network  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4261.ts
+#EXTINF:-1,USA VIP | Cinemax East  IPTVultra.com [864x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4244.ts
+#EXTINF:-1,USA | FOX Sports 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4189.ts
+#EXTINF:-1,USA VIP | CBS  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/mohamed/mohamed/4262.ts
+#EXTINF:-1,USA VIP | CBSN US  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4226.ts
+#EXTINF:-1,USA VIP | Cinemax 5 Starmax  IPTVultra.com [864x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4245.ts
+#EXTINF:-1,USA VIP | Cinemax Moremax  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4243.ts
+#EXTINF:-1,USA | TSN 1  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4192.ts
+#EXTINF:-1,USA | PAG  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4201.ts
+#EXTINF:-1,USA VIP | CW  IPTVultra.com [640x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4212.ts
+#EXTINF:-1,USA VIP | Crime and Investigation  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4266.ts
+#EXTINF:-1,USA VIP | CityTV Toronto  IPTVultra.com [640x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4210.ts
+#EXTINF:-1,USA VIP | CNN  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4239.ts
+#EXTINF:-1,USA | WWE  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/mohamed/mohamed/4198.ts
+#EXTINF:-1,USA VIP | ESPN  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4228.ts
+#EXTINF:-1,USA VIP | Discovery  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4238.ts
+#EXTINF:-1,USA VIP | Discovery Velocity  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4268.ts
+#EXTINF:-1,USA VIP | Fox Sports 1  IPTVultra.com [960x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4220.ts
+#EXTINF:-1,USA VIP | ESPN 2  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4229.ts
+#EXTINF:-1,USA VIP | FOX  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4219.ts
+#EXTINF:-1,USA VIP | Fox Sports 506  IPTVultra.com [720x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4222.ts
+#EXTINF:-1,USA VIP | FreeRom  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4217.ts
+#EXTINF:-1,USA VIP | Hallmark  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4259.ts
+#EXTINF:-1,USA VIP | HBO Signature  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4235.ts
+#EXTINF:-1,USA VIP | NASA  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4224.ts
+#EXTINF:-1,USA VIP | HBO Comedy  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4236.ts
+#EXTINF:-1,USA VIP | NBC Golf  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4214.ts
+#EXTINF:-1,USA VIP | Music  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4267.ts
+#EXTINF:-1,USA VIP | History  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4265.ts
+#EXTINF:-1,USA VIP | NBA Versus  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4251.ts
+#EXTINF:-1,USA VIP | NBC Sport  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4215.ts
+#EXTINF:-1,USA VIP | National Geographic  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4264.ts
+#EXTINF:-1,USA VIP | CNBC  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4211.ts
+#EXTINF:-1,USA VIP | NFL  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4240.ts
+#EXTINF:-1,USA VIP | NBA  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4250.ts
+#EXTINF:-1,USA VIP | Showtime  IPTVultra.com [720x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4232.ts
+#EXTINF:-1,USA VIP | Discovery Science  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4260.ts
+#EXTINF:-1,USA VIP | Sports Net 360  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4242.ts
+#EXTINF:-1,USA VIP | Sports Net One  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4241.ts
+#EXTINF:-1,USA VIP | Food Network  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/mohamed/mohamed/4218.ts
+#EXTINF:-1,USA VIP | Starz East  IPTVultra.com [864x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4258.ts
+#EXTINF:-1,USA VIP | Starz Edge  IPTVultra.com [640x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4256.ts
+#EXTINF:-1,USA VIP | FX  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4223.ts
+#EXTINF:-1,USA VIP | Starz Encore  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4257.ts
+#EXTINF:-1,USA VIP | HBO  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4234.ts
+#EXTINF:-1,USA VIP | TBS  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4248.ts
+#EXTINF:-1,USA VIP | TLC  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4233.ts
+#EXTINF:-1,USA VIP | Travel Channel  IPTVultra.com [640x480]
+http://217.182.138.85:7000/live/mohamed/mohamed/4247.ts
+#EXTINF:-1,USA VIP | NBC  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4213.ts
+#EXTINF:-1,USA VIP | Fox Sports 2  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4221.ts
+#EXTINF:-1,USA VIP | Starz Cinema  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/mohamed/mohamed/4255.ts
+#EXTINF:-1,USA VIP | WWE Network  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/mohamed/mohamed/4237.ts
+#EXTINF:-1,USA VIP | E! Network  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/mohamed/mohamed/4216.ts
+#EXTINF:-1,USA VIP | RT Documentary  IPTVultra.com [432x240]
+http://217.182.138.85:7000/live/mohamed/mohamed/4249.ts
+#EXTINF:-1, ABC  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/mohamed/mohamed/5274.ts
+#EXTINF:-1, FXX HD  IPTVultra.com [1280x720]
+http://93.115.27.38:8000/live/11223344/11223344/6371.ts
+#EXTINF:-1, NBC HD Philadelphia  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1420.ts
+#EXTINF:-1, CBS HD New York  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5964.ts
+#EXTINF:-1, My9 HD New York  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6096.ts
+#EXTINF:-1, CBS HD Los Angeles  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5963.ts
+#EXTINF:-1, ABC HD New York  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5960.ts
+#EXTINF:-1, CBS HD San Franciso  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5962.ts
+#EXTINF:-1, NBC HD San Francisco  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5949.ts
+#EXTINF:-1, FOX HD San Francisco  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6097.ts
+#EXTINF:-1, NBC HD Los Angeles  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5950.ts
+#EXTINF:-1, FOX HD New York  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5951.ts
+#EXTINF:-1, MY20 HD D.C.  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5959.ts
+#EXTINF:-1, Channel 7 HD Miami  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5953.ts
+#EXTINF:-1, MY27 HD Dallas  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5956.ts
+#EXTINF:-1, NBC HD Boston  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/5947.ts
+#EXTINF:-1, My50 HD Chicago  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5955.ts
+#EXTINF:-1, NBC HD New York  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6095.ts
+#EXTINF:-1, CBS HD Milwaukee  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/5952.ts
+#EXTINF:-1, MY29 HD Minnesota  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5958.ts
+#EXTINF:-1, ABC HD Los Angeles  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5961.ts
+#EXTINF:-1, FOX HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2956.ts
+#EXTINF:-1, My13 LA HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5957.ts
+#EXTINF:-1, HBO 2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/2444.ts
+#EXTINF:-1, My20 Houston  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5948.ts
+#EXTINF:-1, HBO HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1464.ts
+#EXTINF:-1, Cinemax Moremax HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5870.ts
+#EXTINF:-1, EPIX HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5874.ts
+#EXTINF:-1, Cinemax HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1394.ts
+#EXTINF:-1, HBO Signature HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5880.ts
+#EXTINF:-1, EPIX2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5875.ts
+#EXTINF:-1, Starz Edge HD  IPTVultra.com [640x368]
+http://149.56.240.30:25461/live/gary1/gary1/1433.ts
+#EXTINF:-1, Cinemax Thrillermax HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3679.ts
+#EXTINF:-1, HBO Family HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1411.ts
+#EXTINF:-1, EPIX2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3670.ts
+#EXTINF:-1, Showtime Family Zone HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5884.ts
+#EXTINF:-1, HBO 2 Comedy  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/2437.ts
+#EXTINF:-1, Starz HD  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/1434.ts
+#EXTINF:-1, HBO Comedy HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5879.ts
+#EXTINF:-1, EPIX HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3671.ts
+#EXTINF:-1, Showtime 2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5883.ts
+#EXTINF:-1, HBO Zone HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1412.ts
+#EXTINF:-1, LMN HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1415.ts
+#EXTINF:-1, Disney Channel HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1456.ts
+#EXTINF:-1, Crime and Investigation HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1393.ts
+#EXTINF:-1, HBO Comedy HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/2443.ts
+#EXTINF:-1, Disney XD HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5724.ts
+#EXTINF:-1, HBO Signature HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3664.ts
+#EXTINF:-1, Nick Jr. HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1426.ts
+#EXTINF:-1, Disney Jr HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2427.ts
+#EXTINF:-1, Cartoon Network HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1391.ts
+#EXTINF:-1, Boomerang HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2425.ts
+#EXTINF:-1, Nickelodeon HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1425.ts
+#EXTINF:-1, Nicktoons HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1427.ts
+#EXTINF:-1, Starz Kids & Family HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/6852.ts
+#EXTINF:-1, AMC HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1448.ts
+#EXTINF:-1, A&E HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1378.ts
+#EXTINF:-1, American Heroes HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5893.ts
+#EXTINF:-1, Animal Planet HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1449.ts
+#EXTINF:-1, BET HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/6201.ts
+#EXTINF:-1, BBC America HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3683.ts
+#EXTINF:-1, Bravo HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1390.ts
+#EXTINF:-1, CMT HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5871.ts
+#EXTINF:-1, Cooking Channel HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3678.ts
+#EXTINF:-1, Discovery Science HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1455.ts
+#EXTINF:-1, Discovery Life HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5887.ts
+#EXTINF:-1, Comedy Central HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/2105.ts
+#EXTINF:-1, Discovery Family HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3676.ts
+#EXTINF:-1, IFC HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3663.ts
+#EXTINF:-1, Discovery HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/1454.ts
+#EXTINF:-1, Crime and Investigation HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5872.ts
+#EXTINF:-1, Lifetime HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1467.ts
+#EXTINF:-1, Hallmark HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1410.ts
+#EXTINF:-1, DIY HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3673.ts
+#EXTINF:-1, Nat Geo HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1377.ts
+#EXTINF:-1, Destination America HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5259.ts
+#EXTINF:-1, El Rey Network HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5873.ts
+#EXTINF:-1, SYFY HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/2948.ts
+#EXTINF:-1, NAT GEO WILD HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1469.ts
+#EXTINF:-1, POP HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5896.ts
+#EXTINF:-1, MTV Live HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1417.ts
+#EXTINF:-1, MTV HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3662.ts
+#EXTINF:-1, FX HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3668.ts
+#EXTINF:-1, FXX HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3667.ts
+#EXTINF:-1, FYI HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5876.ts
+#EXTINF:-1, Food Network HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1948.ts
+#EXTINF:-1, FreeForm HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1407.ts
+#EXTINF:-1, HSN  IPTVultra.com [640x368]
+http://149.56.240.30:25461/live/gary1/gary1/5429.ts
+#EXTINF:-1, HGTV HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5881.ts
+#EXTINF:-1, Hallmark Movies & Mysteries HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5878.ts
+#EXTINF:-1, TLC HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5892.ts
+#EXTINF:-1, ID HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1414.ts
+#EXTINF:-1, Mello TV  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2946.ts
+#EXTINF:-1, GSN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5877.ts
+#EXTINF:-1, TNT HD  IPTVultra.com [640x368]
+http://149.56.240.30:25461/live/gary1/gary1/2068.ts
+#EXTINF:-1, History Channel HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1466.ts
+#EXTINF:-1, LMN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5882.ts
+#EXTINF:-1, USA Network HD  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/2067.ts
+#EXTINF:-1, TBS HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/2106.ts
+#EXTINF:-1, OWN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3660.ts
+#EXTINF:-1, Universal HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5487.ts
+#EXTINF:-1, Travel Channel HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3655.ts
+#EXTINF:-1, Viceland  IPTVultra.com [528x480]
+http://149.56.240.30:25461/live/gary1/gary1/3734.ts
+#EXTINF:-1, TruTV HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1856.ts
+#EXTINF:-1, Spike HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1432.ts
+#EXTINF:-1, Turner Classic Movies HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5894.ts
+#EXTINF:-1, VELOCITY HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1475.ts
+#EXTINF:-1, WE HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3654.ts
+#EXTINF:-1, Sundance HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3656.ts
+#EXTINF:-1, VH1 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1476.ts
+#EXTINF:-1, TV Land HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1853.ts
+#EXTINF:-1, Buzzr  IPTVultra.com [544x240]
+http://149.56.240.30:25461/live/gary1/gary1/6006.ts
+#EXTINF:-1, Antenna TV  IPTVultra.com [704x240]
+http://149.56.240.30:25461/live/gary1/gary1/7373.ts
+#EXTINF:-1, Qubo  IPTVultra.com [544x240]
+http://149.56.240.30:25461/live/gary1/gary1/7380.ts
+#EXTINF:-1, CNN HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/1452.ts
+#EXTINF:-1, Get TV  IPTVultra.com [480x368]
+http://149.56.240.30:25461/live/gary1/gary1/7375.ts
+#EXTINF:-1, FXM Retro HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5888.ts
+#EXTINF:-1, MSNBC HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1468.ts
+#EXTINF:-1, GSN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3666.ts
+#EXTINF:-1, Fox News HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1406.ts
+#EXTINF:-1, Fox Business Network HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1405.ts
+#EXTINF:-1, BBC World News HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6069.ts
+#EXTINF:-1, ABC NEWS HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1380.ts
+#EXTINF:-1, NECN HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6068.ts
+#EXTINF:-1, Al Jazeera English  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/2944.ts
+#EXTINF:-1, Newsmax TV  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2947.ts
+#EXTINF:-1, CBS NEWS  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/2938.ts
+#EXTINF:-1, Bloomberg HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1389.ts
+#EXTINF:-1, C Span 1  IPTVultra.com [1024x576]
+http://149.56.240.30:25461/live/gary1/gary1/2939.ts
+#EXTINF:-1, Grit  IPTVultra.com [480x368]
+http://149.56.240.30:25461/live/gary1/gary1/7376.ts
+#EXTINF:-1, C Span 2  IPTVultra.com [1024x576]
+http://149.56.240.30:25461/live/gary1/gary1/2940.ts
+#EXTINF:-1, H&I  IPTVultra.com [544x240]
+http://149.56.240.30:25461/live/gary1/gary1/7377.ts
+#EXTINF:-1, HLN HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/1920.ts
+#EXTINF:-1, El Rey Network HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3672.ts
+#EXTINF:-1, C Span 3  IPTVultra.com [1024x576]
+http://149.56.240.30:25461/live/gary1/gary1/2941.ts
+#EXTINF:-1, AFRICA NEWS NETWORK  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5368.ts
+#EXTINF:-1, Well Go HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5890.ts
+#EXTINF:-1, This TV  IPTVultra.com [704x240]
+http://149.56.240.30:25461/live/gary1/gary1/7381.ts
+#EXTINF:-1, NBC EXTRA TIME HD 6 ( MATCH TIME )  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3549.ts
+#EXTINF:-1, PRESS TV  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5365.ts
+#EXTINF:-1, Cozi  IPTVultra.com [704x240]
+http://149.56.240.30:25461/live/gary1/gary1/7372.ts
+#EXTINF:-1, NBC EXTRA TIME HD5 ( MATCH TIME )  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3544.ts
+#EXTINF:-1, NBC EXTRA TIME HD4 ( MATCH TIME )  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/3545.ts
+#EXTINF:-1, NBC EXTRA TIME HD3 ( MATCH TIME )  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3546.ts
+#EXTINF:-1, NBC EXTRA TIME HD 7 ( MATCH TIME )  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3548.ts
+#EXTINF:-1, NBC EXTRA TIME HD ( MATCH TIME )  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/3550.ts
+#EXTINF:-1, ION Life  IPTVultra.com [528x240]
+http://149.56.240.30:25461/live/gary1/gary1/7378.ts
+#EXTINF:-1, Cinemax Moremax HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3680.ts
+#EXTINF:-1, ESPN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1401.ts
+#EXTINF:-1, ESPN 2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1403.ts
+#EXTINF:-1, ESPN News HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1402.ts
+#EXTINF:-1, Fox Sports 2 HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5506.ts
+#EXTINF:-1, Fox Sports Arizona HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5944.ts
+#EXTINF:-1, Fox Sports Carolina HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6039.ts
+#EXTINF:-1, Fox Sports Cincinnati HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6027.ts
+#EXTINF:-1, Fox Sports College Central HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5939.ts
+#EXTINF:-1, Fox Sports Detroit HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6037.ts
+#EXTINF:-1, Fox Sports Florida HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5943.ts
+#EXTINF:-1, Fox Sports Floridia HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6012.ts
+#EXTINF:-1, Fox Sports HD HOU/TX/LA  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6014.ts
+#EXTINF:-1, Fox Sports Indiana arb HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6019.ts
+#EXTINF:-1, Fox Sports Inidana HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6008.ts
+#EXTINF:-1, Fox Sports Midwest HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6031.ts
+#EXTINF:-1, Fox Sports Net HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6028.ts
+#EXTINF:-1, Fox Sports North HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5942.ts
+#EXTINF:-1, Fox Sports Ohio HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6022.ts
+#EXTINF:-1, Fox Sports Ohio zl HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6017.ts
+#EXTINF:-1, ESPN 720p  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/7508.ts
+#EXTINF:-1, Fox Sports Ohio HD zlbj  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6020.ts
+#EXTINF:-1, Fox Sports SW Rangers HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6035.ts
+#EXTINF:-1, Fox Sports SW HD zlb  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6011.ts
+#EXTINF:-1, Fox Sports Prime Ticket HD Clippers  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6009.ts
+#EXTINF:-1, Fox Sports South Georgia HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6024.ts
+#EXTINF:-1, Fox Sports Southwest 2 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6018.ts
+#EXTINF:-1, Fox Sports Sand Diego HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6034.ts
+#EXTINF:-1, Fox Sports Southeast HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6038.ts
+#EXTINF:-1, Fox Sports SW Houston HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6036.ts
+#EXTINF:-1, Fox Sports Tennessee HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6032.ts
+#EXTINF:-1, Fox Sports Prime Ticket 1 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6030.ts
+#EXTINF:-1, Fox Sports Westf  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6015.ts
+#EXTINF:-1, Fox Sports Fl North HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6033.ts
+#EXTINF:-1, Fox Sports Yes Network HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6043.ts
+#EXTINF:-1, Fox SW Mavericks HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6041.ts
+#EXTINF:-1, Fox SW Dallas HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6042.ts
+#EXTINF:-1, Fox Sports HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6013.ts
+#EXTINF:-1, Fox College Sports Atlantic HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6010.ts
+#EXTINF:-1, Suns Sports Miami HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6007.ts
+#EXTINF:-1, Fox College Sports Pacific HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6021.ts
+#EXTINF:-1, Fox Plus HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6075.ts
+#EXTINF:-1, CSN California   HD  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/6045.ts
+#EXTINF:-1, CSN Chicago Plus 2 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6048.ts
+#EXTINF:-1, CSN Mid Atlantic HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6054.ts
+#EXTINF:-1, Fox Sports South HD  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/5941.ts
+#EXTINF:-1, CSN Northwest HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6052.ts
+#EXTINF:-1, ESPN U  IPTVultra.com [768x432]
+http://149.56.240.30:25461/live/gary1/gary1/3735.ts
+#EXTINF:-1, CSN New England HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6049.ts
+#EXTINF:-1, Fox Sports SE HPG HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6025.ts
+#EXTINF:-1, CSN Philly HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6050.ts
+#EXTINF:-1, MLB Network HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/1416.ts
+#EXTINF:-1, NFL Network HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1422.ts
+#EXTINF:-1, CMT HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5485.ts
+#EXTINF:-1, NFL NOW HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5311.ts
+#EXTINF:-1, Fox Sports Wisconsin HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6040.ts
+#EXTINF:-1, NHL Network HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1424.ts
+#EXTINF:-1, Longhorn Network HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5310.ts
+#EXTINF:-1, NBA TV HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1470.ts
+#EXTINF:-1, WWE HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3653.ts
+#EXTINF:-1, CSN Bay Area Plus HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6053.ts
+#EXTINF:-1, Fox Sports Ohio  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6016.ts
+#EXTINF:-1, Fox Sports 1 HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/5505.ts
+#EXTINF:-1, Fox Sports Southwest HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5940.ts
+#EXTINF:-1, NBC SN HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1421.ts
+#EXTINF:-1, Golf Channel HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1408.ts
+#EXTINF:-1, Sportsman HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5885.ts
+#EXTINF:-1, Sec Network HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1472.ts
+#EXTINF:-1, CBS Sports Network HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3681.ts
+#EXTINF:-1, BTN3 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6078.ts
+#EXTINF:-1, BTN4 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6079.ts
+#EXTINF:-1, PAC 12 Bay Area  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5256.ts
+#EXTINF:-1, PAC  National  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5258.ts
+#EXTINF:-1, PAC 12 Moutain  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5254.ts
+#EXTINF:-1, PAC 12 Los Angeles  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5255.ts
+#EXTINF:-1, PAC 12 Arizona  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5257.ts
+#EXTINF:-1, PAC 12 Washington  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5252.ts
+#EXTINF:-1, PAC 12 Oregon  IPTVultra.com [1920x1080]
+http://149.56.240.30:25461/live/gary1/gary1/5253.ts
+#EXTINF:-1, Willow Cricket HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1445.ts
+#EXTINF:-1, Eleven Sports Network HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5886.ts
+#EXTINF:-1, NESN HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5458.ts
+#EXTINF:-1, Fox Sports WSAD HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6023.ts
+#EXTINF:-1, Bein Sports HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/1450.ts
+#EXTINF:-1, Tennis HD  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/1862.ts
+#EXTINF:-1, CSN Northwest Alternate HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6046.ts
+#EXTINF:-1, CSN California HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6051.ts
+#EXTINF:-1, Fox Sports Sun HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/5945.ts
+#EXTINF:-1, CSN BayArea HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6044.ts
+#EXTINF:-1, Fox Sports Southeast Hornets HD  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/6026.ts
+#EXTINF:-1, CSN Chicago Plus HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6047.ts
+#EXTINF:-1, Showtime 2 HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/5436.ts
+#EXTINF:-1, Fight network  IPTVultra.com [960x544]
+http://149.56.240.30:25461/live/gary1/gary1/2958.ts
+#EXTINF:-1, BTN2 HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6077.ts
+#EXTINF:-1, Hallmark Movies & Mysteries HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3665.ts
+#EXTINF:-1, FOX 23 NEWS Tulsa OK  IPTVultra.com [640x368]
+http://149.56.240.30:25461/live/gary1/gary1/5362.ts
+#EXTINF:-1, FYI HD  IPTVultra.com [1920x1088]
+http://149.56.240.30:25461/live/gary1/gary1/3669.ts
+#EXTINF:-1, MLB Extra Innings 04 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6404.ts
+#EXTINF:-1, MLB Extra Innings 03 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6405.ts
+#EXTINF:-1, MLB Extra Innings 01 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6188.ts
+#EXTINF:-1, MLB Extra Innings 07 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6401.ts
+#EXTINF:-1, MLB Extra Innings 05 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6403.ts
+#EXTINF:-1, MLB Extra Innings 10 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6398.ts
+#EXTINF:-1, MLB Extra Innings 06 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6402.ts
+#EXTINF:-1, MLB Extra Innings 09 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6399.ts
+#EXTINF:-1, BTN HD  IPTVultra.com [960x720]
+http://149.56.240.30:25461/live/gary1/gary1/6076.ts
+#EXTINF:-1, MLB Extra Innings 08 HD (backup)  IPTVultra.com [1280x720]
+http://149.56.240.30:25461/live/gary1/gary1/6400.ts
