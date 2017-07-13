@@ -1,338 +1,102 @@
-#EXTINF:-1,(US) 5 USA
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18408.ts
-#EXTINF:-1,(US) ABC
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18425.ts
-#EXTINF:-1,(US) AMC HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18416.ts
-#EXTINF:-1,(US) BBC ONE
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18421.ts
-#EXTINF:-1,(US) CNBC
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18424.ts
-#EXTINF:-1,(US) CNN INTERNATIONAL
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18409.ts
-#EXTINF:-1,(US) HBO
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18420.ts
-#EXTINF:-1,(US) HBO 1
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18419.ts
-#EXTINF:-1,(US) HBO Signature
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18418.ts
-#EXTINF:-1,(US) Network
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18422.ts
-#EXTINF:-1,(US) Fox News
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18423.ts
-#EXTINF:-1,(US) DISCOVERY HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18410.ts
-#EXTINF:-1,(US) ESPN HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18407.ts
-#EXTINF:-1,(US) FOX Sport
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18413.ts
-#EXTINF:-1,(US) NBC HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18415.ts
-#EXTINF:-1,(US) NFL
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18417.ts
-#EXTINF:-1,(US) TSN 5 HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18402.ts
-#EXTINF:-1,(US) SPORTS NET ONE HD
-http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/18411.ts
-#EXTINF:-1,US|NBA
-http://topiptv.net:5890/live/osmany/osmany/1848.ts
-#EXTINF:-1,US|ABC
-http://topiptv.net:5890/live/osmany/osmany/1847.ts
-#EXTINF:-1,US|NFL
-http://topiptv.net:5890/live/osmany/osmany/1789.ts
-#EXTINF:-1,US|ESPN
-http://topiptv.net:5890/live/osmany/osmany/1791.ts
-#EXTINF:-1,US|TSN 1
-http://topiptv.net:5890/live/osmany/osmany/1765.ts
-#EXTINF:-1,US|TSN 2
-http://topiptv.net:5890/live/osmany/osmany/1764.ts
-#EXTINF:-1,US|TSN 3
-http://topiptv.net:5890/live/osmany/osmany/1763.ts
-#EXTINF:-1,US|TSN 4
-http://topiptv.net:5890/live/osmany/osmany/1762.ts
-#EXTINF:-1,US|TSN 5
-http://topiptv.net:5890/live/osmany/osmany/1761.ts
-#EXTINF:-1,US|FOX SPORT 1 HD
-http://topiptv.net:5890/live/osmany/osmany/1767.ts
-#EXTINF:-1,US|FOX SPORT 2 HD
-http://topiptv.net:5890/live/osmany/osmany/1766.ts
-#EXTINF:-1,US|ASTRO SPORT 1
-http://topiptv.net:5890/live/osmany/osmany/1769.ts
-#EXTINF:-1,US|ASTRO SPORT 2
-http://topiptv.net:5890/live/osmany/osmany/1770.ts
-#EXTINF:-1,US|ASTRO SPORT 3
-http://topiptv.net:5890/live/osmany/osmany/1768.ts
-#EXTINF:-1,US|ASTRO SPORT 4
-http://topiptv.net:5890/live/osmany/osmany/1790.ts
-#EXTINF:-1,US|ABC NEWS
-http://topiptv.net:5890/live/osmany/osmany/1760.ts
-#EXTINF:-1,US|NBC
-http://topiptv.net:5890/live/osmany/osmany/1846.ts
-#EXTINF:-1,US|WWE RAW HD
-http://topiptv.net:5890/live/osmany/osmany/1864.ts
-#EXTINF:-1,US|HBO Zone
-http://topiptv.net:5890/live/osmany/osmany/1861.ts
-#EXTINF:-1,US|HBO Signature
-http://topiptv.net:5890/live/osmany/osmany/1862.ts
-#EXTINF:-1,US|HBO HD
-http://topiptv.net:5890/live/osmany/osmany/1863.ts
-#EXTINF:-1,US|Hallmark
-http://topiptv.net:5890/live/osmany/osmany/1860.ts
-#EXTINF:-1,USA:TSN_1
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4773.ts
-#EXTINF:-1,USA:TSN_2
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4774.ts
-#EXTINF:-1,USA:TSN_3
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4775.ts
-#EXTINF:-1,USA:TSN_4
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4776.ts
-#EXTINF:-1,USA:TSN_5
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4777.ts
-#EXTINF:-1,USA:BeIN_Sports_US_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4785.ts
-#EXTINF:-1,USA:ESPN_1_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4798.ts
-#EXTINF:-1,USA:ESPN_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4778.ts
-#EXTINF:-1,USA:ABC_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4780.ts
-#EXTINF:-1,USA:ABC_NEWS_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4781.ts
-#EXTINF:-1,USA:AETV_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4782.ts
-#EXTINF:-1,USA:AMC_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4783.ts
-#EXTINF:-1,USA:ANIMAL_PLANET_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4784.ts
-#EXTINF:-1,USA:BRAVO_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4786.ts
-#EXTINF:-1,USA:C-SPAN_1_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4795.ts
-#EXTINF:-1,USA:C-SPAN_2_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4794.ts
-#EXTINF:-1,USA:C-SPAN_3_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4793.ts
-#EXTINF:-1,USA:CBS_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4787.ts
-#EXTINF:-1,USA:CNBC_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4789.ts
-#EXTINF:-1,USA:CNN_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4790.ts
-#EXTINF:-1,USA:CN_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4788.ts
-#EXTINF:-1,USA:CW_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4796.ts
-#EXTINF:-1,USA:DISCOVERY_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4797.ts
-#EXTINF:-1,USA:DIY_Network_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4791.ts
-#EXTINF:-1,USA:E!_ENTERTAINMENT-US
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4803.ts
-#EXTINF:-1,USA:FOX_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4779.ts
-#EXTINF:-1,USA:FOX_NEWS_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4799.ts
-#EXTINF:-1,USA:FX_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4800.ts
-#EXTINF:-1,USA:HISTORY_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4801.ts
-#EXTINF:-1,USA:LIFETIME_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4802.ts
-#EXTINF:-1,USA:NAT_GEO_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4804.ts
-#EXTINF:-1,USA:NBC_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4805.ts
-#EXTINF:-1,USA:NICK_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4806.ts
-#EXTINF:-1,USA:PBS_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4807.ts
-#EXTINF:-1,USA:RT_AMERICA
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4808.ts
-#EXTINF:-1,USA:Showtime_Next_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4809.ts
-#EXTINF:-1,USA:SHOWTIME_SHOWCASE
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4810.ts
-#EXTINF:-1,USA:SPIKE_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4811.ts
-#EXTINF:-1,USA:SYFY_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4812.ts
-#EXTINF:-1,USA:TBS_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4813.ts
-#EXTINF:-1,USA:TNT_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4814.ts
-#EXTINF:-1,USA:USA_NETWORK_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4815.ts
-#EXTINF:-1,USA:WWE_HD
-http://212.32.236.129:12580/live/Bryan-Monteiro/Monteiro-Bryan/4792.ts
-#EXTINF:-1,WWE US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16572.ts
-#EXTINF:-1,Fox Sports South US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13693.ts
-#EXTINF:-1,ActionMAX US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13682.ts
-#EXTINF:-1,Cinemax East US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13680.ts
-#EXTINF:-1,Ion US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13683.ts
-#EXTINF:-1,HBO HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13685.ts
-#EXTINF:-1,HGTV US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13835.ts
-#EXTINF:-1,NBCSN Golf Channel US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13687.ts
-#EXTINF:-1,MSNBC HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16841.ts
-#EXTINF:-1,NFL Network Now US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13690.ts
-#EXTINF:-1,NHL Network US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13688.ts
-#EXTINF:-1,Fox Sports West US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13692.ts
-#EXTINF:-1,Ion Life US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13671.ts
-#EXTINF:-1,Showtime US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13666.ts
-#EXTINF:-1,Heroes & Icons US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13668.ts
-#EXTINF:-1,Starz Cinema US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13676.ts
-#EXTINF:-1,Starz Edge US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13677.ts
-#EXTINF:-1,Family Jr. CAN
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13674.ts
-#EXTINF:-1,Starz West US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13678.ts
-#EXTINF:-1,Willow Cricket US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13689.ts
-#EXTINF:-1,A&E US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10350.ts
-#EXTINF:-1,ABC US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9026.ts
-#EXTINF:-1,AMC HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13104.ts
-#EXTINF:-1,Bravo US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10704.ts
-#EXTINF:-1,C-SPAN 1 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10701.ts
-#EXTINF:-1,C-SPAN 2 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10702.ts
-#EXTINF:-1,C-SPAN 3 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10703.ts
-#EXTINF:-1,Cartoon Network HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13103.ts
-#EXTINF:-1,CBS HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10347.ts
-#EXTINF:-1,CBS Reality US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10346.ts
-#EXTINF:-1,CNBC US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9028.ts
-#EXTINF:-1,CNN US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9029.ts
-#EXTINF:-1,Comedy Central US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13102.ts
-#EXTINF:-1,DIY Network HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13101.ts
-#EXTINF:-1,E! US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9021.ts
-#EXTINF:-1,ESPN 1 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9023.ts
-#EXTINF:-1,ESPN 2 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9022.ts
-#EXTINF:-1,FOX News US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13100.ts
-#EXTINF:-1,FOX Sports 1 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9031.ts
-#EXTINF:-1,FOX Sports 2 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9030.ts
-#EXTINF:-1,Qubo US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13099.ts
-#EXTINF:-1,FX HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13098.ts
-#EXTINF:-1,FXX HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13097.ts
-#EXTINF:-1,H2 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9019.ts
-#EXTINF:-1,Hallmark Channel US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9025.ts
-#EXTINF:-1,HBO Comedy US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9017.ts
-#EXTINF:-1,HBO Signature US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9016.ts
-#EXTINF:-1,Lifetime US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9078.ts
-#EXTINF:-1,Lifetime Movie Network US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13096.ts
-#EXTINF:-1,MLB Network US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10699.ts
-#EXTINF:-1,Get Tv US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10698.ts
-#EXTINF:-1,NBA TV US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9010.ts
-#EXTINF:-1,NBC US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9009.ts
-#EXTINF:-1,NBC Sports Network US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9008.ts
-#EXTINF:-1,NFL Network US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9077.ts
-#EXTINF:-1,Nick US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9012.ts
-#EXTINF:-1,Spike US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13107.ts
-#EXTINF:-1,Sportsnet 360 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10700.ts
-#EXTINF:-1,Sportsnet One US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10344.ts
-#EXTINF:-1,Sportsnet World US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10342.ts
-#EXTINF:-1,Sportsnet Ontario US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/10345.ts
-#EXTINF:-1,Syfy HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13095.ts
-#EXTINF:-1,TBS US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13106.ts
-#EXTINF:-1,TSN1 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9032.ts
-#EXTINF:-1,TSN2 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9033.ts
-#EXTINF:-1,TSN3 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9034.ts
-#EXTINF:-1,TSN4 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9035.ts
-#EXTINF:-1,TSN5 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9036.ts
-#EXTINF:-1,USA Network HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/13105.ts
-#EXTINF:-1,VH1 Classic US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12059.ts
-#EXTINF:-1,VH1 US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12058.ts
-#EXTINF:-1,Sport 1 HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/7325.ts
-#EXTINF:-1,Animal Planet HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12060.ts
-#EXTINF:-1,MTV Rocks US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12062.ts
-#EXTINF:-1,MTV Hits US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12063.ts
-#EXTINF:-1,MTV Dance US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/12064.ts
-#EXTINF:-1,Discovery Channel US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15717.ts
-#EXTINF:-1,FOX HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15716.ts
-#EXTINF:-1,History HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15712.ts
-#EXTINF:-1,National Geographic HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15714.ts
-#EXTINF:-1,PBS US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15715.ts
-#EXTINF:-1,FreeForm HD US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/14294.ts
-#EXTINF:-1,OWN US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16295.ts
-#EXTINF:-1,NASA LIVE US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/16585.ts
-#EXTINF:-1,TNT US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/15366.ts
-#EXTINF:-1,Fuel TV US
-http://clientportal.link:8080/live/5YJ0VM2pvG/sD1rjatimL/9484.ts
+#EXTINF:-1,USA VIP | CBS
+http://217.182.138.85:7000/live/john25/john25/4262.ts
+#EXTINF:-1,USA VIP | CBSN-US
+http://217.182.138.85:7000/live/john25/john25/4226.ts
+#EXTINF:-1,USA VIP | Cinemax 5 Starmax
+http://217.182.138.85:7000/live/john25/john25/4245.ts
+#EXTINF:-1,USA VIP | Cinemax East
+http://217.182.138.85:7000/live/john25/john25/4244.ts
+#EXTINF:-1,USA VIP | Cinemax Moremax
+http://217.182.138.85:7000/live/john25/john25/4243.ts
+#EXTINF:-1,USA VIP | CityTV Toronto
+http://217.182.138.85:7000/live/john25/john25/4210.ts
+#EXTINF:-1,USA VIP | CNBC
+http://217.182.138.85:7000/live/john25/john25/4211.ts
+#EXTINF:-1,USA VIP | CNN
+http://217.182.138.85:7000/live/john25/john25/4239.ts
+#EXTINF:-1,USA VIP | Crime and Investigation
+http://217.182.138.85:7000/live/john25/john25/4266.ts
+#EXTINF:-1,USA VIP | CW
+http://217.182.138.85:7000/live/john25/john25/4212.ts
+#EXTINF:-1,USA VIP | Discovery
+http://217.182.138.85:7000/live/john25/john25/4238.ts
+#EXTINF:-1,USA VIP | Discovery Science
+http://217.182.138.85:7000/live/john25/john25/4260.ts
+#EXTINF:-1,USA VIP | Discovery Velocity
+http://217.182.138.85:7000/live/john25/john25/4268.ts
+#EXTINF:-1,USA VIP | E! Network
+http://217.182.138.85:7000/live/john25/john25/4216.ts
+#EXTINF:-1,USA VIP | ESPN
+http://217.182.138.85:7000/live/john25/john25/4228.ts
+#EXTINF:-1,USA VIP | ESPN 2
+http://217.182.138.85:7000/live/john25/john25/4229.ts
+#EXTINF:-1,USA VIP | Food Network
+http://217.182.138.85:7000/live/john25/john25/4218.ts
+#EXTINF:-1,USA VIP | FOX
+http://217.182.138.85:7000/live/john25/john25/4219.ts
+#EXTINF:-1,USA VIP | Fox Sports 1
+http://217.182.138.85:7000/live/john25/john25/4220.ts
+#EXTINF:-1,USA VIP | Fox Sports 2
+http://217.182.138.85:7000/live/john25/john25/4221.ts
+#EXTINF:-1,USA VIP | Fox Sports 506
+http://217.182.138.85:7000/live/john25/john25/4222.ts
+#EXTINF:-1,USA VIP | FreeRom
+http://217.182.138.85:7000/live/john25/john25/4217.ts
+#EXTINF:-1,USA VIP | FX
+http://217.182.138.85:7000/live/john25/john25/4223.ts
+#EXTINF:-1,USA VIP | Hallmark
+http://217.182.138.85:7000/live/john25/john25/4259.ts
+#EXTINF:-1,USA VIP | HBO
+http://217.182.138.85:7000/live/john25/john25/4234.ts
+#EXTINF:-1,USA VIP | HBO Comedy
+http://217.182.138.85:7000/live/john25/john25/4236.ts
+#EXTINF:-1,USA VIP | HBO Signature
+http://217.182.138.85:7000/live/john25/john25/4235.ts
+#EXTINF:-1,USA VIP | History
+http://217.182.138.85:7000/live/john25/john25/4265.ts
+#EXTINF:-1,USA VIP | Music
+http://217.182.138.85:7000/live/john25/john25/4267.ts
+#EXTINF:-1,USA VIP | Mute TV
+http://217.182.138.85:7000/live/john25/john25/4252.ts
+#EXTINF:-1,USA VIP | NASA
+http://217.182.138.85:7000/live/john25/john25/4224.ts
+#EXTINF:-1,USA VIP | National Geographic
+http://217.182.138.85:7000/live/john25/john25/4264.ts
+#EXTINF:-1,USA VIP | NBA
+http://217.182.138.85:7000/live/john25/john25/4250.ts
+#EXTINF:-1,USA VIP | NBA Versus
+http://217.182.138.85:7000/live/john25/john25/4251.ts
+#EXTINF:-1,USA VIP | NBC
+http://217.182.138.85:7000/live/john25/john25/4213.ts
+#EXTINF:-1,USA VIP | NBC Golf
+http://217.182.138.85:7000/live/john25/john25/4214.ts
+#EXTINF:-1,USA VIP | NBC Sport
+http://217.182.138.85:7000/live/john25/john25/4215.ts
+#EXTINF:-1,USA VIP | NFL
+http://217.182.138.85:7000/live/john25/john25/4240.ts
+#EXTINF:-1,USA VIP | Poker Central
+http://217.182.138.85:7000/live/john25/john25/4227.ts
+#EXTINF:-1,USA VIP | RT Documentary
+http://217.182.138.85:7000/live/john25/john25/4249.ts
+#EXTINF:-1,USA VIP | Showtime
+http://217.182.138.85:7000/live/john25/john25/4232.ts
+#EXTINF:-1,USA VIP | Sports Net 360
+http://217.182.138.85:7000/live/john25/john25/4242.ts
+#EXTINF:-1,USA VIP | Sports Net One
+http://217.182.138.85:7000/live/john25/john25/4241.ts
+#EXTINF:-1,USA VIP | Starz Cinema
+http://217.182.138.85:7000/live/john25/john25/4255.ts
+#EXTINF:-1,USA VIP | Starz East
+http://217.182.138.85:7000/live/john25/john25/4258.ts
+#EXTINF:-1,USA VIP | Starz Edge
+http://217.182.138.85:7000/live/john25/john25/4256.ts
+#EXTINF:-1,USA VIP | Starz Encore
+http://217.182.138.85:7000/live/john25/john25/4257.ts
+#EXTINF:-1,USA VIP | TBS
+http://217.182.138.85:7000/live/john25/john25/4248.ts
+#EXTINF:-1,USA VIP | TLC
+http://217.182.138.85:7000/live/john25/john25/4233.ts
+#EXTINF:-1,USA VIP | Travel Channel
+http://217.182.138.85:7000/live/john25/john25/4247.ts
+#EXTINF:-1,USA VIP | WWE Network
+http://217.182.138.85:7000/live/john25/john25/4237.ts
