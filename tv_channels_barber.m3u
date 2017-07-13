@@ -4,90 +4,24 @@ https://hlsprx-4.herokuapp.com/hls/0d3f324b48b901d9e29458ea3c465480/1500003982/7
 https://hlsprx-1.herokuapp.com/hls/1198a78aef9cdb52928d7533959d6bfa/1500004494/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3138302e31352e39302f7032702f63333730646361353731613865396565623438313034323336383038666538642e6d3375383f73743d524a665379684e3045394256744e653369476b31537726653d31353030303138383934.m3u8
 #EXTINF:-1,USA VIP | CBS
 http://217.182.138.85:7000/live/john25/john25/4262.ts
-#EXTINF:-1,USA VIP | CBSN-US
-http://217.182.138.85:7000/live/john25/john25/4226.ts
-#EXTINF:-1,USA VIP | Cinemax 5 Starmax
-http://217.182.138.85:7000/live/john25/john25/4245.ts
-#EXTINF:-1,USA VIP | Cinemax East
-http://217.182.138.85:7000/live/john25/john25/4244.ts
-#EXTINF:-1,USA VIP | Cinemax Moremax
-http://217.182.138.85:7000/live/john25/john25/4243.ts
-#EXTINF:-1,USA VIP | CityTV Toronto
-http://217.182.138.85:7000/live/john25/john25/4210.ts
-#EXTINF:-1,USA VIP | CNBC
-http://217.182.138.85:7000/live/john25/john25/4211.ts
-#EXTINF:-1,USA VIP | CNN
-http://217.182.138.85:7000/live/john25/john25/4239.ts
-#EXTINF:-1,USA VIP | Crime and Investigation
-http://217.182.138.85:7000/live/john25/john25/4266.ts
-#EXTINF:-1,USA VIP | CW
-http://217.182.138.85:7000/live/john25/john25/4212.ts
-#EXTINF:-1,USA VIP | Discovery
-http://217.182.138.85:7000/live/john25/john25/4238.ts
-#EXTINF:-1,USA VIP | Discovery Science
-http://217.182.138.85:7000/live/john25/john25/4260.ts
-#EXTINF:-1,USA VIP | Discovery Velocity
-http://217.182.138.85:7000/live/john25/john25/4268.ts
-#EXTINF:-1,USA VIP | E! Network
-http://217.182.138.85:7000/live/john25/john25/4216.ts
-#EXTINF:-1,USA VIP | ESPN
-http://217.182.138.85:7000/live/john25/john25/4228.ts
-#EXTINF:-1,USA VIP | ESPN 2
-http://217.182.138.85:7000/live/john25/john25/4229.ts
-#EXTINF:-1,USA VIP | Food Network
-http://217.182.138.85:7000/live/john25/john25/4218.ts
-#EXTINF:-1,USA VIP | FOX
-http://217.182.138.85:7000/live/john25/john25/4219.ts
 #EXTINF:-1,USA VIP | Fox Sports 1
 http://217.182.138.85:7000/live/john25/john25/4220.ts
 #EXTINF:-1,USA VIP | Fox Sports 2
 http://217.182.138.85:7000/live/john25/john25/4221.ts
-#EXTINF:-1,USA VIP | Fox Sports 506
-http://217.182.138.85:7000/live/john25/john25/4222.ts
 #EXTINF:-1,USA VIP | FreeRom
 http://217.182.138.85:7000/live/john25/john25/4217.ts
 #EXTINF:-1,USA VIP | FX
 http://217.182.138.85:7000/live/john25/john25/4223.ts
-#EXTINF:-1,USA VIP | Hallmark
-http://217.182.138.85:7000/live/john25/john25/4259.ts
 #EXTINF:-1,USA VIP | HBO
 http://217.182.138.85:7000/live/john25/john25/4234.ts
 #EXTINF:-1,USA VIP | HBO Comedy
 http://217.182.138.85:7000/live/john25/john25/4236.ts
 #EXTINF:-1,USA VIP | HBO Signature
 http://217.182.138.85:7000/live/john25/john25/4235.ts
-#EXTINF:-1,USA VIP | History
-http://217.182.138.85:7000/live/john25/john25/4265.ts
-#EXTINF:-1,USA VIP | Music
-http://217.182.138.85:7000/live/john25/john25/4267.ts
-#EXTINF:-1,USA VIP | Mute TV
-http://217.182.138.85:7000/live/john25/john25/4252.ts
-#EXTINF:-1,USA VIP | NASA
-http://217.182.138.85:7000/live/john25/john25/4224.ts
-#EXTINF:-1,USA VIP | National Geographic
-http://217.182.138.85:7000/live/john25/john25/4264.ts
-#EXTINF:-1,USA VIP | NBA
-http://217.182.138.85:7000/live/john25/john25/4250.ts
-#EXTINF:-1,USA VIP | NBA Versus
-http://217.182.138.85:7000/live/john25/john25/4251.ts
 #EXTINF:-1,USA VIP | NBC
 http://217.182.138.85:7000/live/john25/john25/4213.ts
-#EXTINF:-1,USA VIP | NBC Golf
-http://217.182.138.85:7000/live/john25/john25/4214.ts
-#EXTINF:-1,USA VIP | NBC Sport
-http://217.182.138.85:7000/live/john25/john25/4215.ts
-#EXTINF:-1,USA VIP | NFL
-http://217.182.138.85:7000/live/john25/john25/4240.ts
-#EXTINF:-1,USA VIP | Poker Central
-http://217.182.138.85:7000/live/john25/john25/4227.ts
-#EXTINF:-1,USA VIP | RT Documentary
-http://217.182.138.85:7000/live/john25/john25/4249.ts
 #EXTINF:-1,USA VIP | Showtime
 http://217.182.138.85:7000/live/john25/john25/4232.ts
-#EXTINF:-1,USA VIP | Sports Net 360
-http://217.182.138.85:7000/live/john25/john25/4242.ts
-#EXTINF:-1,USA VIP | Sports Net One
-http://217.182.138.85:7000/live/john25/john25/4241.ts
 #EXTINF:-1,USA VIP | Starz Cinema
 http://217.182.138.85:7000/live/john25/john25/4255.ts
 #EXTINF:-1,USA VIP | Starz East
@@ -98,9 +32,3 @@ http://217.182.138.85:7000/live/john25/john25/4256.ts
 http://217.182.138.85:7000/live/john25/john25/4257.ts
 #EXTINF:-1,USA VIP | TBS
 http://217.182.138.85:7000/live/john25/john25/4248.ts
-#EXTINF:-1,USA VIP | TLC
-http://217.182.138.85:7000/live/john25/john25/4233.ts
-#EXTINF:-1,USA VIP | Travel Channel
-http://217.182.138.85:7000/live/john25/john25/4247.ts
-#EXTINF:-1,USA VIP | WWE Network
-http://217.182.138.85:7000/live/john25/john25/4237.ts
