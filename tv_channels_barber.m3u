@@ -12,12 +12,54 @@ https://hlsprx-4.herokuapp.com/hls/92f4cdc7e0417f209c79322514f0d2a4/1500005156/7
 https://hlsprx-3.herokuapp.com/hls/6ac530010c397347ed980bce2136aa4b/1500005195/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135342f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d792d4f626b634630576536535a31344146392d49636726653d31353030303139353935.m3u8
 #EXTINF:-1, Comedy Central
 https://hlsprx-1.herokuapp.com/hls/771813fdfff43eb039b2b5628aa67d48/1500005235/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135342f7032702f61383130376432653638333162646463316665386330356138303463613063312e6d3375383f73743d72776c79326f53424e6a534575787a456f795671496726653d31353030303139363335.m3u8
-#EXTINF:-1, Fox sports 2
-https://tinyurl.com/y7x7h87h
-#EXTINF:0,US: A&E
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1378.ts
 #EXTINF:0,US: ABC HD New York
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5960.ts
+#EXTINF:0,US: CBS HD New York
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5964.ts
+#EXTINF:0,US: NBC HD New York
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/6095.ts
+#EXTINF:0,US: CNN HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1452.ts
+#EXTINF:0,US: MSNBC HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1468.ts
+#EXTINF:0,US: Comedy Central HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2105.ts
+#EXTINF:0,US: Food Network HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1948.ts
+#EXTINF:0,US: Fox Sports 1 HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5505.ts
+#EXTINF:0,US: Fox Sports 2 HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5506.ts
+#EXTINF:0,US: FX HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3668.ts
+#EXTINF:0,US: FX Movie Channel
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5888.ts
+#EXTINF:0,US: FXX HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3667.ts
+#EXTINF:0,US: HBO 2 HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2444.ts
+#EXTINF:0,US: HBO Comedy HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5879.ts
+#EXTINF:0,US: HBO Family HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1411.ts
+#EXTINF:0,US: HBO HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1464.ts
+#EXTINF:0,US: HBO Signature HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/5880.ts
+#EXTINF:0,US: HBO Zone HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1412.ts
+#EXTINF:0,US: TBS HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2106.ts
+#EXTINF:0,US: USA Network HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/2067.ts
+#EXTINF:0,US: Travel Channel HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3655.ts
+#EXTINF:0,US: TruTV HD
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1856.ts
+#EXTINF:0,US: Viceland
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/3734.ts
+#EXTINF:0,US: A&E
+http://nitrotv.for-the.biz:25461/live/gary1/gary1/1378.ts
 #EXTINF:0,US: ABC HD Philadelphia
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3684.ts
 #EXTINF:0,US: AMC HD
@@ -26,8 +68,6 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/1448.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1449.ts
 #EXTINF:0,US: Cartoon Network HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1391.ts
-#EXTINF:0,US: CBS HD New York
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5964.ts
 #EXTINF:0,US: CBS HD Philadelphia
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3682.ts
 #EXTINF:0,US: Cinemax HD
@@ -38,10 +78,6 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/5870.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3679.ts
 #EXTINF:0,US: CMT HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5871.ts
-#EXTINF:0,US: CNN HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1452.ts
-#EXTINF:0,US: Comedy Central HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/2105.ts
 #EXTINF:0,US: Cooking Channel HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3678.ts
 #EXTINF:0,US: CW HD Philadelphia
@@ -80,38 +116,14 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/1402.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3735.ts
 #EXTINF:0,US: Fight network
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/2958.ts
-#EXTINF:0,US: Food Network HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1948.ts
 #EXTINF:0,US: FOX HD New York
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5951.ts
 #EXTINF:0,US: FOX HD Philadelphia
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/2956.ts
-#EXTINF:0,US: Fox Sports 1 HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5505.ts
-#EXTINF:0,US: Fox Sports 2 HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5506.ts
 #EXTINF:0,US: FreeForm HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1407.ts
 #EXTINF:0,US: Fusion HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/3666.ts
-#EXTINF:0,US: FX HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/3668.ts
-#EXTINF:0,US: FX Movie Channel
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5888.ts
-#EXTINF:0,US: FXX HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/3667.ts
-#EXTINF:0,US: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/2444.ts
-#EXTINF:0,US: HBO Comedy HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5879.ts
-#EXTINF:0,US: HBO Family HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1411.ts
-#EXTINF:0,US: HBO HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1464.ts
-#EXTINF:0,US: HBO Signature HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/5880.ts
-#EXTINF:0,US: HBO Zone HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1412.ts
 #EXTINF:0,US: History Channel HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1466.ts
 #EXTINF:0,US: Lifetime HD
@@ -120,8 +132,6 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/1467.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5882.ts
 #EXTINF:0,US: Movies
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/7379.ts
-#EXTINF:0,US: MSNBC HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1468.ts
 #EXTINF:0,US: Nat Geo HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1377.ts
 #EXTINF:0,US: NAT GEO WILD HD
@@ -130,8 +140,6 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/1469.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5947.ts
 #EXTINF:0,US: NBC HD Los Angeles
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/5950.ts
-#EXTINF:0,US: NBC HD New York
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/6095.ts
 #EXTINF:0,US: NBC HD Philadelphia
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1420.ts
 #EXTINF:0,US: Sec Network HD
@@ -148,13 +156,3 @@ http://nitrotv.for-the.biz:25461/live/gary1/gary1/1433.ts
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/1434.ts
 #EXTINF:0,US: Starz Kids & Family HD
 http://nitrotv.for-the.biz:25461/live/gary1/gary1/6852.ts
-#EXTINF:0,US: TBS HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/2106.ts
-#EXTINF:0,US: Travel Channel HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/3655.ts
-#EXTINF:0,US: TruTV HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/1856.ts
-#EXTINF:0,US: USA Network HD
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/2067.ts
-#EXTINF:0,US: Viceland
-http://nitrotv.for-the.biz:25461/live/gary1/gary1/3734.ts
