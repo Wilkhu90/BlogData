@@ -12,135 +12,64 @@ https://hlsprx-1.herokuapp.com/hls/1265bbe610f2489541e1424c1bb19af0/1500162342/7
 https://hlsprx-1.herokuapp.com/hls/2838c556c157971867d780bed75eb9f7/1500162335/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3138302e31352e38362f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d69782d6b35364f65445a6f7370384e5a68715146366726653d31353030313736373335.m3u8
 #EXTINF:-1, Comedy Central
 https://hlsprx-1.herokuapp.com/hls/773cd85c93a6a49cef3595a2e070dc9f/1500162350/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e37322f7032702f61383130376432653638333162646463316665386330356138303463613063312e6d3375383f73743d656f4576704b6775626f7830635f666445426f6e795126653d31353030313736373530.m3u8
-#EXTINF:-1,USA: AFN SPORTS HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/649.ts
-#EXTINF:-1,USA: Fox Sport 1
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/655.ts
-#EXTINF:-1,USA: Fox Sport 2
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/642.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/586.ts
-#EXTINF:-1,USA: FOX Sports 2
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/656.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/587.ts
-#EXTINF:-1,USA: FX
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/588.ts
-#EXTINF:-1,USA: FX HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/648.ts
-#EXTINF:-1,USA: HBO Comedy HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/644.ts
-#EXTINF:-1,USA: HBO US
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/591.ts
-#EXTINF:-1,USA: HBO Zone HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/592.ts
-#EXTINF:-1,USA: HISTORY HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/593.ts
-#EXTINF:-1,USA: Life OK USA
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/88.ts
-#EXTINF:-1,USA: MLB Network HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/598.ts
-#EXTINF:-1,USA: Nat Geo HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/600.ts
-#EXTINF:-1,USA: NBA Network
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/601.ts
-#EXTINF:-1,USA: NBC GOLF
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/603.ts
-#EXTINF:-1,USA: NBC HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/604.ts
-#EXTINF:-1,USA: NBC SPORT
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/605.ts
-#EXTINF:-1,USA: NFL Network HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/606.ts
-#EXTINF:-1,USA: NHL Network HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/607.ts
-#EXTINF:-1,USA: PAC 12  Washington HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/609.ts
-#EXTINF:-1,USA: ShowTime 2 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/611.ts
-#EXTINF:-1,USA: Showtime Extreme
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/612.ts
-#EXTINF:-1,USA: SPIKE HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/613.ts
-#EXTINF:-1,USA: Sport NET 1 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/614.ts
-#EXTINF:-1,USA: Sports Net 360 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/615.ts
-#EXTINF:-1,USA: Sports Net Ontario HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/617.ts
-#EXTINF:-1,USA: Sports Net World HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/618.ts
-#EXTINF:-1,USA: Star EastHD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/650.ts
-#EXTINF:-1,USA: Star Edge East US
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/651.ts
-#EXTINF:-1,USA: Star Plus USA
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/83.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/619.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/620.ts
-#EXTINF:-1,USA: SYFY
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/621.ts
-#EXTINF:-1,USA: SyFy HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/653.ts
-#EXTINF:-1,USA: TBS HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/622.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/623.ts
-#EXTINF:-1,USA: The Florida Channel
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/624.ts
-#EXTINF:-1,USA: TNT
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/625.ts
-#EXTINF:-1,USA: TNT HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/652.ts
-#EXTINF:-1,USA: TSN 1 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/626.ts
-#EXTINF:-1,USA: TSN 2 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/627.ts
-#EXTINF:-1,USA: TSN 3 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/628.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/629.ts
-#EXTINF:-1,USA: TSN 5 HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/630.ts
-#EXTINF:-1,USA: WILLOW CRICKET HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/636.ts
-#EXTINF:-1,USA: WWE HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/996.ts
-#EXTINF:-1,usa:5 USA
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/568.ts
-#EXTINF:-1,usa:BYU-Sports_HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/569.ts
-#EXTINF:-1,usa:C-Span
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/570.ts
-#EXTINF:-1,usa:CNN News
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/571.ts
-#EXTINF:-1,usa:CW HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/572.ts
-#EXTINF:-1,usa:Discovery-Science-HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/575.ts
-#EXTINF:-1,usa:E!
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/576.ts
-#EXTINF:-1,usa:ESPN News HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/577.ts
-#EXTINF:-1,usa:ESPN-2-HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/578.ts
-#EXTINF:-1,usa:ESPN-HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/579.ts
-#EXTINF:-1,usa:FIX TV HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/581.ts
-#EXTINF:-1,usa:Food Network
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/582.ts
-#EXTINF:-1,usa:FOX HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/583.ts
-#EXTINF:-1,usa:FOX Sport 1
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/584.ts
-#EXTINF:-1,usa:HBO Comedy HD
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/590.ts
-#EXTINF:-1,usa:MUSIC RMC1
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/599.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_01
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/564.ts
-#EXTINF:-1,USA_ASTRO_SUPERSPORT_02
-http://ppviptv.ddns.net:8000/live/philjstephenson/email/565.ts
+#EXTM3U
+#EXTINF:0,A&E
+http://thepk.co:2095/live/denzuka/zukabumi13/267.ts
+#EXTINF:0,ABC
+http://thepk.co:2095/live/denzuka/zukabumi13/263.ts
+#EXTINF:0,CBS
+http://thepk.co:2095/live/denzuka/zukabumi13/266.ts
+#EXTINF:0,COMEDY CENTRAL
+http://thepk.co:2095/live/denzuka/zukabumi13/257.ts
+#EXTINF:0,NBC
+http://thepk.co:2095/live/denzuka/zukabumi13/248.ts
+#EXTINF:0,USA NETWORK
+http://thepk.co:2095/live/denzuka/zukabumi13/242.ts
+#EXTINF:0,FX
+http://thepk.co:2095/live/denzuka/zukabumi13/324.ts
+#EXTINF:0,FXX
+http://thepk.co:2095/live/denzuka/zukabumi13/323.ts
+#EXTINF:0,TBS
+http://thepk.co:2095/live/denzuka/zukabumi13/301.ts
+#EXTINF:0,HBO
+http://thepk.co:2095/live/denzuka/zukabumi13/317.ts
+#EXTINF:0,HBO 2
+http://thepk.co:2095/live/denzuka/zukabumi13/174.ts
+#EXTINF:0,HBO SIGNATURE
+http://thepk.co:2095/live/denzuka/zukabumi13/340.ts
+#EXTINF:0,HBO COMEDY
+http://thepk.co:2095/live/denzuka/zukabumi13/173.ts
+#EXTINF:0,HBO FAMILY
+http://thepk.co:2095/live/denzuka/zukabumi13/172.ts
+#EXTINF:0,HBO ZONE
+http://thepk.co:2095/live/denzuka/zukabumi13/321.ts
+#EXTINF:0,TRU TV
+http://thepk.co:2095/live/denzuka/zukabumi13/312.ts
+#EXTINF:0,FOOD NETWORK
+http://thepk.co:2095/live/denzuka/zukabumi13/195.ts
+#EXTINF:0,FOX SPORTS 1
+http://thepk.co:2095/live/denzuka/zukabumi13/188.ts
+#EXTINF:0,FOX SPORTS 2
+http://thepk.co:2095/live/denzuka/zukabumi13/187.ts
+#EXTINF:0,CNN
+http://thepk.co:2095/live/denzuka/zukabumi13/260.ts
+#EXTINF:0,MSNBC
+http://thepk.co:2095/live/denzuka/zukabumi13/337.ts
+#EXTINF:0,SHOWTIME 2
+http://thepk.co:2095/live/denzuka/zukabumi13/331.ts
+#EXTINF:0,SHOWTIME
+http://thepk.co:2095/live/denzuka/zukabumi13/332.ts
+#EXTINF:0,Starz Edge
+http://thepk.co:2095/live/denzuka/zukabumi13/558.ts
+#EXTINF:0,STARZ CINEMA
+http://thepk.co:2095/live/denzuka/zukabumi13/328.ts
+#EXTINF:0,STARZ EAST
+http://thepk.co:2095/live/denzuka/zukabumi13/329.ts
+#EXTINF:0,STARZ KIDZ & FAMILY
+http://thepk.co:2095/live/denzuka/zukabumi13/1132.ts
+#EXTINF:0,VICELAND.
+http://thepk.co:2095/live/denzuka/zukabumi13/477.ts
+#EXTINF:0,4K TV
+http://thepk.co:2095/live/denzuka/zukabumi13/481.ts
+#EXTINF:0,FREEFORM
+http://thepk.co:2095/live/denzuka/zukabumi13/320.ts
