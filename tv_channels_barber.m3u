@@ -15,16 +15,16 @@ https://hlsprx-4.herokuapp.com/hls/ec8399e340e8186a1846644f8c5ff675/1500245766/7
 #EXTINF:-1, HBO
 https://streaming.streamlive.to/live/qzbbu26gcvjxksz/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDE3IDI6MzU6NDggQU0maGFzaF92YWx1ZT0rZUtyY1Y0ei84NHF3ZVlYb3lBKzF3PT0mdmFsaWRtaW51dGVzPTEwMjAmc3RybV9sZW49MjA=
 #EXTINF:-1, ABC
-rtmp://192.168.1.4/live/movie2
+rtmp://192.168.1.4/live/movie2.flv
 #EXTINF:-1, NBC
-rtmp://192.168.1.4/live/movie68
+rtmp://192.168.1.4/live/movie68.flv
 #EXTINF:-1, CBS
-rtmp://192.168.1.4/live/movie25
+rtmp://192.168.1.4/live/movie25.flv
 #EXTINF:-1, FreeForm
-rtmp://192.168.1.4/live/movie52
+rtmp://192.168.1.4/live/movie52.flv
 #EXTINF:-1, FX
-rtmp://192.168.1.4/live/movie49
+rtmp://192.168.1.4/live/movie49.flv
 #EXTINF:-1, Comedy Central
-rtmp://192.168.1.4/live/movie30
+rtmp://192.168.1.4/live/movie30.flv
 #EXTINF:-1, USA
-rtmp://192.168.1.4/live/movie100
+rtmp://192.168.1.4/live/movie100.flv
