@@ -17,4 +17,4 @@ rtmp://192.168.1.4/live/movie30.flv
 #EXTINF:-1, USA
 rtmp://192.168.1.4/live/movie100.flv
 #EXTINF:-1, Random
-rtmp://192.168.1.4/live/movie
+rtmp://192.168.1.4/live/movie174.m3u8
