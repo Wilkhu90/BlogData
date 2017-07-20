@@ -16,7 +16,3 @@ rtmp://192.168.1.4/live/movie49.flv
 rtmp://192.168.1.4/live/movie30.flv
 #EXTINF:-1, USA
 rtmp://192.168.1.4/live/movie100.flv
-#EXTINF:-1, Fox Sports 2
-rtmp://192.168.1.4/live/moviefox-sports-2.flv
-#EXTINF:-1, ABC HD
-rtmp://192.168.1.4/live/movieabc-usa-hd.flv
