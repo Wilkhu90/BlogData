@@ -3,7 +3,7 @@ https://hlsprx-05.herokuapp.com/hls/a9a855c64ec9112f384e41c8483fab62/1500863563/
 #EXTINF:-1, HBO
 http://server.hdca.st:8081/live/ibtvhbo_9p6iyisu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE3IDk6NDM6MDMgUE0maGFzaF92YWx1ZT1oQ2w3cjF6aW50VTJ0WERGb1FpVWdRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1, HBO
-rtmp://192.168.1.4/live/movie
+rtmp://192.168.1.4/live/movie.flv
 #EXTINF:-1, ABC
 rtmp://192.168.1.4/live/movie2.flv
 #EXTINF:-1, NBC
