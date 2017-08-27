@@ -25,4 +25,4 @@ rtmp://192.168.1.4/live/movie30.flv
 #EXTINF:-1, USA
 rtmp://192.168.1.4/live/movie100.flv
 #EXTINF:-1, PPV
-http://66.175.209.239/cavscampeon/252448.m3u8?wmsAuthSign2=c2hvd3RpbWVwcHY=&token=c2VydmVyX3RpbWU9MTUwMzc5MDk4OCZoYXNoX3ZhbHVlPUpreEV3SDdWdDh1Wk8wOUY3UEtsSHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
+https://live65.vkuserlive.com/639903/live/-7T1yqFPcL1POI8S/playlist.m3u8
