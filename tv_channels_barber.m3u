@@ -1,5 +1,7 @@
 #EXTINF:-1, PPV
 https://live65.vkuserlive.com/639903/live/-7T1yqFPcL1POI8S/playlist.m3u8
+#EXTINF:-1, SEC Network
+http://demn-secespn.live.sonytv.edgesuite.net/PROD06/sony/DEMN_SECESPN/live/2017/08/28/8657255/4500K/4500_slide.m3u8
 #EXTINF:-1, ABC
 rtmp://192.168.1.4/live/movie2.flv
 #EXTINF:-1, NBC
