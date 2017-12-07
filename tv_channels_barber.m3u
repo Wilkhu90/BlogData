@@ -1,9 +1,7 @@
+#EXTINF:-1, SMZA
+https://wv105.jiocdn.us/hls/,pg47cyhmv7qeoikcw7j3za75i3fxueccgksqyd7yb72ltshe4idaysa2wana,.urlset/master.m3u8
 #EXTINF:-1, SEC
 http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master-3500.m3u8
-#EXTINF:-1, SS
-http://isriptv.com:25461/live/Fahmi/Fahmi/6046.ts
-#EXTINF:-1, SEC Network
-http://raycomhds-lh.akamaihd.net/hdslive_01_1200@136338?v=3.9.0.19&fp=WIN%2019,0,0,185&r=HUSVA&g=HEJXGINWSOZA
 #EXTINF:-1, ABC
 rtmp://192.168.1.4/live/movie2.flv
 #EXTINF:-1, NBC
