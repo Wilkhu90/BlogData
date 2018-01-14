@@ -1,8 +1,6 @@
-#EXTINF:-1, BV
-http://62.210.101.208/pp3bbsaliixo2q3gyizr5vxuss7b5y5kfgc4xwgufalm74fqpp3j56uoiztq/v.mp4
-#EXTINF:-1, SEC
-http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master-3500.m3u8
 #EXTINF:-1, CNN
 http://109.123.114.178:1935/Livenewson/Livenewson19/playlist.m3u8
 #EXTINF:-1, MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, SEC
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master-3500.m3u8
