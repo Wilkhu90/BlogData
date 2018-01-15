@@ -4,3 +4,5 @@ http://109.123.114.178:1935/Livenewson/Livenewson19/playlist.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1, SEC
 http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master-3500.m3u8
+#EXTINF:-1, mov
+https://s66.escdn.co/hls/jg6n4ex6irtu7m7cyyovmz2vy7iylspfwpez5dvj3,hiaebxfmo2xzhzdtmua,4aaebxfmo22fq77pl7q,.urlset/master.m3u8
