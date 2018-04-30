@@ -1,8 +1,5 @@
+EXTM3U
 #EXTINF:-1, CNN
-http://149.56.26.63:1935/livenewson/myStream/playlist.m3u8
+http://149.56.26.63:1935/livenewson/myStream//playlist.m3u8?secureendtime=1525296098&securehash=Zy8X4fembyXLXWRaBofC4bVCaUIW87mYCMklqocaZto=&securestarttime=1525116098
 #EXTINF:-1, MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1, SEC
-http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/master-3500.m3u8
-#EXTINF:-1, mov
-https://s66.escdn.co/hls/jg6n4ex6irtu7m7cyyovmz2vy7iylspfwpez5dvj3,hiaebxfmo2xzhzdtmua,4aaebxfmo22fq77pl7q,.urlset/master.m3u8
