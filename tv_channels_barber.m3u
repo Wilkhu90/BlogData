@@ -1,5 +1,5 @@
 EXTM3U
 #EXTINF:-1, CNN
-http://149.56.26.63:1935/livenewson/myStream//playlist.m3u8?secureendtime=1525300235&securehash=AKxRx2QGf34I3S7uCKxPmHKbDWsnlj2BE5MhouvBBr8=&securestarttime=1525120235
+http://149.56.26.63:1935/nawscnewon/myStream/playlist.m3u8
 #EXTINF:-1, MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
